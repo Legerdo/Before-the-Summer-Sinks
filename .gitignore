@@ -1,0 +1,19 @@
+# Dependencies / local environments
+node_modules/
+.venv*/
+
+# Generated build intermediates
+dist/
+build/
+art_work/
+music-20*/
+
+# Local/editor noise
+*.log
+.DS_Store
+Thumbs.db
+
+# Locally produced distribution archives are uploaded as GitHub Release assets.
+# The packaged application directory itself is intentionally tracked.
+/release/*.zip
+/release/*.sha256

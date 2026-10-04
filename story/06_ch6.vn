@@ -1,0 +1,171 @@
+// ======================================================================
+// 제6장 — 태풍의 밤
+// ======================================================================
+*ch6
+@textbox hide
+@chapter "06" "태풍의 밤" "대답 안 해도 돼"
+@bg storm_night fx=black t=2 light=storm
+@light storm
+@amb storm t=2
+@fx storm 0.9
+@bgm tension t=3 vol=0.8
+@date "8월 20일 (목) · 태풍"
+@textbox show
+태풍은 예보보다 세 시간 빨리 왔다.
+저녁 여덟 시, 바람이 창문을 두드리기 시작했다. 아홉 시, 빗줄기가 옆으로 날았다. 그리고 아홉 시 사십 분—
+@se power_down
+@light dark
+@bgm stop t=0.5
+전기가 나갔다.
+@se thunder_close
+@flash t=0.3
+어둠 속에서 휴대폰 화면만 파랗게 빛났다. 신호는 한 칸. 깜빡거리다 사라지기를 반복했다.
+@se phone_ring
+@se pickup
+@voicefx phone
+아버지<urgent, shouting over wind and static>: 한결아! 들리니? 한결아! #fa0020
+한결: 아빠! 여기 전기 나갔어!
+아버지<urgent, breathless>: 잘 들어. 상류에서 물이 너무 많이 들어와. 두 시간 뒤에 댐 수문을 열어야 한다. 방류하면 개울 수위가 확 올라가. #fa0021
+아버지<desperate>: 아랫말 어르신들이 아직 집에 계셔. 기지국은 이미 철거됐고, 집 전화도 끊겼어. 연락할 방법이 없어. #fa0022
+아버지<decisive>: 내가 지금 분교로 간다. 송신기 싣고. {w=0.3}라디오, 그 애가 나눠 준 라디오. 그게 지금 유일한 방법이야. #fa0023
+한결: 아빠, 그거 불법이라며—
+아버지<firm, fierce>: 벌은 내가 받는다! 너는 윤슬이한테— #fa0024
+@se static_burst
+@voicefx none
+뚝.
+통화가 끊겼다. 다시 걸어도 신호가 잡히지 않았다.
+나는 비옷도 입지 않고 문을 박차고 나갔다.
+
+// ------------------------------------------------------------ 분교로
+@bg storm_night fx=cross t=0.8 zoom=1.12
+@pan zoom=1.02 x=0 y=0 t=6
+@se footsteps_run
+@se thunder
+빗줄기가 얼굴을 때렸다. 바람에 몸이 휘청거렸다. 개울 쪽에서 들려오는 물소리가, 평소의 그 투명한 소리가 아니었다. 무언가를 삼키는 소리였다.
+윤슬의 할아버지 댁에 불은 꺼져 있었다. 마루에 녹음 테이프 상자도 없었다.
+어디 있을지는 알았다. 이런 밤에 그 애가 지키고 싶은 건 하나뿐이다.
+@scene school_night light=storm weather=storm:0.9
+@amb storm
+@se thunder_close
+@flash t=0.25
+분교 이 층 창문에서 손전등 불빛이 흔들렸다.
+@scene bcroom_storm light=dark t=0.8 weather=lightning:0.6
+@amb storm equipment
+@show yunseul casual_b surprised at=center
+윤슬(surprised)<shocked, soaked, breathless>: 철새?! 너 미쳤어? 이 날씨에— #ys0205
+한결: 너야말로! 봉인은?
+윤슬(pout)<defiant, shivering>: 뜯었어. 엄마 테이프 젖으면 안 되잖아. 창문 새는 데 있어서. #ys0206
+윤슬은 흠뻑 젖은 채로, 테이프 상자를 비닐로 싸고 있었다. 반창고가 떨어진 손가락에서 피가 조금 났다.
+한결: 윤슬아, 잘 들어. 아빠가 송신기 가지고 오고 있어. 두 시간 뒤에 댐 방류야. 아랫말 어르신들한테 알려야 돼.
+@expr yunseul serious
+윤슬(serious)<instantly focused>: …라디오. #ys0207
+한결: 응. 네가 빨간 점 찍어 준 라디오.
+윤슬의 눈빛이 바뀌었다. 떨던 손이 멈췄다.
+@se door_slide
+@se footsteps
+아버지<out of breath, commanding>: 한결아! #fa0025
+@show father default serious at=left
+@move yunseul at=right t=0.4
+아버지가 문간에 서 있었다. 온몸이 젖은 채였다. 발치에는 방금 내려놓은 송신기 상자와 자동차 배터리가, 손에는 비닐로 싼 분교 도면 한 통이 들려 있었다.
+아버지(serious)<urgent, calm under pressure>: 윤슬 학생이지? 송신기다. 배터리로 네 시간은 버틴다. #fa0026
+아버지<firm>: 전파법 위반은 내가 책임진다. 방송해 줘. 아랫말 사람들, 지금 이 방송밖에 못 들어. #fa0027
+윤슬(surprised)<stunned>: 아저씨… #ys0208
+윤슬(serious)<resolute>: …네. {w=0.2}맡겨 주세요. #ys0209
+아버지(serious): 문제는 안테나야. 공단이 철거해 버려서, 옥상 거치대에 다시 묶어야 한다. 바람이 이래서는— #fa0028
+한결: 내가 할게.
+아버지(sad)<torn>: 한결아. #fa0029
+한결: 아빠는 송신기 연결해. 그런 건 아빠가 더 잘하잖아. {w=0.3}사다리만 잡아 줘.
+아버지는 나를 한참 바라보았다. 그리고, 고개를 끄덕였다.
+
+// ------------------------------------------------------------ 옥상
+@hide father
+@hide yunseul
+@scene storm_night light=storm weather=storm:1
+@amb storm
+@bgm storm t=2
+@se thunder_close
+@flash t=0.3
+@shake amp=10 t=0.8
+옥상은 바람의 한가운데였다. 빗방울이 총알처럼 날아왔다.
+안테나 거치대는 옥상 끝에 있었다. 나는 안테나를 품에 안고 무릎으로 기었다. 난간 너머는 새카만 허공이었다.
+철사를 감았다. 손이 미끄러웠다. 한 번, 두 번. 바람이 안테나를 낚아채려 할 때마다 온몸으로 끌어안았다.
+주머니에서 휴대용 라디오를 꺼냈다. 이어폰 줄을 꽂았다. 그리고 귀에 꽂았다.
+@se radio_tune
+@sfxloop static t=0.3
+치지직—
+안 된다. 신호가 안 잡힌다. 철사를 한 바퀴 더 감고, 안테나 방향을 산 쪽으로 틀었다.
+@se static_burst
+@sfxloop off t=0.5
+@voicefx radio
+@cg cg_storm t=1.2
+윤슬<urgent but clear emergency broadcast, steady voice>: —들리세요? 여기는 소리실 심야방송, 88.3입니다. 아랫말 주민 여러분, 지금 바로 들어 주세요. #ys0210
+잡혔다.
+윤슬<emergency broadcast, calm and precise>: 두 시간 뒤, 댐에서 물을 내보냅니다. 개울 물이 크게 불어나요. 지금 바로 분교로 대피해 주세요. #ys0211
+윤슬<emergency broadcast, clear instructions>: 개울 옆 아랫길로 오시면 안 돼요. 정자나무 쪽 윗길로, 천천히, 손전등 챙기시고요. #ys0212
+윤슬<emergency broadcast, calling names with warmth>: 순자 할머니, 들리시죠? 미정 이모, 다온이 손 꼭 잡고 오세요. 용태 오빠, 최씨 할아버지 댁 좀 들러 주세요. #ys0213
+윤슬<emergency broadcast, pleading, voice shaking a little>: 최씨 할아버지. {w=0.3}약속하셨잖아요. 수문 닫는 날 제가 모시러 간다고. 오늘은 제가 못 가요. 그러니까, 할아버지가 와 주세요. 제발요. #ys0214
+빗속에서, 그 애의 목소리가 계곡 전체로 퍼져 나가는 것 같았다. 불이 꺼진 집들 속, 빨간 점이 찍힌 라디오들로.
+윤슬<emergency broadcast, repeating calmly>: 다시 한번 말씀드려요. 여기는 88.3. 아랫말 주민 여러분, 지금 바로 분교로 오세요. 불 켜 두고 기다릴게요. #ys0215
+@cg off t=0.8
+@se thunder_close
+@flash t=0.35
+@shake amp=14 t=0.9
+번개가 바로 옆 산등성이에 떨어졌다. 안테나가 휘청거렸다. 나는 온몸으로 그걸 끌어안았다.
+손이 저렸다. 발이 미끄러졌다. 무릎이 콘크리트에 쓸렸다. 그래도 놓지 않았다. 놓으면 그 목소리가 끊긴다.
+@voicefx radio
+윤슬<tense, breathless, suddenly personal>: …그리고, 한 사람 더. #ys0216
+윤슬<tense, breathless>: …들려? 여기는, 소리실 심야방송. 주파수 88.3. #ys0001
+윤슬: 지금 옥상에서 안테나 붙잡고 있는 철새. 전기도, 전화도 다 끊겼지만… 이 목소리는 아직 닿아. #ys0002
+윤슬<softly, holding back tears>: 대답 안 해도 돼. {w=0.4}그냥—{w=0.3}들어. #ys0003
+@voicefx none
+이어폰에서 그 애의 목소리가 흘러나왔다.
+이 년 동안 아무것도 틀지 않았던 이어폰이, 처음으로 무언가를 들려주고 있었다.
+@voicefx radio
+윤슬<gentle, trembling, intimate over the radio>: 네가 거기 있어서 이 방송이 닿는 거야. {w=0.3}그러니까, 조금만 더 버텨. 그리고 다치지 마. #ys0220
+@voicefx none
+대답 대신, 안테나를 조금 더 세게 끌어안았다.
+@bgm storm t=2 vol=0.7
+
+// ------------------------------------------------------------ 대피
+@scene bcroom_storm light=dark weather=lightning:0.5
+@amb storm equipment
+@bgm echo t=4 vol=0.7
+그로부터 한 시간 반.
+하나둘, 손전등 불빛이 분교 운동장으로 모여들었다.
+순자 할머니가 미정 이모의 부축을 받으며 들어왔다. 다온이는 빨간 점이 찍힌 라디오를 끌어안고 있었다.
+주민4<little girl, tearful but brave>: 언니 목소리 따라왔어요! 라디오에서 언니가 불 켜 두고 기다린다고 해서요! #vd0002
+그리고 마지막으로—
+@se door_slide
+주민2<young man, panting, relieved>: 윤슬아! 최씨 할아버지 모셔 왔다! 끝까지 안 나오신다고 버티시다가, 라디오에서 니 목소리 듣고서야 일어나시더라. #vb0001
+최씨<gruff old man, exhausted, embarrassed>: …약속은 약속이니께. {w=0.3}니가 그렇게 울먹이는디 워떻게 안 와. #ch0007
+아랫말에 남아 있던 열한 명. 전원이었다.
+@show yunseul casual_c cry at=center
+윤슬(cry)<crying with relief>: …다행이다. {w=0.3}다행이다아…. #ys0221
+그 애는 마이크를 켠 채로 울음을 터뜨렸다. 그 울음소리까지, 88.3을 타고 계곡에 퍼졌다.
+@expr yunseul laugh
+윤슬(laugh)<crying and laughing on air>: 아, 여러분 죄송해요. 방송 사고예요. {w=0.2}…오늘 밤은, 사고 좀 나도 되죠? #ys0222
+@se thunder
+멀리서, 수문이 열리는 소리가 들렸다. 계곡을 울리는 낮고 긴 소리였다. 그러나 이제 그 소리는, 아무도 삼키지 못했다.
+
+// ------------------------------------------------------------ 새벽
+@hide yunseul t=1
+@scene bcroom_day light=dawn tint=dawn
+@amb wind
+@fx off
+@bgm fireflies t=5 vol=0.7
+@date "8월 21일 (금) · 새벽"
+@cg cg_dawn t=3
+태풍이 지나간 새벽은 거짓말처럼 고요했다.
+방송실 바닥에 담요를 깔고 벽에 기대앉은 채로, 나는 깜빡 잠이 들었던 모양이다. 눈을 떴을 때, 어깨가 무거웠다.
+윤슬이었다. 헤드폰을 삐뚜름하게 쓴 채로, 내 어깨에 머리를 기대고 새근새근 자고 있었다.
+창밖으로 금빛 햇살이 비쳐 들어왔다. 빗물 자국이 남은 유리창 너머로, 소리실의 산들이 젖은 채 빛나고 있었다.
+움직이면 깰 것 같아서, 숨도 크게 쉬지 못했다. 그 애의 숨소리가 들렸다. 새벽의 참새 소리가 들렸다. 멀리서, 불어난 개울이 천천히 가라앉는 소리가 들렸다.
+전부 들렸다. 세상에서 제일 시끄럽고, 제일 좋은 소리였다.
+윤슬<sleepy murmur, barely awake>: …음… 철새…. #ys0223
+한결: 응.
+윤슬<half asleep, mumbling softly>: 대답했네…. {w=0.4}안 해도 된다니까…. #ys0224
+그 애는 그렇게 중얼거리고, 다시 잠들었다.
+그 순간 알았다. {w=0.3}나는 이 목소리를 두고 떠나고 싶지 않다.
+정 붙이지 않기. 일곱 번을 지킨 규칙이, 새벽 햇살 속에서 소리도 없이 무너졌다.
+@cg off t=2
+@jump ch7

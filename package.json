@@ -1,0 +1,26 @@
+{
+  "name": "summer-sinks",
+  "productName": "여름이 가라앉기 전에",
+  "version": "1.0.0",
+  "private": true,
+  "description": "여름이 가라앉기 전에 — Before the Summer Sinks. A Korean visual novel.",
+  "main": "electron/main.cjs",
+  "type": "module",
+  "scripts": {
+    "assets": "node tools/build_assets.mjs",
+    "story": "node tools/story/compile.mjs --strict-assets",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "dev": "npm run assets && npm run story && vite",
+    "build": "npm run assets && npm run story && npm run typecheck && vite build",
+    "build:qa": "npm run assets && npm run story && npm run typecheck && vite build --outDir build/web --emptyOutDir",
+    "preview": "vite preview --port 4173 --strictPort",
+    "app": "electron .",
+    "package": "npm run build && node tools/package.mjs"
+  },
+  "devDependencies": {
+    "@electron/packager": "20.3.0",
+    "electron": "44.5.1",
+    "typescript": "7.0.2",
+    "vite": "8.3.1"
+  }
+}

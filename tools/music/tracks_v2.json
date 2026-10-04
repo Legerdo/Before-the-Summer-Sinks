@@ -1,0 +1,38 @@
+[
+  {
+    "dir": "01b_title", "id": "title", "seed": 20263001, "instrumental": true,
+    "title": "Before the Summer Sinks (Main Theme, orchestral)",
+    "prompt": "Orchestral film soundtrack cue, purely instrumental with no singer, no voice, no choir, no humming. Nostalgic bittersweet summer main theme, 76 BPM. Lead melody played by solo piano, accompanied by fingerpicked nylon guitar, warm string ensemble and light glockenspiel. Gentle intro, emotional middle, calm resolution. Spacious hall reverb, cinematic anime soundtrack sound"
+  },
+  {
+    "dir": "03b_radio", "id": "radio", "seed": 20263102, "instrumental": true,
+    "title": "88.3MHz (instrumental lo-fi)",
+    "prompt": "Instrumental lo-fi hip hop beat with no vocals, no vocal samples, no rap, no singing. Late-night pirate radio atmosphere, 80 BPM, warm Rhodes electric piano playing the lead melody, soft dusty drums, mellow upright bass, subtle vinyl crackle and tape saturation, intimate cozy summer night, relaxing background music"
+  },
+  {
+    "dir": "04b_tape", "id": "tape", "seed": 20263203, "instrumental": true,
+    "title": "Voice on the Tape (solo piano)",
+    "prompt": "Solo piano instrumental piece with no vocals at all, no singing, no humming, no other instruments. Melancholic and tender, 64 BPM, slow expressive felt piano with soft sustain pedal and sparse left-hand chords, intimate close-miked piano recording, grief and fond memories, film soundtrack"
+  },
+  {
+    "dir": "09b_echo", "id": "echo", "seed": 20263304, "instrumental": true,
+    "title": "Echo (instrumental)",
+    "prompt": "Instrumental film soundtrack cue with no singer and no vocals. Warm hopeful acoustic piece for a reconciliation at sunset, 84 BPM, acoustic guitar and piano sharing the lead melody, soft cello countermelody, light brushed percussion joining later, heartfelt and healing, cinematic anime soundtrack"
+  },
+  {
+    "dir": "12b_lake", "id": "lake", "seed": 20263405, "instrumental": true,
+    "title": "Glitter on the Lake (orchestral)",
+    "prompt": "Instrumental orchestral film soundtrack cue, no vocals, no choir, no humming. Bright hopeful reprise of a nostalgic summer theme at a glittering lake four years later, 82 BPM, lead melody on solo piano with fingerpicked acoustic guitar, light strings and glockenspiel, uplifting but gentle, cinematic anime epilogue"
+  },
+  {
+    "dir": "13b_afterimage", "id": "afterimage", "seed": 20263506, "instrumental": true,
+    "title": "Reverberation (instrumental)",
+    "prompt": "Instrumental lo-fi piano piece with no vocals, no singing, no voice samples. Melancholic quiet city night, 72 BPM, soft felt piano melody through a warm tape filter, faint radio static texture, gentle muted drums, bittersweet longing, film soundtrack ending"
+  },
+  {
+    "dir": "14b_theme_song", "id": "theme_song", "seed": 20263607, "instrumental": false,
+    "title": "윤슬 (Ending Theme)",
+    "prompt": "Emotional Korean anime ending theme ballad, 78 BPM, clear gentle young female vocal singing only the provided Korean lyrics in Korean with the vocals continuing through every section, piano and acoustic guitar intro, soft band with bass and light drums, string section in the chorus, bittersweet summer nostalgia, heartfelt and hopeful, polished ballad production",
+    "lyrics": "[Verse]\n물에 잠길 여름을 녹음기에 담았어\n매미 소리 개울 소리 너의 웃음까지\n안녕이란 말 대신 주파수를 맞추면\n오늘 밤도 여기서 너를 부를게\n\n[Chorus]\n윤슬처럼 반짝이던 그 여름\n잘 가 대신 다녀와 라고 말할게\n물결 아래 잠든 우리의 마을도\n네 목소리로 다시 깨어날 거야\n\n[Outro]\n다녀와 그리고 어서 와"
+  }
+]

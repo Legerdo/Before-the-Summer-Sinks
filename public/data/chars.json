@@ -1,0 +1,919 @@
+{
+ "yunseul": {
+  "w": 1024,
+  "h": 1536,
+  "bodies": {
+   "uniform_a": "assets/chars/yunseul/body_uniform_a.webp",
+   "uniform_b": "assets/chars/yunseul/body_uniform_b.webp",
+   "uniform_c": "assets/chars/yunseul/body_uniform_c.webp",
+   "casual_a": "assets/chars/yunseul/body_casual_a.webp",
+   "casual_b": "assets/chars/yunseul/body_casual_b.webp",
+   "casual_c": "assets/chars/yunseul/body_casual_c.webp"
+  },
+  "faces": {
+   "neutral": {
+    "face": {
+     "src": "assets/chars/yunseul/face_neutral.webp",
+     "rect": [
+      355,
+      118,
+      277,
+      306
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/yunseul/eyes_neutral.webp",
+     "rect": [
+      369,
+      187,
+      248,
+      134
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/yunseul/mouth_neutral_1.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     },
+     {
+      "src": "assets/chars/yunseul/mouth_neutral_2.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     }
+    ]
+   },
+   "smile": {
+    "face": {
+     "src": "assets/chars/yunseul/face_smile.webp",
+     "rect": [
+      355,
+      118,
+      277,
+      306
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/yunseul/eyes_smile.webp",
+     "rect": [
+      369,
+      187,
+      248,
+      134
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/yunseul/mouth_smile_1.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     },
+     {
+      "src": "assets/chars/yunseul/mouth_smile_2.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     }
+    ]
+   },
+   "laugh": {
+    "face": {
+     "src": "assets/chars/yunseul/face_laugh.webp",
+     "rect": [
+      355,
+      118,
+      277,
+      306
+     ]
+    },
+    "eyes": null,
+    "mouth": [
+     {
+      "src": "assets/chars/yunseul/mouth_laugh_1.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     },
+     {
+      "src": "assets/chars/yunseul/mouth_laugh_2.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     }
+    ]
+   },
+   "gentle": {
+    "face": {
+     "src": "assets/chars/yunseul/face_gentle.webp",
+     "rect": [
+      355,
+      118,
+      277,
+      306
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/yunseul/eyes_gentle.webp",
+     "rect": [
+      369,
+      187,
+      248,
+      134
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/yunseul/mouth_gentle_1.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     },
+     {
+      "src": "assets/chars/yunseul/mouth_gentle_2.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     }
+    ]
+   },
+   "pout": {
+    "face": {
+     "src": "assets/chars/yunseul/face_pout.webp",
+     "rect": [
+      355,
+      118,
+      277,
+      306
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/yunseul/eyes_pout.webp",
+     "rect": [
+      369,
+      187,
+      248,
+      134
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/yunseul/mouth_pout_1.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     },
+     {
+      "src": "assets/chars/yunseul/mouth_pout_2.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     }
+    ]
+   },
+   "angry": {
+    "face": {
+     "src": "assets/chars/yunseul/face_angry.webp",
+     "rect": [
+      355,
+      118,
+      277,
+      306
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/yunseul/eyes_angry.webp",
+     "rect": [
+      369,
+      187,
+      248,
+      134
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/yunseul/mouth_angry_1.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     },
+     {
+      "src": "assets/chars/yunseul/mouth_angry_2.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     }
+    ]
+   },
+   "surprised": {
+    "face": {
+     "src": "assets/chars/yunseul/face_surprised.webp",
+     "rect": [
+      355,
+      118,
+      277,
+      306
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/yunseul/eyes_surprised.webp",
+     "rect": [
+      369,
+      187,
+      248,
+      134
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/yunseul/mouth_surprised_1.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     },
+     {
+      "src": "assets/chars/yunseul/mouth_surprised_2.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     }
+    ]
+   },
+   "embarrassed": {
+    "face": {
+     "src": "assets/chars/yunseul/face_embarrassed.webp",
+     "rect": [
+      355,
+      118,
+      277,
+      306
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/yunseul/eyes_embarrassed.webp",
+     "rect": [
+      369,
+      187,
+      248,
+      134
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/yunseul/mouth_embarrassed_1.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     },
+     {
+      "src": "assets/chars/yunseul/mouth_embarrassed_2.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     }
+    ]
+   },
+   "sad": {
+    "face": {
+     "src": "assets/chars/yunseul/face_sad.webp",
+     "rect": [
+      355,
+      118,
+      277,
+      306
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/yunseul/eyes_sad.webp",
+     "rect": [
+      369,
+      187,
+      248,
+      134
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/yunseul/mouth_sad_1.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     },
+     {
+      "src": "assets/chars/yunseul/mouth_sad_2.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     }
+    ]
+   },
+   "cry": {
+    "face": {
+     "src": "assets/chars/yunseul/face_cry.webp",
+     "rect": [
+      355,
+      118,
+      277,
+      306
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/yunseul/eyes_cry.webp",
+     "rect": [
+      369,
+      187,
+      248,
+      134
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/yunseul/mouth_cry_1.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     },
+     {
+      "src": "assets/chars/yunseul/mouth_cry_2.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     }
+    ]
+   },
+   "serious": {
+    "face": {
+     "src": "assets/chars/yunseul/face_serious.webp",
+     "rect": [
+      355,
+      118,
+      277,
+      306
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/yunseul/eyes_serious.webp",
+     "rect": [
+      369,
+      187,
+      248,
+      134
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/yunseul/mouth_serious_1.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     },
+     {
+      "src": "assets/chars/yunseul/mouth_serious_2.webp",
+      "rect": [
+       459,
+       297,
+       104,
+       84
+      ]
+     }
+    ]
+   }
+  },
+  "zones": {
+   "face": [
+    381,
+    144,
+    605,
+    397
+   ],
+   "eyes": [
+    384,
+    202,
+    601,
+    305
+   ],
+   "mouth": [
+    471,
+    310,
+    550,
+    367
+   ]
+  }
+ },
+ "bongsun": {
+  "w": 1024,
+  "h": 1536,
+  "bodies": {
+   "default": "assets/chars/bongsun/body_default.webp"
+  },
+  "faces": {
+   "neutral": {
+    "face": {
+     "src": "assets/chars/bongsun/face_neutral.webp",
+     "rect": [
+      300,
+      137,
+      336,
+      351
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/bongsun/eyes_neutral.webp",
+     "rect": [
+      333,
+      223,
+      269,
+      157
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/bongsun/mouth_neutral_1.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     },
+     {
+      "src": "assets/chars/bongsun/mouth_neutral_2.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     }
+    ]
+   },
+   "laugh": {
+    "face": {
+     "src": "assets/chars/bongsun/face_laugh.webp",
+     "rect": [
+      300,
+      137,
+      336,
+      351
+     ]
+    },
+    "eyes": null,
+    "mouth": [
+     {
+      "src": "assets/chars/bongsun/mouth_laugh_1.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     },
+     {
+      "src": "assets/chars/bongsun/mouth_laugh_2.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     }
+    ]
+   },
+   "sad": {
+    "face": {
+     "src": "assets/chars/bongsun/face_sad.webp",
+     "rect": [
+      300,
+      137,
+      336,
+      351
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/bongsun/eyes_sad.webp",
+     "rect": [
+      333,
+      223,
+      269,
+      157
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/bongsun/mouth_sad_1.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     },
+     {
+      "src": "assets/chars/bongsun/mouth_sad_2.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     }
+    ]
+   },
+   "surprised": {
+    "face": {
+     "src": "assets/chars/bongsun/face_surprised.webp",
+     "rect": [
+      300,
+      137,
+      336,
+      351
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/bongsun/eyes_surprised.webp",
+     "rect": [
+      333,
+      223,
+      269,
+      157
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/bongsun/mouth_surprised_1.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     },
+     {
+      "src": "assets/chars/bongsun/mouth_surprised_2.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     }
+    ]
+   },
+   "stern": {
+    "face": {
+     "src": "assets/chars/bongsun/face_stern.webp",
+     "rect": [
+      300,
+      137,
+      336,
+      351
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/bongsun/eyes_stern.webp",
+     "rect": [
+      333,
+      223,
+      269,
+      157
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/bongsun/mouth_stern_1.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     },
+     {
+      "src": "assets/chars/bongsun/mouth_stern_2.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     }
+    ]
+   },
+   "cry": {
+    "face": {
+     "src": "assets/chars/bongsun/face_cry.webp",
+     "rect": [
+      299,
+      137,
+      337,
+      351
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/bongsun/eyes_cry.webp",
+     "rect": [
+      333,
+      223,
+      269,
+      157
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/bongsun/mouth_cry_1.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     },
+     {
+      "src": "assets/chars/bongsun/mouth_cry_2.webp",
+      "rect": [
+       421,
+       333,
+       148,
+       141
+      ]
+     }
+    ]
+   }
+  },
+  "zones": {
+   "face": [
+    325,
+    163,
+    609,
+    461
+   ],
+   "eyes": [
+    348,
+    238,
+    586,
+    364
+   ],
+   "mouth": [
+    434,
+    346,
+    555,
+    460
+   ]
+  }
+ },
+ "father": {
+  "w": 1024,
+  "h": 1536,
+  "bodies": {
+   "default": "assets/chars/father/body_default.webp",
+   "casual": "assets/chars/father/body_casual.webp"
+  },
+  "faces": {
+   "neutral": {
+    "face": {
+     "src": "assets/chars/father/face_neutral.webp",
+     "rect": [
+      331,
+      92,
+      253,
+      322
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/father/eyes_neutral.webp",
+     "rect": [
+      355,
+      163,
+      202,
+      120
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/father/mouth_neutral_1.webp",
+      "rect": [
+       423,
+       264,
+       122,
+       98
+      ]
+     },
+     {
+      "src": "assets/chars/father/mouth_neutral_2.webp",
+      "rect": [
+       423,
+       264,
+       122,
+       98
+      ]
+     }
+    ]
+   },
+   "smile": {
+    "face": {
+     "src": "assets/chars/father/face_smile.webp",
+     "rect": [
+      331,
+      92,
+      253,
+      322
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/father/eyes_smile.webp",
+     "rect": [
+      355,
+      163,
+      202,
+      120
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/father/mouth_smile_1.webp",
+      "rect": [
+       423,
+       264,
+       122,
+       98
+      ]
+     },
+     {
+      "src": "assets/chars/father/mouth_smile_2.webp",
+      "rect": [
+       423,
+       264,
+       122,
+       98
+      ]
+     }
+    ]
+   },
+   "serious": {
+    "face": {
+     "src": "assets/chars/father/face_serious.webp",
+     "rect": [
+      332,
+      92,
+      252,
+      322
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/father/eyes_serious.webp",
+     "rect": [
+      355,
+      163,
+      202,
+      120
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/father/mouth_serious_1.webp",
+      "rect": [
+       423,
+       264,
+       122,
+       98
+      ]
+     },
+     {
+      "src": "assets/chars/father/mouth_serious_2.webp",
+      "rect": [
+       423,
+       264,
+       122,
+       98
+      ]
+     }
+    ]
+   },
+   "sad": {
+    "face": {
+     "src": "assets/chars/father/face_sad.webp",
+     "rect": [
+      332,
+      92,
+      252,
+      322
+     ]
+    },
+    "eyes": {
+     "src": "assets/chars/father/eyes_sad.webp",
+     "rect": [
+      355,
+      163,
+      202,
+      120
+     ]
+    },
+    "mouth": [
+     {
+      "src": "assets/chars/father/mouth_sad_1.webp",
+      "rect": [
+       423,
+       264,
+       122,
+       98
+      ]
+     },
+     {
+      "src": "assets/chars/father/mouth_sad_2.webp",
+      "rect": [
+       423,
+       264,
+       122,
+       98
+      ]
+     }
+    ]
+   }
+  },
+  "zones": {
+   "face": [
+    353,
+    117,
+    557,
+    388
+   ],
+   "eyes": [
+    370,
+    178,
+    541,
+    267
+   ],
+   "mouth": [
+    435,
+    277,
+    532,
+    348
+   ]
+  }
+ }
+}

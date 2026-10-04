@@ -1,0 +1,162 @@
+{
+ "title": {
+  "title": "여름이 가라앉기 전에",
+  "src": "audio/bgm/title.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 71.0,
+  "loopEnd": 199.68501,
+  "loop": true,
+  "similarity": 0.938,
+  "phase": 0.458,
+  "duration": 199.685
+ },
+ "village": {
+  "title": "소리실의 아침",
+  "src": "audio/bgm/village.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 0.0,
+  "loopEnd": 62.33735,
+  "loop": true,
+  "mode": "full",
+  "duration": 62.337
+ },
+ "radio": {
+  "title": "88.3MHz",
+  "src": "audio/bgm/radio.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 39.0,
+  "loopEnd": 157.58624,
+  "loop": true,
+  "similarity": 0.878,
+  "phase": 0.555,
+  "duration": 157.586
+ },
+ "tape": {
+  "title": "테이프 속의 목소리",
+  "src": "audio/bgm/tape.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 0.0,
+  "loopEnd": 165.36687,
+  "loop": true,
+  "mode": "full",
+  "duration": 165.367
+ },
+ "playful": {
+  "title": "철새와 조수",
+  "src": "audio/bgm/playful.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 7.0,
+  "loopEnd": 79.57451,
+  "loop": true,
+  "similarity": 0.64,
+  "phase": 0.68,
+  "duration": 79.575
+ },
+ "fireflies": {
+  "title": "반딧불 개울",
+  "src": "audio/bgm/fireflies.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 16.4,
+  "loopEnd": 124.73365,
+  "loop": true,
+  "similarity": 0.744,
+  "phase": 0.266,
+  "duration": 124.734
+ },
+ "tension": {
+  "title": "물이 차오른다",
+  "src": "audio/bgm/tension.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 27.6,
+  "loopEnd": 152.44331,
+  "loop": true,
+  "similarity": 0.62,
+  "phase": 0.607,
+  "duration": 152.443
+ },
+ "storm": {
+  "title": "태풍의 밤",
+  "src": "audio/bgm/storm.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 18.2,
+  "loopEnd": 159.17855,
+  "loop": true,
+  "similarity": 0.868,
+  "phase": 0.827,
+  "duration": 159.179
+ },
+ "echo": {
+  "title": "메아리",
+  "src": "audio/bgm/echo.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 30.0,
+  "loopEnd": 176.41354,
+  "loop": true,
+  "similarity": 0.699,
+  "phase": 0.533,
+  "duration": 176.414
+ },
+ "lastbroadcast": {
+  "title": "마지막 방송",
+  "src": "audio/bgm/lastbroadcast.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 0.0,
+  "loopEnd": 192.6441,
+  "loop": true,
+  "mode": "full",
+  "duration": 192.644
+ },
+ "silence": {
+  "title": "무음",
+  "src": "audio/bgm/silence.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 0.0,
+  "loopEnd": 82.13773,
+  "loop": true,
+  "mode": "full",
+  "duration": 82.138
+ },
+ "lake": {
+  "title": "호수의 윤슬",
+  "src": "audio/bgm/lake.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 51.8,
+  "loopEnd": 144.88946,
+  "loop": true,
+  "similarity": 0.764,
+  "phase": 0.792,
+  "duration": 144.889
+ },
+ "afterimage": {
+  "title": "잔향",
+  "src": "audio/bgm/afterimage.ogg",
+  "sr": 44100,
+  "lufs": -18.0,
+  "loopStart": 86.8,
+  "loopEnd": 206.90621,
+  "loop": true,
+  "similarity": 0.778,
+  "phase": 0.154,
+  "duration": 206.906
+ },
+ "theme_song": {
+  "title": "윤슬 (Ending Theme)",
+  "src": "audio/bgm/theme_song.ogg",
+  "sr": 48000,
+  "lufs": -16,
+  "loop": false,
+  "duration": 137.417
+ }
+}

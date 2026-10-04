@@ -1,0 +1,243 @@
+// ======================================================================
+// 제3장 — 늘어진 테이프
+// ======================================================================
+*ch3
+@textbox hide
+@chapter "03" "늘어진 테이프" "목소리는 테이프 속에 산다"
+@bg store_day fx=cross t=1.5 light=day
+@amb cicada
+@bgm village t=3 vol=0.7
+@date "7월 28일 (화) · 흐림"
+@textbox show
+조수 생활 닷새째. 나는 새벽 다섯 시에 눈이 떠지는 몸이 되어 있었다.
+그날 오후, 봉순상회 평상에는 낯선 종이 상자 하나가 놓여 있었다.
+@show bongsun default neutral at=left
+@show yunseul uniform_a neutral at=right
+할머니(neutral)<gentle, a little hesitant>: 왔냐. 이거 좀 봐 줄 텨? 우리 영감이 쓰던 거여. #bs0015
+상자 안에는 카세트테이프가 스무 개쯤 들어 있었다. 라벨마다 볼펜으로 날짜가 적혀 있었다. 『1998. 추석 앞』, 『2004. 운동회』, 『2011. 태풍 매미』.
+윤슬(surprised)<amazed>: 이거… 이장님 마을 방송 녹음한 거예요? 이걸 다? #ys0100
+할머니(laugh)<fond>: 그 양반이 극성이었지. 방송할 때마다 테이프를 떠 놨어. 나중에 손주들 들려준다고. #bs0016
+할머니(sad)<quietly>: 근디 손주들은 서울 가서 안 오고, 영감은 먼저 가고. #bs0017
+할머니가 상자 맨 아래에서 테이프 하나를 꺼냈다. 케이스가 깨져 있었고, 갈색 테이프가 국수처럼 삐져나와 엉켜 있었다.
+할머니(sad): 이게 제일 좋아하던 거여. 근디 작년에 틀다가 이렇게 씹혀 버렸어. 무서워서 다신 못 틀겄더라고. #bs0018
+할머니<pleading softly>: 이사 가기 전에… 한 번만 다시 들을 수 있을까 싶어서. 윤슬이 방송에서 말했잖여. #bs0019
+@expr yunseul serious
+윤슬(serious)<determined>: 들을 수 있게 해 드릴게요. 약속했잖아요. #ys0101
+윤슬은 그렇게 말해 놓고, 엉킨 테이프를 들여다보며 입술을 깨물었다. 자신 있는 표정은 아니었다.
+나는 테이프를 받아 들었다. 늘어나긴 했지만 끊어지진 않았다. 이 정도면—
+한결: …고칠 수 있을 것 같아요.
+@expr yunseul surprised
+윤슬(surprised): 네가? #ys0102
+한결: 아빠가 옛날에 자주 했어. 이사할 때마다 뭐가 하나씩 망가지거든.
+@expr bongsun laugh
+할머니(laugh)<delighted>: 아이구, 철새가 재주가 있네! #bs0020
+한결: …할머니도 철새라고 부르세요?
+할머니(laugh)<laughing>: 라디오에서 그렇게 부르던디? 온 동네가 다 그렇게 불러. #bs0021
+
+// ------------------------------------------------------------ 수리
+@scene bcroom_day light=day
+@amb equipment
+@fx dust 0.5
+@bgm tape t=3 vol=0.8
+방송실 책상에 신문지를 깔고, 드라이버와 연필과 셀로판테이프를 늘어놓았다.
+나사 다섯 개를 풀어 케이스를 열었다. 늘어난 부분을 손가락으로 조심스럽게 펴고, 연필을 톱니에 끼워 한 칸씩 감았다.
+@cg cg_tape_repair t=1.5
+윤슬<whispering, fascinated>: …우와. #ys0103
+윤슬이 턱을 괸 채 바로 옆에서 들여다보고 있었다. 너무 가까워서, 그 애의 머리카락 끝이 내 팔에 닿았다.
+한결: 숨 좀 쉬어. 테이프 날아가.
+윤슬<whispering, pouting>: 쉬고 있거든? 조용히 쉬는 중이야. #ys0104
+한결: 너 되게 시끄럽게 숨 쉬어.
+윤슬<annoyed whisper>: …그거 들리는 건 네 귀가 이상한 거야. #ys0105
+연필을 돌릴 때마다 테이프가 조금씩 케이스 안으로 빨려 들어갔다. 늘어나서 쭈글쭈글해진 부분은 손톱으로 살살 폈다.
+윤슬<quietly>: 너 손, 되게 조심스럽다. 그런 손으로 물건 다루는 사람 처음 봐. #ys0106
+한결: 망가진 거 고칠 때는 서두르면 안 돼. 더 망가지니까.
+윤슬<soft, a little wistful>: …그거, 사람한테도 그렇겠지. #ys0107
+대답 대신 마지막 한 바퀴를 감았다. 테이프가 팽팽해졌다.
+@cg off t=1
+@show yunseul uniform_c surprised at=center
+한결: 됐다. 한번 틀어 보자.
+윤슬(surprised)<excited>: 진짜? 벌써? #ys0108
+@se tape_insert
+@wait 0.6
+@se tape_play
+@bgm stop t=1
+@sfxloop tape_hiss t=0.3
+@voicefx tape
+이장<old man's village PA announcement, rustic Chungcheong accent>: 아아, 아아. 마이크 시험 중. {w=0.3}에, 소리실 주민 여러분께 알려 드립니다. #gp0001
+이장<village PA announcement, cheerful>: 내일은 분교 가을 운동회가 있사오니, 온 동네 어르신들께서는 돗자리 챙기시고 한 분도 빠짐없이 나와 주시기 바랍니다. #gp0002
+이장<village PA, cheeky whisper then loud>: 그리고… 에, 봉순아. 칼국수 남겨 놔. {w=0.3}이상, 이장이었습니다. #gp0003
+@voicefx none
+@expr yunseul laugh
+윤슬(laugh)<bursting into laughter>: 아하하하! 칼국수 남겨 놔래! 이걸 온 동네에 방송했어! #ys0109
+나도 웃음이 터졌다. 마을 전체가 들리는 확성기로, 아내한테 칼국수 남겨 놓으라고.
+윤슬(gentle)<laughing, then soft>: 할머니가 이거 제일 좋아하셨다는 거, 이제 알겠다. #ys0110
+테이프는 계속 돌아갔다. 운동회 안내, 태풍 대비 안내, 반상회 안내. 그리고 방송마다 끝은 똑같았다. 『봉순아, 칼국수 남겨 놔.』
+@expr yunseul smile
+윤슬(smile)<busy, happy>: 다른 것도 들어 보자. 상태 괜찮은지 확인해야 되니까. #ys0111
+윤슬은 상자에서 테이프를 하나씩 꺼내 넣었다. 그러다 라벨이 없는 테이프 하나가 손에 걸렸다.
+윤슬(neutral): 어, 이건 뭐지. 이름이 없네. #ys0112
+@se tape_stop
+@se tape_insert
+@wait 0.5
+@se tape_play
+@voicefx tape
+@expr yunseul surprised
+???=엄마<warm young woman's late-night radio DJ voice, gentle>: …여기는 소리실 심야방송, 88.3. 오늘은 특별한 손님이 와 있어요. 우리 딸 윤슬이가 처음으로— #mo0001
+@voicefx none
+@se tape_stop
+@sfxloop off t=0.2
+@bgm stop t=0.2
+딸깍.
+윤슬의 손가락이 정지 버튼 위에서 떨고 있었다.
+@expr yunseul surprised
+한결: …윤슬아?
+@expr yunseul cry
+윤슬(cry)<shaking, barely holding it together>: …미안. {w=0.4}잠깐만. #ys0113
+@hide yunseul t=0.3 to=right
+@se footsteps_run
+그 애는 테이프를 꺼내 쥐고, 뒤도 돌아보지 않고 방송실을 뛰쳐나갔다.
+책상 위에는 이장님의 테이프들과, 방금까지 윤슬이 앉아 있던 의자만 남았다.
+방금 그 목소리. 윤슬과 닮은, 하지만 훨씬 부드러운 목소리.
+『우리 딸 윤슬이가.』
+
+// ------------------------------------------------------------ 개울, 해 질 녘
+@scene stream_day light=evening tint=dusk
+@amb stream
+@bgm tape t=4 vol=0.7
+윤슬은 개울에 있었다. 처음 만났던 그 바위 그늘에, 무릎을 끌어안고.
+나는 징검돌을 조심스럽게 밟고 건너가, 두 걸음 떨어진 곳에 앉았다. 이번에는 돌이 기울지 않았다.
+@show yunseul uniform_c sad at=center
+윤슬(sad)<quiet, hoarse>: …안 물어봐? #ys0114
+한결: 말하고 싶으면 해. 아니면 그냥 물소리 녹음하는 셈 치고.
+@expr yunseul gentle
+윤슬은 조금 웃었다. 코끝이 빨갰다.
+윤슬(sad)<slowly, carefully>: 우리 엄마. {w=0.3}강여름. 분교 음악 선생님이었고, 88.3 원래 DJ. #ys0115
+윤슬: 오 년 전에 아팠어. 금방 괜찮아질 줄 알았는데, 안 괜찮아졌어. #ys0116
+윤슬(sad)<voice trembling slightly>: 그 방송실, 엄마 냄새가 나. 그래서 거기서 방송하는 거야. 엄마가 하던 것처럼. #ys0117
+윤슬: 엄마 테이프가 많거든. 방송 녹음한 거. 근데 하나는… 아직 한 번도 안 들었어. #ys0118
+윤슬은 주머니에서 테이프 하나를 꺼냈다. 방금 그 테이프가 아니었다. 라벨에 둥근 글씨가 적혀 있었다.
+『윤슬이가 소리실을 떠나는 날 들을 것.』
+한결: …이건.
+윤슬(cry)<tearful, whispering>: 엄마가 마지막에 녹음한 거야. 병원 가기 전에. #ys0119
+윤슬(cry)<crying softly>: 이거 들으면… 진짜로 끝날 것 같아서. 엄마가 진짜로 가 버릴 것 같아서. 그래서 오 년 동안 못 들었어. #ys0120
+물소리가 둘 사이를 채웠다. 나는 아무 말도 하지 않았다. 할 수 있는 말이 없었다.
+@expr yunseul sad
+윤슬(sad)<hollow, small laugh>: 웃기지. 나 있잖아, 「잘 가」라는 말을 한 번도 해 본 적이 없어. #ys0121
+윤슬(sad)<quiet confession>: 엄마한테도. 이사 가는 친구들한테도. 떠나는 사람 앞에서는 입이 안 떨어져. 그래서 맨날 숨어. #ys0122
+윤슬(sad): 이 동네 사람들, 요즘 하나둘씩 떠나잖아. 나 한 번도 배웅 못 했어. #ys0123
+그 애가 녹음기를 꼭 쥐었다. 반창고 붙은 손가락이 하얘졌다.
+윤슬(sad)<whispering>: 그래서 녹음하는 거야. 소리라도 남겨 두면, 안녕 안 해도 되니까. #ys0124
+한결: …나도 비슷해.
+윤슬(surprised)<softly surprised>: 응? #ys0125
+한결: 일곱 번 이사하면서, 한 번도 제대로 인사한 적 없어. 정 안 붙이면 인사할 일도 없으니까. 그래서 이어폰 꽂고 다닌 거야.
+윤슬(gentle)<a small watery smile>: …뭐야. 우리 둘 다 겁쟁이네. #ys0126
+한결: 그러게.
+@expr yunseul smile
+윤슬(smile)<wiping her eyes, forcing brightness>: 됐다. 울었더니 배고파. 그리고… 할머니 테이프, 오늘 밤에 틀자. 할머니 이사 가시기 전에. #ys0127
+
+// ------------------------------------------------------------ 할머니의 라디오
+@scene bcroom_night light=lamp
+@amb equipment
+@bgm stop
+@show yunseul casual_a gentle at=center
+@se switch
+윤슬(gentle)<smooth, warm late-night radio DJ voice>: 여기는 소리실 심야방송, 88.3. 오늘은 약속 하나 지키려고 해요. #ys0128
+윤슬<DJ voice, tender>: 봉순상회 할머니. 지금 듣고 계시죠? 할머니가 보내 주신 사연, 기억하세요? #ys0129
+윤슬<DJ voice, warm>: 철새 씨가 고쳐 줬어요. 이장님 목소리. #ys0130
+윤슬이 검지를 까딱했다. 나는 테이프 데크의 채널을 천천히 올렸다.
+@hide yunseul t=0.8
+@sfxloop tape_hiss t=0.5
+@cg cg_bongsun_radio t=2
+@bgm tape t=4 vol=0.6
+@voicefx tape
+이장<old man's village PA announcement, warm and rustic>: 아아, 마이크 시험 중. 에, 소리실 주민 여러분께 알려 드립니다. 오늘 저녁엔 비가 온다니께 고추 널어 두신 분들은 얼른 걷으셔유. #gp0004
+이장<village PA, cheeky and affectionate>: 그리고 봉순아. {w=0.3}칼국수 남겨 놔. #gp0005
+@voicefx none
+그 시각, 봉순상회에는 작은 라디오 하나가 켜져 있었을 것이다.
+할머니<crying and laughing at once, elderly woman>: …이 양반아. {w=0.4}칼국수는 무슨… 칼국수는… #bs0022
+할머니(cry)<sobbing softly, loving>: 남겨 놨어. 맨날 남겨 놨어. 오지도 않을 거면서. #bs0023
+나는 그 목소리를 듣지 못했다. 하지만 다음 날 할머니의 퉁퉁 부은 눈을 보고, 전부 들은 것 같은 기분이 들었다.
+@cg off t=2
+@sfxloop off t=1
+@show yunseul casual_c cry at=center
+윤슬(cry)<DJ voice cracking, tearful but warm>: …네. 들으셨어요? 할머니, 이장님 목소리 아직 여기 있어요. {w=0.3}사라지지 않았어요. #ys0131
+윤슬(gentle)<DJ voice, steadying>: 오늘의 소리는 쉰일곱 번째. 「봉순아, 칼국수 남겨 놔.」 {w=0.3}여기는 88.3이었습니다. #ys0132
+@se switch
+딸깍. 방송이 끝났다. 윤슬은 헤드폰을 벗고, 한참 동안 말이 없었다.
+윤슬(gentle)<quietly, not looking at him>: …고마워, 철새. #ys0133
+그 목소리는 마이크를 거치지 않았는데도, 이상하게 방송보다 선명하게 들렸다.
+
+// ------------------------------------------------------------ 할머니 이사
+@scene store_day light=day
+@amb cicada
+@bgm silence t=3
+@date "7월 31일 (금) · 맑음"
+사흘 뒤, 봉순상회 앞에 이삿짐 트럭이 섰다. 대전에 사는 아들이 할머니를 모시러 왔다.
+마을에 남은 어른들이 하나둘 모여들었다. 최씨 할아버지, 순자 할머니, 윗말 김씨 아저씨. 다들 말없이 짐을 날랐다.
+@show bongsun default neutral at=center
+할머니(neutral)<looking around>: …윤슬이는? #bs0024
+사람들 사이에 윤슬은 없었다. 아침에 방송실에서도 보지 못했다.
+『떠나는 사람 앞에서는 입이 안 떨어져. 그래서 맨날 숨어.』
+@choice c3
+= 윤슬이를 찾아서 데려온다. => *c3_bring ; aff += 1 ; brave = 1
+= 할머니께 대신 인사드린다. => *c3_proxy
+
+*c3_bring
+한결: 할머니, 잠깐만 기다려 주세요. {w=0.2}금방 올게요.
+@hide bongsun
+@scene tree_day light=day
+@amb cicada
+@se footsteps_run
+어디 있을지는 알 것 같았다. 소리실에서 제일 소리가 큰 곳. 자기 숨소리가 안 들리는 곳.
+정자나무 아래, 매미 소리 한가운데에 윤슬이 앉아 있었다. 헤드폰을 귀에 꼭 눌러쓴 채로.
+@show yunseul uniform_c sad at=center
+윤슬(sad)<startled, defensive>: …왜 왔어. #ys0134
+한결: 할머니 가셔.
+윤슬(cry)<shaking her head>: 알아. 그러니까 여기 있는 거잖아. 나 못 해. 할머니 얼굴 보면… 진짜로 가시는 거잖아. #ys0135
+한결: 가시는 거 맞아. 네가 숨어도 가셔.
+윤슬(angry)<hurt, snapping>: 그러니까—! #ys0136
+한결: 그러니까, 나중에 후회하는 건 너 혼자야. {w=0.3}…나처럼.
+윤슬의 입술이 떨렸다. 나는 손을 내밀었다. 그 애는 한참 동안 내 손을 노려보다가, 반창고 붙은 손으로 꽉 잡았다.
+@scene store_day light=day
+@amb cicada
+@bgm echo t=3 vol=0.8
+@show bongsun default surprised at=left
+@show yunseul uniform_c cry at=right
+할머니(surprised): 아이구, 윤슬아. #bs0025
+윤슬(cry)<choked up, trying to speak>: 할머니, 저… 저기, 잘— #ys0137
+윤슬은 거기서 멈췄다. 입만 벙긋거리고 소리가 나오지 않았다. 할머니가 윤슬의 손을 두 손으로 감쌌다.
+@expr bongsun laugh
+할머니(laugh)<gentle, wise, warm Chungcheong grandmother>: 잘 가, 그 말은 하지 말어. 소리실 사람들은 그렇게 인사 안 혀. #bs0026
+할머니<tender>: 다녀와. {w=0.3}그렇게 하는 거여. 다녀오면, 또 보는 거니께. #bs0027
+윤슬(cry)<crying, but saying it clearly>: …다녀오세요, 할머니. {w=0.4}다녀오세요. #ys0138
+할머니(cry)<crying with a smile>: 그려. 다녀올게. 우리 윤슬이, 밥 잘 챙겨 먹고. #bs0028
+트럭이 떠날 때까지, 윤슬은 한 번도 숨지 않았다. 대신 트럭이 모퉁이를 돌자마자 내 등에 이마를 기대고 엉엉 울었다.
+나는 가만히 서 있었다. 등이 뜨거웠다.
+@jump c3_after
+
+*c3_proxy
+한결: …윤슬이는, 인사하는 걸 잘 못 해요. 대신 제가 드릴게요.
+@expr bongsun sad
+할머니(sad)<understanding, gentle>: 알어. 그 애가 그렇지. 제 엄마 보낼 때도 그랬어. 장례식 내내 뒷산에 숨어 있었지. #bs0029
+할머니는 주머니에서 무언가를 꺼내 내 손에 쥐여 주었다. 꼬깃꼬깃 접힌 쪽지였다.
+할머니(laugh)<warm, wise, Chungcheong accent>: 이거 윤슬이 줘. 그리고 전해 줘. 잘 가, 그 말은 안 해도 된다고. 소리실 사람들은 그렇게 인사 안 혀. #bs0030
+할머니<tender>: 다녀와. {w=0.3}그렇게 하는 거여. 다녀오면 또 보는 거니께. #bs0031
+트럭이 떠났다. 나는 쪽지를 들고 정자나무로 갔다. 윤슬은 거기 있었다. 매미 소리 한가운데, 헤드폰을 쓴 채로.
+@scene tree_day light=day
+@amb cicada
+@bgm echo t=3 vol=0.8
+@show yunseul uniform_c cry at=center
+쪽지에는 떨리는 글씨로 한 줄이 적혀 있었다. 『다녀올게. 칼국수 남겨 놓을 테니 놀러 와라.』
+윤슬(cry)<crying, small voice>: …다녀오세요. {w=0.4}다녀오세요, 할머니. #ys0139
+이미 떠난 트럭을 향해, 그 애는 작게, 몇 번이고 중얼거렸다.
+@jump c3_after
+
+*c3_after
+@scene village_evening light=evening
+@amb cicada_far
+@show yunseul uniform_a gentle at=center
+윤슬(gentle)<hoarse from crying, but lighter>: 다녀와, 래. {w=0.3}잘 가 대신. #ys0140
+한결: 좋은 말이네.
+윤슬(smile)<a small real smile>: 응. {w=0.2}…그 말은, 나도 할 수 있을 것 같아. #ys0141
+그 애는 수첩을 꺼내 뭔가를 적었다. 『58. 다녀와 (봉순 할머니)』.
+@jump ch4

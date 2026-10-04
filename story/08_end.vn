@@ -1,0 +1,153 @@
+// ======================================================================
+// 엔딩
+// ======================================================================
+*true_end
+@textbox hide
+@bg busstop_day fx=black t=2.5 light=day
+@light day
+@amb cicada t=3
+@bgm echo t=4 vol=0.8
+@date "8월 24일 (월) · 맑음"
+@textbox show
+다음 날 아침, 정류장 앞 현수막은 누군가 떼어 가고 없었다.
+윤슬은 청주로 가는 첫차를, 나는 강원도로 가는 두 번째 차를 기다렸다. 짐은 둘 다 상자 네 개뿐이었다.
+@show yunseul uniform_a gentle at=center
+윤슬(gentle)<quiet, morning voice>: 매미 소리. 이것도 녹음할까. #ys0267
+한결: 백 개 다 채웠잖아.
+윤슬(smile)<playful>: 백한 번째부터는 보너스야. 끝이 없거든, 소리는. #ys0268
+@se bus_arrive
+@wait 2
+멀리서 버스가 모퉁이를 돌아 나왔다. 윤슬이 가방끈을 꽉 쥐었다. 손가락에 새 반창고가 붙어 있었다.
+@expr yunseul serious
+윤슬(serious)<taking a breath, brave>: 철새. #ys0269
+윤슬(gentle)<clear and warm, not hiding>: 다녀와. #ys0270
+숨지 않았다. 입도 떨리지 않았다. 그 애는 나를 똑바로 보고, 그 말을 했다.
+한결: …다녀올게. {w=0.3}너도, 다녀와.
+윤슬(smile)<bright, tearful smile>: 응. 다녀오겠습니다! #ys0271
+@hide yunseul t=1
+@se bus_leave
+버스 창문 너머로, 윤슬이 헤드폰을 흔들었다. 오렌지색이 점점 작아졌다.
+나는 이어폰을 꺼냈다. 그리고 그걸, 정류장 벤치에 두고 왔다.
+@bgm stop t=4
+@amb stop t=4
+@textbox hide
+@bg black fx=black t=3
+@wait 1
+@caption "4년 후" hold=2.6
+
+// ------------------------------------------------------------ 호수
+@bg lake_day fx=black t=3 zoom=1.06 light=day
+@pan zoom=1 x=0 y=0 t=18
+@amb lake wind t=3
+@fx glitter 0.8
+@bgm lake t=4
+@date "8월 24일 · 소리실 호수"
+@textbox show
+물은 정말로 사 년 만에 가득 찼다.
+그 사 년 동안, 우리는 편지만 주고받았다. 전화는 하지 않기로 했다. 목소리는 여기서, 물이 다 찬 날 다시 듣기로 약속했으니까.
+전망대 난간에 기대어 내려다본 호수는, 햇빛을 받아 셀 수 없이 많은 조각으로 반짝이고 있었다. 저 아래 어딘가에 분교가 있고, 정자나무가 있고, 개울이 있을 것이다.
+윤슬. 햇빛에 비치어 반짝이는 잔물결. 그 애의 이름이 무슨 뜻인지, 나는 이제 안다.
+그리고 메아리 바위는, 지금 저 물 밑에 있다.
+그래도 나는 두 손을 입가에 모았다. 스물한 살이 되어서도, 부를 곳은 여기밖에 없었다.
+?(echo == 1) 한결: 야호—!
+?(echo == 2) 한결: 거기, 누구 없어요—!
+?(echo == 3) 한결: 하윤슬— 바보—!
+@wait 2.2
+…대답은 돌아오지 않았다. 산이 너무 멀었다. 물이 소리를 삼켰다.
+당연한 일이었다. 대답해 줄 바위는, 이제 없으니까.
+나는 쓴웃음을 지으며 손을 내렸다. 그때였다.
+?(echo == 1) 윤슬<playful, warm, a little older, from behind>: …대답이 없네. {w=0.3}그럼 내가 해 줄게. 야호—! #ys0272
+?(echo == 2) 윤슬<gentle, a little older, from behind>: …있어. {w=0.3}여기 있잖아. 나. #ys0273
+?(echo == 3) 윤슬<indignant but laughing, a little older, from behind>: 누가 바보래?! 사 년 만에 한다는 말이 그거야? #ys0274
+@bgm theme_song t=3 vol=0.55
+@cg cg_true_end t=2.5
+돌아보니, 그 애가 서 있었다.
+머리가 조금 길어졌다. 얼굴이 조금 어른스러워졌다. 그래도 왼쪽의 가는 땋은 머리와 빨간 실, 목에 건 오렌지색 헤드폰은 그대로였다.
+윤슬<teasing, warm, fighting tears>: 늦었어, 철새. 삼 분. #ys0275
+한결: …새벽 다섯 시 아니잖아.
+윤슬<laughing, crying>: 사 년 늦었다는 거야, 바보. #ys0276
+윤슬<proud, gentle>: 나 청주에서 마을 라디오 해. 대학 방송국이랑 같이. 88.3은 아니지만. #ys0277
+한결: 알아. 가끔 들었어. 인터넷으로.
+윤슬<surprised, flustered>: …치사해! 나는 약속 지킨다고 네 목소리 한 번도 안 들었는데! #ys0278
+한결: 백 번째 테이프는 들었다며. 편지에 그렇게 썼잖아.
+윤슬<soft, emotional, embarrassed>: …그건 반칙 아니야. 녹음이잖아. {w=0.3}매일 밤 들었어. 네 목소리. #ys0279
+윤슬<tender, whispering>: 그거 들으면, 이상하게 잠이 잘 왔어. #ys0280
+바람이 불었다. 호수 위의 윤슬이 한꺼번에 반짝였다.
+윤슬<gentle, clear, the words she waited to say>: 어서 와. #ys0281
+한결: …다녀왔어.
+윤슬<laughing through tears, joyful>: 응. {w=0.3}어서 와, 철새. {w=0.4}…아니, 한결아. #ys0282
+그 애가 처음으로, 내 이름을 불렀다.
+소리실은 물 밑으로 가라앉았다. 여름은 끝났다. 그런데도 나는, 이 소리를 백한 번째 소리로 기억하기로 했다.
+@textbox hide
+@cg off t=3
+@wait 1
+@ending true "윤슬"
+@credits theme_song true
+@title
+
+*normal_end
+@textbox hide
+@bg busstop_day fx=black t=2.5 light=day
+@light day
+@amb cicada t=3
+@bgm silence t=4 vol=0.8
+@date "8월 24일 (월) · 맑음"
+@textbox show
+다음 날 아침, 정류장 앞 현수막은 누군가 떼어 가고 없었다.
+윤슬은 청주로 가는 첫차를 탔다. 버스가 오기 전까지 우리는 거의 말을 하지 않았다.
+@show yunseul uniform_a sad at=center
+윤슬(gentle)<polite, a little distant>: …그럼, 잘 지내. #ys0283
+한결: 응. 너도.
+@se bus_arrive
+@wait 2
+윤슬은 버스에 오르기 전에 한 번 뒤돌아봤다. 무슨 말을 하려는 것 같았다. 그러나 입술만 조금 움직이다 말았다.
+@hide yunseul t=1
+@se bus_leave
+버스가 모퉁이를 돌아 사라졌다. 매미 소리가 파도처럼 밀려왔다. 처음 이 동네에 도착하던 날과 똑같이.
+나는 이어폰을 꽂았다. 노이즈 캔슬링. {w=0.3}이번에도, 아무것도 틀지 않았다.
+@bgm stop t=4
+@amb stop t=4
+@textbox hide
+@bg black fx=black t=3
+@wait 1
+@caption "4년 후" hold=2.6
+
+// ------------------------------------------------------------ 도시의 밤
+@bg city_night fx=black t=3 light=night
+@light night
+@amb city t=3
+@bgm afterimage t=4 vol=0.7
+@textbox show
+강원도의 댐이 끝나고, 아버지는 현장 일을 그만두었다. 나는 서울의 대학에 들어갔다. 이사는 더 이상 하지 않는다.
+소리실 호수에 물이 다 찼다는 뉴스를, 지하철에서 봤다. 사 년이 걸린다던 아버지의 말은 정확했다.
+그날 밤, 나는 오랜만에 라디오를 켰다. 서랍 깊숙이 넣어 두었던, 은색 도장이 벗겨진 그 라디오.
+@se radio_tune
+@sfxloop static t=0.4
+주파수를 이리저리 돌리다가, 인터넷 공동체 라디오를 틀어 주는 채널에서 손이 멈췄다.
+@sfxloop off t=0.8
+@voicefx radio
+윤슬<smooth late-night radio DJ voice, a little older, calm>: …여기는 청주 마을 라디오, 심야방송입니다. 88.3은 아니지만요. #ys0284
+윤슬<DJ voice, gentle>: 오늘은 소리실 호수에 물이 다 찬 날이래요. 그래서 오래된 소리 하나 들려 드릴게요. #ys0285
+윤슬<DJ voice, quiet, wistful>: 제 소리 지도의 백 번째 소리예요. 누군지는… 비밀이에요. #ys0286
+@voicefx none
+@amb city rain t=4
+@cg cg_normal_end t=2.5
+스피커에서 사 년 전의 내 목소리가 흘러나왔다. 녹음기의 잡음 너머로, 열일곱 살의 내가 말하고 있었다.
+?(last == 1) 『…다녀와.』
+?(last == 2) 『…좋아해.』
+?(last == 3) 『…잘 가.』
+@voicefx radio
+윤슬<DJ voice, soft, a hint of longing>: …이 목소리 주인, 지금쯤 뭐 하고 있을까요. {w=0.3}대답은 안 해도 돼요. #ys0287
+윤슬<DJ voice, whispering, bittersweet>: 그냥, 들어 주세요. #ys0288
+@voicefx none
+나는 휴대폰을 들었다. 방송국 번호는 화면 아래에 떠 있었다. 번호를 누르고, 통화 버튼 위에서 손가락이 멈췄다.
+책상 위에는 빨간 실로 묶인 카세트테이프가 하나 놓여 있었다. 소리실을 떠나던 날, 우편함에 들어 있던 것. 라벨에는 둥근 글씨로 『100』이라고만 적혀 있었다.
+통화 버튼은 누르지 못했다.
+주파수는 맞췄다. {w=0.3}다만 나는, 이번에도 대답하지 못했다.
+창밖에 비가 내렸다. 라디오에서 그 애의 목소리가 잔향처럼 오래 남았다.
+@textbox hide
+@cg off t=3
+@wait 1
+@ending normal "잔향"
+@credits afterimage normal
+@title

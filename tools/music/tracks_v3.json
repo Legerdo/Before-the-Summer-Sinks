@@ -1,0 +1,14 @@
+[
+  {
+    "dir": "14c_theme_song", "id": "theme_song", "seed": 777001, "instrumental": false,
+    "title": "윤슬",
+    "prompt": "Korean pop ballad, emotional female vocal singing in Korean, gentle piano and acoustic guitar, warm strings in the chorus, soft drums, 78 BPM, bittersweet and hopeful, clear vocal diction",
+    "lyrics": "[Verse]\n물에 잠길 여름을 녹음기에 담았어\n매미 소리 개울 소리 너의 웃음까지\n안녕이란 말 대신 주파수를 맞추면\n오늘 밤도 여기서 너를 부를게\n\n[Chorus]\n윤슬처럼 반짝이던 그 여름\n잘 가 대신 다녀와 라고 말할게\n물결 아래 잠든 우리의 마을도\n네 목소리로 다시 깨어날 거야\n\n[Outro]\n다녀와 그리고 어서 와"
+  },
+  {
+    "dir": "14d_theme_song", "id": "theme_song", "seed": 777002, "instrumental": false,
+    "title": "윤슬",
+    "prompt": "Korean acoustic pop ballad, soft and clear young female vocal singing in Korean, fingerpicked acoustic guitar and piano, light strings, 80 BPM, nostalgic summer, heartfelt, clean mix with the vocal in front",
+    "lyrics": "[Verse]\n물에 잠길 여름을 녹음기에 담았어\n매미 소리 개울 소리 너의 웃음까지\n안녕이란 말 대신 주파수를 맞추면\n오늘 밤도 여기서 너를 부를게\n\n[Chorus]\n윤슬처럼 반짝이던 그 여름\n잘 가 대신 다녀와 라고 말할게\n물결 아래 잠든 우리의 마을도\n네 목소리로 다시 깨어날 거야"
+  }
+]

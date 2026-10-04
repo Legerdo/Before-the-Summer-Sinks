@@ -1,0 +1,200 @@
+// ======================================================================
+// 제7장 — 마지막 방송
+// ======================================================================
+*ch7
+@textbox hide
+@chapter "07" "마지막 방송" "소리실의 모든 소리에게"
+@bg ceremony_day fx=cross t=2 light=evening
+@light evening
+@amb cicada_far wind
+@bgm village t=3 vol=0.8
+@date "8월 23일 (일) · 맑음"
+@textbox show
+소리실에서의 마지막 날. 분교 운동장에서 「고향 기억식」이 열렸다.
+흰 천막 아래 접이식 의자가 놓였고, 게시판에는 주민들이 가져온 옛날 사진이 빼곡히 붙었다. 떠났던 사람들도 이날만은 돌아왔다.
+@show bongsun default laugh at=center from=bottom
+할머니(laugh)<joyful, loud, Chungcheong accent>: 윤슬아! 철새야! {w=0.2}다녀왔다! #bs0032
+@show yunseul uniform_a laugh at=right
+@move bongsun at=left t=0.5
+윤슬(laugh)<overjoyed>: 할머니! 다녀오셨어요! #ys0225
+윤슬이 할머니 품에 뛰어들었다. 할머니는 보자기 하나를 흔들어 보였다.
+할머니(laugh): 칼국수 끓여 왔다. 영감 몫까지 넉넉히. 이따 다 같이 먹자. #bs0033
+할머니(neutral)<proud, gentle>: 태풍 때 일, 대전에서 다 들었다. 우리 윤슬이가 아랫말 사람들 다 살렸다고. {w=0.3}장하다, 우리 강아지. #bs0034
+윤슬(embarrassed)<flustered>: 제가 한 거 아니에요. 철새가 안테나 잡고, 아저씨가 송신기 가져오고— #ys0226
+할머니(laugh)<teasing>: 그려, 그려. 그 철새가 우리 윤슬이 옆에 딱 붙어 있으니 든든허다. #bs0035
+윤슬(embarrassed)<very flustered>: 할머니! #ys0227
+@hide bongsun
+@hide yunseul
+그때 천막 쪽에서 헛기침 소리가 났다. 주민 설명회 때 그 공단 직원이었다. 뒤에는 아버지가 서 있었다.
+직원<formal official, clearing throat, slightly awkward but warm>: 에, 주민 여러분. 잠시 안내 말씀 드리겠습니다. #of0007
+직원<formal, reading, a hint of pride>: 지난 태풍 당시 불법— 에, 임시 재난 방송을 통해 아랫말 주민 열한 분이 전원 무사히 대피하신 것과 관련하여. #of0008
+직원<formal, then softening>: 전파관리소와 협의한 결과, 오늘 하루에 한해 88.3 메가헤르츠 임시 방송을 허가받았음을 알려 드립니다. #of0009
+직원<less formal, sincere>: …그리고 개인적으로, 그날 밤 방송 저도 들었습니다. 감사했습니다. #of0010
+운동장이 박수 소리로 가득 찼다. 최씨 할아버지가 제일 크게 쳤다.
+@show father default smile at=center
+아버지(smile)<gentle, a little shy>: 서류는 내가 좀 뛰어다녔다. {w=0.2}윤슬 학생한테 전해 줘. 마지막 방송, 잘 들을게. #fa0030
+한결: 직접 말해. 저기 있잖아.
+아버지(smile)<laughing softly>: …그러네. 너도 이제 그런 말을 하는구나. #fa0031
+@hide father
+
+// ------------------------------------------------------------ 마지막 방송
+@scene bcroom_night light=lamp
+@amb equipment night_far
+@bgm stop
+해가 지자, 운동장의 사람들이 하나둘 손에 든 등불을 켰다. 방송실 창문 아래로 작은 불빛들이 모였다.
+윤슬은 교복을 입고 있었다. 엄마가 처음 방송을 하던 날처럼, 이라고 했다.
+@show yunseul uniform_c serious at=center
+윤슬(serious)<nervous, quiet>: …떨린다. 첫 방송 때보다 더. #ys0228
+한결: 손가락 신호 잊지 마. 절반은 못 알아들으니까.
+윤슬(laugh)<a small nervous laugh>: 알거든? {w=0.3}…철새. #ys0229
+한결: 응.
+윤슬(gentle)<sincere, quiet>: 끝까지, 옆에 있어 줘. #ys0230
+대답 대신 페이더에 손을 얹었다. 윤슬이 헤드폰을 썼다. 그리고 검지를 들었다.
+셋, 둘—
+@se switch
+@hide yunseul t=0.5
+@cg cg_last_broadcast t=2
+@bgm lastbroadcast t=4 vol=0.75
+윤슬<smooth, warm late-night radio DJ voice, a little emotional>: 여기는 소리실 심야방송, 88.3. {w=0.3}오늘은, 마지막 방송입니다. #ys0231
+윤슬<DJ voice, warm>: 창밖에 불빛이 보여요. 다들 와 주셨네요. 떠나셨던 분들도, 아직 남아 계신 분들도. #ys0232
+윤슬<DJ voice, gentle>: 오늘은 제가 사십 일 동안 모은 소리실의 소리를 들려 드릴게요. 하나씩. 천천히. #ys0233
+그리고 소리들이 흘러나왔다.
+@amb stream t=1
+첫 번째, 새벽 닭. 열여덟 번째, 최씨 할아버지 경운기. 스물아홉 번째, 소나기 뒤 양철 지붕.
+@amb cicada t=1
+서른일곱 번째, 아랫말 개울. 쉰두 번째, 정자나무 아침 매미.
+@amb wind t=1
+@se school_bell
+쉰네 번째, 분교 종. 쉰여섯 번째, 메아리 바위 — 철새 버전.
+?(echo == 3) 스피커에서 『하윤슬 바보—!』가 울려 퍼지자, 창밖에서 웃음이 터졌다. 윤슬도 마이크 앞에서 어깨를 들썩였다.
+?(echo != 3) 스피커에서 내 목소리와 산의 대답이 울려 퍼지자, 창밖의 누군가가 휘파람을 불었다.
+@amb equipment night_far t=1.5
+그리고 사람들의 목소리. 사흘 동안 모은, 소리실에게 남기는 말.
+@sfxloop tape_hiss t=0.5
+@voicefx tape
+최씨<gruff old farmer, embarrassed but heartfelt>: 잘 있어라, 이놈아. 칠십 년 동안 고마웠다. #ch0008
+순자<gentle elderly woman, tearful>: 우리 영숙이 낳고 키운 집. 고마웠다. 잊지 않을 겨. #sj0002
+주민2<young farmer, cheerful but choked up>: 소리실아, 나 여기서 처음 트랙터 몰았다. 어디 가서도 자랑할게. #vb0002
+주민4<little girl, earnest>: 개울아, 반딧불아, 안녕! 아니다. 다녀올게! #vd0003
+주민3<middle-aged woman, warm, laughing and crying>: 우리 다온이 첫 걸음마를 여기서 뗐어요. 그거 하나로 충분해요. #vc0001
+주민5<old retired teacher, gentle and dignified>: 분교에서 삼십 년 아이들을 가르쳤습니다. 여름 선생님, 당신 방송 덕분에 밤이 외롭지 않았어요. #ve0001
+주민1<middle-aged man, brusque but kind>: 윗말 김가다. 할 말은 없고… 그냥, 고맙다. 됐지? #va0001
+할머니<warm elderly woman, Chungcheong accent, loving>: 영감, 들리지? 칼국수 남겨 놨어. {w=0.3}소리실아, 다녀올게. #bs0036
+@voicefx none
+@sfxloop off t=0.8
+구십 번째부터 구십구 번째까지. 소리실 사람들의 목소리가 하나씩 등불 사이로 흘러갔다.
+@cg off t=1.5
+@show yunseul uniform_c gentle at=center
+윤슬(gentle)<DJ voice, softly>: …그리고 오늘은, 저도 하나 들을 게 있어요. #ys0234
+윤슬이 주머니에서 테이프를 꺼냈다. 둥근 글씨. 『윤슬이가 소리실을 떠나는 날 들을 것.』
+윤슬(serious)<DJ voice, steadying her breath>: 우리 엄마, 강여름 선생님이 남긴 마지막 테이프예요. 오 년 동안 못 들었어요. 무서워서. #ys0235
+윤슬(gentle)<DJ voice, brave>: 근데 오늘은 들을게요. 혼자 말고, 여러분이랑 같이. #ys0236
+윤슬이 나를 봤다. 나는 고개를 끄덕였다. 그 애가 테이프를 넣었다.
+@se tape_insert
+@wait 0.8
+@se tape_play
+@bgm stop t=2
+@hide yunseul t=1
+@cg cg_mother_tape t=2.5
+@sfxloop tape_hiss t=0.5
+@voicefx tape
+엄마<warm, gentle young mother, speaking softly into a tape recorder, slightly tired>: …윤슬아. 엄마야. #mo0002
+엄마<gentle, a soft laugh>: 이 테이프를 듣고 있다는 건, 우리 윤슬이가 소리실을 떠나는 날이구나. 몇 살이 됐을까. 키는 엄마보다 커졌으려나. #mo0003
+엄마<tender>: 엄마는 요즘 병원 가기 전에, 방송실에서 이것저것 녹음하고 있어. 개울 소리, 매미 소리, 우리 윤슬이 코 고는 소리. {w=0.3}비밀이야. #mo0004
+엄마<gentle, a little sad>: 엄마가 없어도 너는 괜찮을 거야. 너는 엄마 닮아서, 좋은 귀를 가졌으니까. 좋은 걸 잘 듣는 귀. #mo0005
+엄마<gentle, serious>: 근데 윤슬아. 하나만 부탁할게. #mo0006
+엄마<tender, a smile in her voice>: 떠날 때 「잘 가」라는 말은 하지 말자. 엄마는 그 말이 제일 싫더라. 꼭 다시는 못 볼 것 같잖아. #mo0007
+엄마<warm>: 대신 이렇게 말해 줄래? {w=0.3}「다녀오겠습니다.」 #mo0008
+엄마<tender, emotional>: 그러면 엄마는 여기서 말할게. 소리실이 물 밑에 있어도, 엄마는 여기서 매일 말할게. #mo0009
+엄마<very tender, voice trembling slightly>: 다녀와, 윤슬아. {w=0.5}…그리고 언젠가, 어서 와. #mo0010
+엄마<soft laugh, then a whisper>: 사랑해. 우리 딸. {w=0.3}여기는 88.3이었습니다. #mo0011
+@voicefx none
+@se tape_stop
+@sfxloop off t=2
+딸깍.
+방송실이 조용해졌다. 창밖의 등불들도, 숨을 죽인 것처럼 흔들리지 않았다.
+@cg off t=2
+@show yunseul uniform_c cry at=center
+@bgm lastbroadcast t=3 vol=0.6
+윤슬(cry)<crying openly, DJ voice breaking>: …엄마. {w=0.4}엄마아…. #ys0237
+그 애는 마이크 앞에서 울었다. 오 년 치의 울음이었다. 나는 페이더를 내리지 않았다. 그 울음도, 소리실이 들어야 할 소리 같았다.
+한참 뒤, 윤슬이 소매로 눈가를 문질렀다. 그리고 마이크 앞에서 크게 숨을 들이쉬었다.
+@expr yunseul gentle
+윤슬(gentle)<DJ voice, crying but clear and strong>: 여러분. 사십 일 동안, 들어 주셔서 고마웠어요. #ys0238
+윤슬(gentle)<DJ voice, heartfelt>: 소리실은 오늘 밤이 지나면 물 밑으로 가요. 그래도 소리는 사라지지 않아요. {w=0.3}누군가 기억하는 한. #ys0239
+윤슬(cry)<DJ voice, trembling>: 그러니까 마지막 인사는… 잘 있어, 소리실. {w=0.5}…아니. #ys0240
+윤슬(smile)<DJ voice, tearful smile, resolute>: 다녀올게. #ys0241
+윤슬(smile)<DJ voice, final sign-off, gentle and proud>: 여기는 소리실 심야방송, 88.3이었습니다. #ys0242
+@se switch
+@bgm stop t=3
+윤슬이 자기 손으로 스위치를 내렸다. 송신기의 빨간 불이 꺼졌다.
+창밖에서 박수가 터졌다. 오래오래, 멈추지 않았다.
+
+// ------------------------------------------------------------ 마이크 밖에서
+@amb night_far t=2
+@bgm fireflies t=4 vol=0.6
+윤슬은 헤드폰을 벗어 목에 걸었다. 그리고 의자를 돌려 나를 봤다.
+@expr yunseul embarrassed
+윤슬(embarrassed)<nervous, very quiet, off-mic>: …있잖아. 나 지금 마이크 꺼져 있다. #ys0243
+한결: 알아. 내가 페이더 잡고 있었잖아.
+윤슬(embarrassed)<shy, halting>: 마이크 없이 진심 말하는 거, 처음이야. 그러니까 웃지 마. #ys0244
+윤슬(gentle)<sincere, trembling slightly>: 고마워. {w=0.3}그날 개울에서 돌 밟아 줘서. 방송 사고 내 줘서. 이어폰 빼 줘서. #ys0245
+윤슬(gentle)<earnest>: 네가 들어 줘서, 나 끝까지 할 수 있었어. #ys0246
+윤슬(cry)<small voice, holding back tears again>: 그리고 내일… 너도 가잖아. 다음 현장으로. #ys0247
+한결: …응. 아빠 다음 댐이 강원도래.
+윤슬(sad)<quietly>: 거기도 가라앉는 동네야? #ys0248
+한결: 응.
+윤슬(gentle)<a sad, warm smile>: 철새네. 진짜로. #ys0249
+윤슬은 녹음기를 꺼내 내 손에 쥐여 주었다. 반창고 붙은 손가락이 내 손등에 닿았다.
+윤슬(serious)<quiet, meaningful>: 백 번째. {w=0.3}비워 뒀다고 했지. 제일 좋은 걸로 채울 거라고. #ys0250
+윤슬(gentle)<very softly>: 네가 채워 줘. 네 목소리로. 뭐든 좋아. #ys0251
+녹음기의 빨간 불이 켜졌다. 나는 녹음기를 입가로 가져갔다.
+@choice c6
+= 「다녀와.」 => *c6_back ; last = 1
+= 「좋아해.」 => *c6_love ; last = 2
+= 「잘 가.」 => *c6_bye ; last = 3
+
+*c6_back
+한결: …다녀와.
+@expr yunseul surprised
+윤슬(surprised)<stunned, whispering>: …아. #ys0252
+윤슬(cry)<crying, a trembling smile>: 그거 반칙이야. {w=0.3}엄마랑 똑같은 말 하면. #ys0253
+@if aff >= 3 => *c6_back_true
+윤슬(sad)<gentle but distant>: …고마워. 소중하게 간직할게. #ys0254
+그 애는 녹음기를 가슴에 안았다. 웃고 있었지만, 어딘가 멀리 있는 사람 같은 얼굴이었다.
+@jump normal_end
+
+*c6_back_true
+윤슬(gentle)<tearful, tender>: …다녀올게. {w=0.3}그리고, 너도. #ys0255
+윤슬(smile)<tearful, bright>: 너도 다녀와. 그리고 꼭 다시 와. 소리실이 호수가 돼도, 여기로. #ys0256
+@jump true_end
+
+*c6_love
+한결: …좋아해.
+@expr yunseul surprised
+@se heartbeat
+윤슬(surprised)<shocked, breathless>: …어? #ys0257
+@if aff >= 3 => *c6_love_true
+@expr yunseul sad
+윤슬(sad)<gentle, apologetic, a little sad>: …고마워. 진짜로. {w=0.3}근데 나, 아직은… 그 말에 대답할 자신이 없어. #ys0258
+윤슬(gentle)<softly>: 소중하게 간직할게. 백 번째 소리로. #ys0259
+@jump normal_end
+
+*c6_love_true
+@expr yunseul embarrassed
+윤슬(embarrassed)<flustered, crying and laughing>: 바, 바보! 그건 녹음기 말고 나한테 해야지! #ys0260
+윤슬(embarrassed)<shy, whispering>: …다시 해 봐. 녹음기 말고. #ys0261
+한결: …좋아해. 하윤슬.
+윤슬(cry)<crying happily, whispering>: …응. {w=0.4}나도. #ys0262
+윤슬(smile)<tearful, bright>: 그러니까 너, 꼭 다시 와. 소리실이 호수가 돼도. 여기로. #ys0263
+@jump true_end
+
+*c6_bye
+한결: …잘 가.
+@expr yunseul sad
+@bgm stop t=4
+윤슬(sad)<quiet, a small hurt smile>: …응. #ys0264
+그 애는 그 말을 한참 동안 곱씹는 얼굴이었다. 엄마가 제일 싫어했다던, 그 말을.
+윤슬(sad)<softly, resigned>: 그게 맞는 인사겠지. 우리는… 철새랑, 가라앉는 동네니까. #ys0265
+윤슬(gentle)<forcing a smile>: 소중하게 간직할게. 백 번째 소리로. #ys0266
+@jump normal_end

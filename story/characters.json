@@ -1,0 +1,88 @@
+{
+  "윤슬": {
+    "id": "yunseul", "name": "윤슬", "color": "#ffb36b",
+    "voice": true, "voicePrefix": "ys",
+    "tts": { "ref": "voice/refs/yunseul.wav", "refText": "voice/refs/yunseul.txt" },
+    "sprite": {
+      "scale": 0.84, "y": 38, "defaultPose": "uniform_a",
+      "bodies": {
+        "uniform_a": "body/uniform_a.png", "uniform_b": "body/uniform_b.png", "uniform_c": "body/uniform_c.png",
+        "casual_a": "body/casual_a.png", "casual_b": "body/casual_b.png", "casual_c": "body/casual_c.png"
+      },
+      "exprs": ["neutral", "smile", "laugh", "gentle", "pout", "angry", "surprised", "embarrassed", "sad", "cry", "serious"],
+      "noblink": ["laugh"],
+      "headBox": [360, 120, 700, 460]
+    }
+  },
+  "한결": { "id": "hangyeol", "name": "한결", "color": "#9fd3e6", "voice": false },
+  "할머니": {
+    "id": "bongsun", "name": "봉순 할머니", "color": "#f2c9a0",
+    "voice": true, "voicePrefix": "bs",
+    "tts": { "ref": "voice/refs/bongsun.wav", "refText": "voice/refs/bongsun.txt" },
+    "sprite": {
+      "scale": 0.84, "y": 118, "defaultPose": "default",
+      "bodies": { "default": "master.png" },
+      "exprs": ["neutral", "laugh", "sad", "surprised", "stern", "cry"],
+      "noblink": ["laugh"],
+      "headBox": [300, 110, 700, 500],
+      "eyesBox": [362, 248, 572, 352]
+    }
+  },
+  "아버지": {
+    "id": "father", "name": "아버지", "color": "#b9c6d6",
+    "voice": true, "voicePrefix": "fa",
+    "tts": { "ref": "voice/refs/father.wav", "refText": "voice/refs/father.txt" },
+    "sprite": {
+      "scale": 0.86, "y": 6, "defaultPose": "default",
+      "bodies": { "default": "master.png", "casual": "body/casual.png" },
+      "exprs": ["neutral", "smile", "serious", "sad"],
+      "noblink": [],
+      "headBox": [320, 90, 700, 470]
+    }
+  },
+  "엄마": {
+    "id": "mother", "name": "엄마", "color": "#ffd9a8", "voice": true, "voicePrefix": "mo",
+    "tts": { "ref": "voice/refs/mother.wav", "refText": "voice/refs/mother.txt" }
+  },
+  "이장": {
+    "id": "grandpa", "name": "이장님", "color": "#d9cfa0", "voice": true, "voicePrefix": "gp",
+    "tts": { "ref": "voice/refs/grandpa.wav", "refText": "voice/refs/grandpa.txt" }
+  },
+  "최씨": {
+    "id": "choi", "name": "최씨 할아버지", "color": "#c9c0b0", "voice": true, "voicePrefix": "ch",
+    "tts": { "ref": "voice/refs/choi.wav", "refText": "voice/refs/choi.txt" }
+  },
+  "순자": {
+    "id": "sunja", "name": "순자 할머니", "color": "#d8c2c8", "voice": true, "voicePrefix": "sj",
+    "tts": { "ref": "voice/refs/sunja.wav", "refText": "voice/refs/sunja.txt" }
+  },
+  "직원": {
+    "id": "official", "name": "공단 직원", "color": "#b0b8c0", "voice": true, "voicePrefix": "of",
+    "tts": { "ref": "voice/refs/official.wav", "refText": "voice/refs/official.txt" }
+  },
+  "주민1": {
+    "id": "villager1", "name": "윗말 김씨 아저씨", "color": "#c0c0b0", "voice": true, "voicePrefix": "va",
+    "tts": { "ref": "voice/refs/villager1.wav", "refText": "voice/refs/villager1.txt" }
+  },
+  "주민2": {
+    "id": "villager2", "name": "용태 형", "color": "#c0c0b0", "voice": true, "voicePrefix": "vb",
+    "tts": { "ref": "voice/refs/villager2.wav", "refText": "voice/refs/villager2.txt" }
+  },
+  "주민3": {
+    "id": "villager3", "name": "미정 이모", "color": "#c0c0b0", "voice": true, "voicePrefix": "vc",
+    "tts": { "ref": "voice/refs/villager3.wav", "refText": "voice/refs/villager3.txt" }
+  },
+  "주민4": {
+    "id": "villager4", "name": "다온이", "color": "#c0c0b0", "voice": true, "voicePrefix": "vd",
+    "tts": { "ref": "voice/refs/villager4.wav", "refText": "voice/refs/villager4.txt" }
+  },
+  "주민5": {
+    "id": "villager5", "name": "박 선생님", "color": "#c0c0b0", "voice": true, "voicePrefix": "ve",
+    "tts": { "ref": "voice/refs/villager5.wav", "refText": "voice/refs/villager5.txt" }
+  },
+  "기사": { "id": "driver", "name": "버스 기사", "color": "#c0c0b0", "voice": true, "voicePrefix": "dr" },
+  "앵커": {
+    "id": "anchor", "name": "뉴스", "color": "#aab4c0", "voice": true, "voicePrefix": "an",
+    "tts": { "ref": "voice/refs/anchor.wav", "refText": "voice/refs/anchor.txt" }
+  }
+}

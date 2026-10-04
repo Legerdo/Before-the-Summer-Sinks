@@ -1,0 +1,3584 @@
+[
+ {
+  "id": "ys0001",
+  "char": "yunseul",
+  "text": "…들려? 여기는, 소리실 심야방송. 주파수 88.3.",
+  "tts": "[tense, breathless] …들려? 여기는, 소리실 심야방송. 주파수 88.3.",
+  "hash": "346bb7fab7",
+  "label": "start",
+  "loc": "00_prologue.vn:20"
+ },
+ {
+  "id": "ys0002",
+  "char": "yunseul",
+  "text": "지금 옥상에서 안테나 붙잡고 있는 철새. 전기도, 전화도 다 끊겼지만… 이 목소리는 아직 닿아.",
+  "tts": "지금 옥상에서 안테나 붙잡고 있는 철새. 전기도, 전화도 다 끊겼지만… 이 목소리는 아직 닿아.",
+  "hash": "5a0eb7be6a",
+  "label": "start",
+  "loc": "00_prologue.vn:21"
+ },
+ {
+  "id": "ys0003",
+  "char": "yunseul",
+  "text": "대답 안 해도 돼. {w=0.4}그냥—{w=0.3}들어.",
+  "tts": "[softly, holding back tears] 대답 안 해도 돼. 그냥—들어.",
+  "hash": "c9d9041611",
+  "label": "start",
+  "loc": "00_prologue.vn:22"
+ },
+ {
+  "id": "bs0001",
+  "char": "bongsun",
+  "text": "아이구, 왔슈? 서 과장님네 아들이지?",
+  "tts": "아이구, 왔슈? 서 과장님네 아들이지?",
+  "hash": "f6b50b5bbe",
+  "label": "ch1",
+  "loc": "01_ch1.vn:15"
+ },
+ {
+  "id": "bs0002",
+  "char": "bongsun",
+  "text": "알어, 알어. 얼굴이 딱 아부지 닮았네. 키만 멀쑥하고. 밥은 먹고 다니는겨?",
+  "tts": "[cheerful] 알어, 알어. 얼굴이 딱 아부지 닮았네. 키만 멀쑥하고. 밥은 먹고 다니는겨?",
+  "hash": "83fb8310be",
+  "label": "ch1",
+  "loc": "01_ch1.vn:17"
+ },
+ {
+  "id": "bs0003",
+  "char": "bongsun",
+  "text": "자, 이거 마셔. 사이다. 이 날씨에 그 언덕을 걸어 내려왔으면 속이 다 익었을 거여.",
+  "tts": "자, 이거 마셔. 사이다. 이 날씨에 그 언덕을 걸어 내려왔으면 속이 다 익었을 거여.",
+  "hash": "748df545d1",
+  "label": "ch1",
+  "loc": "01_ch1.vn:20"
+ },
+ {
+  "id": "bs0004",
+  "char": "bongsun",
+  "text": "어허. 이 동네서 처음 온 사람한테 돈 받는 가게 없어. {w=0.2}…뭐, 이제 가게도 얼마 안 남았지만.",
+  "tts": "어허. 이 동네서 처음 온 사람한테 돈 받는 가게 없어. …뭐, 이제 가게도 얼마 안 남았지만.",
+  "hash": "15f8ae1913",
+  "label": "ch1",
+  "loc": "01_ch1.vn:22"
+ },
+ {
+  "id": "bs0005",
+  "char": "bongsun",
+  "text": "윗말 파란 대문 집이여. 공단에서 빌려 둔 집인디, 전에 살던 양반이 라디오도 두고 갔다더라.",
+  "tts": "윗말 파란 대문 집이여. 공단에서 빌려 둔 집인디, 전에 살던 양반이 라디오도 두고 갔다더라.",
+  "hash": "7685947679",
+  "label": "ch1",
+  "loc": "01_ch1.vn:24"
+ },
+ {
+  "id": "bs0006",
+  "char": "bongsun",
+  "text": "저녁엔 라디오 켜 봐. 이 동네 사람들은 밤 되면 다 그거 들어.",
+  "tts": "저녁엔 라디오 켜 봐. 이 동네 사람들은 밤 되면 다 그거 들어.",
+  "hash": "45fc4f9e99",
+  "label": "ch1",
+  "loc": "01_ch1.vn:25"
+ },
+ {
+  "id": "bs0007",
+  "char": "bongsun",
+  "text": "우리 윤슬이가 하는 방송이 있거든. {w=0.2}아, 윤슬이는 이 동네 하나 남은 애여. 너랑 동갑일걸?",
+  "tts": "우리 윤슬이가 하는 방송이 있거든. 아, 윤슬이는 이 동네 하나 남은 애여. 너랑 동갑일걸?",
+  "hash": "05d3cd39c3",
+  "label": "ch1",
+  "loc": "01_ch1.vn:27"
+ },
+ {
+  "id": "bs0008",
+  "char": "bongsun",
+  "text": "윤슬이도 이제 곧 청주로 가야 혀. 이 동네에 애들 목소리 나는 것도 올여름이 마지막이지.",
+  "tts": "[a little wistful] 윤슬이도 이제 곧 청주로 가야 혀. 이 동네에 애들 목소리 나는 것도 올여름이 마지막이지.",
+  "hash": "223443c7e0",
+  "label": "ch1",
+  "loc": "01_ch1.vn:30"
+ },
+ {
+  "id": "bs0009",
+  "char": "bongsun",
+  "text": "아이구, 붙잡고 말만 했네. 얼른 가서 씻고 쉬어. 모르는 거 있으면 언제든지 이 할미한테 오고.",
+  "tts": "아이구, 붙잡고 말만 했네. 얼른 가서 씻고 쉬어. 모르는 거 있으면 언제든지 이 할미한테 오고.",
+  "hash": "48633603f9",
+  "label": "ch1",
+  "loc": "01_ch1.vn:32"
+ },
+ {
+  "id": "bs0010",
+  "char": "bongsun",
+  "text": "그려, 그려.",
+  "tts": "[warm] 그려, 그려.",
+  "hash": "423c9c3c8f",
+  "label": "ch1",
+  "loc": "01_ch1.vn:34"
+ },
+ {
+  "id": "bs0011",
+  "char": "bongsun",
+  "text": "…저 나이 때는 다 저렇게 귀를 막고 다니나 몰라.",
+  "tts": "[quietly, to herself] …저 나이 때는 다 저렇게 귀를 막고 다니나 몰라.",
+  "hash": "bc585e4dee",
+  "label": "ch1",
+  "loc": "01_ch1.vn:37"
+ },
+ {
+  "id": "fa0001",
+  "char": "father",
+  "text": "한결아, 도착했니? 할머니 뵀고?",
+  "tts": "[tired but gentle] 한결아, 도착했니? 할머니 뵀고?",
+  "hash": "95c4064bad",
+  "label": "ch1",
+  "loc": "01_ch1.vn:50"
+ },
+ {
+  "id": "fa0002",
+  "char": "father",
+  "text": "다행이다. {w=0.2}미안하다, 첫날부터 혼자 두고. 수문 공정이 좀 밀려서… 오늘은 현장에서 자야 할 것 같아.",
+  "tts": "다행이다. 미안하다, 첫날부터 혼자 두고. 수문 공정이 좀 밀려서… 오늘은 현장에서 자야 할 것 같아.",
+  "hash": "ec3f06f3c1",
+  "label": "ch1",
+  "loc": "01_ch1.vn:52"
+ },
+ {
+  "id": "fa0003",
+  "char": "father",
+  "text": "…그 말이 제일 미안하다.",
+  "tts": "[after a pause, guilty] …그 말이 제일 미안하다.",
+  "hash": "8e8368b5ad",
+  "label": "ch1",
+  "loc": "01_ch1.vn:54"
+ },
+ {
+  "id": "fa0004",
+  "char": "father",
+  "text": "냉장고에 반찬 사다 놨어. 밥은 꼭 챙겨 먹고. 이번 동네는… 사람들이 좋아. 너도 좀—",
+  "tts": "냉장고에 반찬 사다 놨어. 밥은 꼭 챙겨 먹고. 이번 동네는… 사람들이 좋아. 너도 좀—",
+  "hash": "c5b6320de3",
+  "label": "ch1",
+  "loc": "01_ch1.vn:55"
+ },
+ {
+  "id": "fa0005",
+  "char": "father",
+  "text": "…그랬지. 들어가라. 문 잘 잠그고.",
+  "tts": "[quietly] …그랬지. 들어가라. 문 잘 잠그고.",
+  "hash": "4be20e6e1c",
+  "label": "ch1",
+  "loc": "01_ch1.vn:58"
+ },
+ {
+  "id": "ys0004",
+  "char": "yunseul",
+  "text": "…네, 여기는 소리실 심야방송. 주파수 88.3. 오늘 밤도 깨어 있는 소리실 여러분, 반가워요.",
+  "tts": "[smooth, warm late-night radio DJ voice] …네, 여기는 소리실 심야방송. 주파수 88.3. 오늘 밤도 깨어 있는 소리실 여러분, 반가워요.",
+  "hash": "f5c97eaa12",
+  "label": "ch1",
+  "loc": "01_ch1.vn:78"
+ },
+ {
+  "id": "ys0005",
+  "char": "yunseul",
+  "text": "오늘의 소리는요, {w=0.3}서른일곱 번째. 아랫말 개울이에요. 장마 끝나고 물이 제일 맑을 때 녹음했어요.",
+  "tts": "오늘의 소리는요, 서른일곱 번째. 아랫말 개울이에요. 장마 끝나고 물이 제일 맑을 때 녹음했어요.",
+  "hash": "b0b60d09b3",
+  "label": "ch1",
+  "loc": "01_ch1.vn:80"
+ },
+ {
+  "id": "ys0006",
+  "char": "yunseul",
+  "text": "…좋죠? 이 개울도 이제 한 달 좀 지나면 물 밑으로 가요. 그러니까 지금, 잘 들어 두세요.",
+  "tts": "[gentle] …좋죠? 이 개울도 이제 한 달 좀 지나면 물 밑으로 가요. 그러니까 지금, 잘 들어 두세요.",
+  "hash": "c5b447442e",
+  "label": "ch1",
+  "loc": "01_ch1.vn:84"
+ },
+ {
+  "id": "ys0007",
+  "char": "yunseul",
+  "text": "자, 그럼 사연 하나 읽을게요. 봉순상회 할머니께서 보내 주셨어요.",
+  "tts": "자, 그럼 사연 하나 읽을게요. 봉순상회 할머니께서 보내 주셨어요.",
+  "hash": "00b92cf27e",
+  "label": "ch1",
+  "loc": "01_ch1.vn:85"
+ },
+ {
+  "id": "ys0008",
+  "char": "yunseul",
+  "text": "『윤슬아. 할아버지 가신 지 벌써 두 해다. 마을 방송 하던 그 양반 목소리가 요새 자꾸 생각나. 이사 가기 전에 딱 한 번만 다시 들어 봤으면.』",
+  "tts": "[reading a letter, softly] 『윤슬아. 할아버지 가신 지 벌써 두 해다. 마을 방송 하던 그 양반 목소리가 요새 자꾸 생각나. 이사 가기 전에 딱 한 번만 다시 들어 봤으면.』",
+  "hash": "74a0bb78ff",
+  "label": "ch1",
+  "loc": "01_ch1.vn:87"
+ },
+ {
+  "id": "ys0009",
+  "char": "yunseul",
+  "text": "…할머니, 제가 찾아볼게요. 약속. 이 방송이 누구 거예요? 소리실 거잖아요.",
+  "tts": "[moved, then brightening] …할머니, 제가 찾아볼게요. 약속. 이 방송이 누구 거예요? 소리실 거잖아요.",
+  "hash": "f47cf0eabe",
+  "label": "ch1",
+  "loc": "01_ch1.vn:88"
+ },
+ {
+  "id": "ys0010",
+  "char": "yunseul",
+  "text": "남은 날은 사십 일. 저는 그동안 이 마을의 소리를 전부 녹음할 거예요. 백 개. {w=0.3}가라앉기 전에.",
+  "tts": "남은 날은 사십 일. 저는 그동안 이 마을의 소리를 전부 녹음할 거예요. 백 개. 가라앉기 전에.",
+  "hash": "32260b7344",
+  "label": "ch1",
+  "loc": "01_ch1.vn:89"
+ },
+ {
+  "id": "ys0011",
+  "char": "yunseul",
+  "text": "그럼 오늘도, 좋은 꿈 꾸세요. 여기는 88.3이었습니다.",
+  "tts": "[playful whisper] 그럼 오늘도, 좋은 꿈 꾸세요. 여기는 88.3이었습니다.",
+  "hash": "1aec503a6d",
+  "label": "ch1",
+  "loc": "01_ch1.vn:90"
+ },
+ {
+  "id": "ys0012",
+  "char": "yunseul",
+  "text": "쉿!!",
+  "tts": "[sharp whisper, annoyed] 쉿!!",
+  "hash": "80e5b1ebca",
+  "label": "ch1",
+  "loc": "01_ch1.vn:111"
+ },
+ {
+  "id": "ys0013",
+  "char": "yunseul",
+  "text": "…아. {w=0.3}아아아. 진짜. 방금 거 완벽했는데.",
+  "tts": "[frustrated sigh] …아. 아아아. 진짜. 방금 거 완벽했는데.",
+  "hash": "26ca6764e0",
+  "label": "ch1",
+  "loc": "01_ch1.vn:115"
+ },
+ {
+  "id": "ys0014",
+  "char": "yunseul",
+  "text": "너. 방금 거 이십 분짜리였거든? 물이 딱 좋게 우는 타이밍 기다리느라 다리에 쥐 나는 줄 알았는데.",
+  "tts": "너. 방금 거 이십 분짜리였거든? 물이 딱 좋게 우는 타이밍 기다리느라 다리에 쥐 나는 줄 알았는데.",
+  "hash": "25bdd45dbf",
+  "label": "ch1",
+  "loc": "01_ch1.vn:121"
+ },
+ {
+  "id": "ys0015",
+  "char": "yunseul",
+  "text": "흐응.",
+  "tts": "[curious] 흐응.",
+  "hash": "d6212b1482",
+  "label": "ch1",
+  "loc": "01_ch1.vn:123"
+ },
+ {
+  "id": "ys0016",
+  "char": "yunseul",
+  "text": "너 서울 사람이지. 파란 대문 집. 공단 아저씨 아들.",
+  "tts": "[teasing] 너 서울 사람이지. 파란 대문 집. 공단 아저씨 아들.",
+  "hash": "801ea51a46",
+  "label": "ch1",
+  "loc": "01_ch1.vn:125"
+ },
+ {
+  "id": "ys0017",
+  "char": "yunseul",
+  "text": "이 동네에 새로 오는 사람 없거든. 다 나가기만 하지. 그러니까 들어오는 사람은 금방 소문나.",
+  "tts": "이 동네에 새로 오는 사람 없거든. 다 나가기만 하지. 그러니까 들어오는 사람은 금방 소문나.",
+  "hash": "d301414d0e",
+  "label": "ch1",
+  "loc": "01_ch1.vn:127"
+ },
+ {
+  "id": "ys0018",
+  "char": "yunseul",
+  "text": "철새네.",
+  "tts": "[playful] 철새네.",
+  "hash": "393dcfcd13",
+  "label": "ch1",
+  "loc": "01_ch1.vn:128"
+ },
+ {
+  "id": "ys0019",
+  "char": "yunseul",
+  "text": "잠깐 머물다 날아가는 새. 여름 철새. {w=0.2}아니야?",
+  "tts": "잠깐 머물다 날아가는 새. 여름 철새. 아니야?",
+  "hash": "3beb571eda",
+  "label": "ch1",
+  "loc": "01_ch1.vn:131"
+ },
+ {
+  "id": "ys0020",
+  "char": "yunseul",
+  "text": "…들었어?",
+  "tts": "…들었어?",
+  "hash": "31907be351",
+  "label": "ch1",
+  "loc": "01_ch1.vn:137"
+ },
+ {
+  "id": "ys0021",
+  "char": "yunseul",
+  "text": "흥. 그럼 됐네. 방송은 잘 들었나 보네. 개울 망친 건 그걸로 퉁쳐 줄게.",
+  "tts": "[flustered, trying to sound cool] 흥. 그럼 됐네. 방송은 잘 들었나 보네. 개울 망친 건 그걸로 퉁쳐 줄게.",
+  "hash": "d881722d6e",
+  "label": "ch1",
+  "loc": "01_ch1.vn:141"
+ },
+ {
+  "id": "ys0022",
+  "char": "yunseul",
+  "text": "하윤슬. 이 동네 하나 남은 고딩이자, 소리실 심야방송 DJ.",
+  "tts": "[confident] 하윤슬. 이 동네 하나 남은 고딩이자, 소리실 심야방송 DJ.",
+  "hash": "a5e1416dd4",
+  "label": "ch1",
+  "loc": "01_ch1.vn:142"
+ },
+ {
+  "id": "ys0023",
+  "char": "yunseul",
+  "text": "그리고 이 동네 소리를 전부 녹음해서 남길 사람.",
+  "tts": "그리고 이 동네 소리를 전부 녹음해서 남길 사람.",
+  "hash": "4803c24251",
+  "label": "ch1",
+  "loc": "01_ch1.vn:143"
+ },
+ {
+  "id": "ys0024",
+  "char": "yunseul",
+  "text": "알아. 철새.",
+  "tts": "[teasing] 알아. 철새.",
+  "hash": "44d4c992c7",
+  "label": "ch1",
+  "loc": "01_ch1.vn:145"
+ },
+ {
+  "id": "ys0025",
+  "char": "yunseul",
+  "text": "근데 철새. 하나만 말해 둘게.",
+  "tts": "[casual but pointed] 근데 철새. 하나만 말해 둘게.",
+  "hash": "f101aad4ad",
+  "label": "ch1",
+  "loc": "01_ch1.vn:148"
+ },
+ {
+  "id": "ys0026",
+  "char": "yunseul",
+  "text": "여기 오래 있을 거 아니면, 정 붙이지 마.",
+  "tts": "여기 오래 있을 거 아니면, 정 붙이지 마.",
+  "hash": "bdbfe71ca9",
+  "label": "ch1",
+  "loc": "01_ch1.vn:149"
+ },
+ {
+  "id": "ys0027",
+  "char": "yunseul",
+  "text": "어차피 이 동네, 여름 끝나면 전부 물에 잠기니까.",
+  "tts": "[quiet, matter-of-fact] 어차피 이 동네, 여름 끝나면 전부 물에 잠기니까.",
+  "hash": "a7c9caa06d",
+  "label": "ch1",
+  "loc": "01_ch1.vn:150"
+ },
+ {
+  "id": "ys0028",
+  "char": "yunseul",
+  "text": "…그래? 그럼 다행이고.",
+  "tts": "…그래? 그럼 다행이고.",
+  "hash": "fe8bc2f0b6",
+  "label": "ch1",
+  "loc": "01_ch1.vn:154"
+ },
+ {
+  "id": "ys0029",
+  "char": "yunseul",
+  "text": "그래도, 오늘 밤 라디오는 들어 봐. 88.3이야.",
+  "tts": "[half to herself] 그래도, 오늘 밤 라디오는 들어 봐. 88.3이야.",
+  "hash": "2cbcff0d4f",
+  "label": "ch1",
+  "loc": "01_ch1.vn:156"
+ },
+ {
+  "id": "bs0012",
+  "char": "bongsun",
+  "text": "마침 잘 왔다. 이거 분교에 좀 갖다줄 텨? 수박화채여. 윤슬이 저녁도 안 먹고 방송 준비하고 있을 거여.",
+  "tts": "마침 잘 왔다. 이거 분교에 좀 갖다줄 텨? 수박화채여. 윤슬이 저녁도 안 먹고 방송 준비하고 있을 거여.",
+  "hash": "b2f2d9baf0",
+  "label": "ch1",
+  "loc": "01_ch1.vn:166"
+ },
+ {
+  "id": "bs0013",
+  "char": "bongsun",
+  "text": "저기 언덕 위에 문 닫은 학교 있잖여. 거기 방송실에서 해, 그 애가. 제 엄마가 하던 대로.",
+  "tts": "저기 언덕 위에 문 닫은 학교 있잖여. 거기 방송실에서 해, 그 애가. 제 엄마가 하던 대로.",
+  "hash": "05e3840362",
+  "label": "ch1",
+  "loc": "01_ch1.vn:168"
+ },
+ {
+  "id": "bs0014",
+  "char": "bongsun",
+  "text": "윤슬이가 저래 봬도 속은 여려. 까칠하게 굴어도 이해혀.",
+  "tts": "[gentle] 윤슬이가 저래 봬도 속은 여려. 까칠하게 굴어도 이해혀.",
+  "hash": "81183a41b8",
+  "label": "ch1",
+  "loc": "01_ch1.vn:170"
+ },
+ {
+  "id": "ys0030",
+  "char": "yunseul",
+  "text": "…네, 오늘 밤도 88.3입니다. 창문 열어 두신 분들, 지금 밖에서 소쩍새 우는 거 들리세요? 이것도 언젠가 녹음해야 하는데.",
+  "tts": "[smooth, warm late-night radio DJ voice] …네, 오늘 밤도 88.3입니다. 창문 열어 두신 분들, 지금 밖에서 소쩍새 우는 거 들리세요? 이것도 언젠가 녹음해야 하는데.",
+  "hash": "1e5be9a823",
+  "label": "ch1",
+  "loc": "01_ch1.vn:184"
+ },
+ {
+  "id": "ys0031",
+  "char": "yunseul",
+  "text": "야…!!",
+  "tts": "[furious whisper] 야…!!",
+  "hash": "41a9550b2c",
+  "label": "ch1",
+  "loc": "01_ch1.vn:198"
+ },
+ {
+  "id": "ys0032",
+  "char": "yunseul",
+  "text": "아— 네에, 방금 들으신 건 방송 사고가 아니라요. 오늘 소리실에 새로 이사 온 철새 씨의 목소리였습니다. 다들 환영해 주세요!",
+  "tts": "[bright DJ voice, improvising smoothly] 아— 네에, 방금 들으신 건 방송 사고가 아니라요. 오늘 소리실에 새로 이사 온 철새 씨의 목소리였습니다. 다들 환영해 주세요!",
+  "hash": "2790ccebd2",
+  "label": "ch1",
+  "loc": "01_ch1.vn:201"
+ },
+ {
+  "id": "ys0033",
+  "char": "yunseul",
+  "text": "참고로 철새 씨는 수박화채를 가져왔어요. 착하죠? 그럼 잠깐 노래 한 곡 듣고 올게요.",
+  "tts": "[playful] 참고로 철새 씨는 수박화채를 가져왔어요. 착하죠? 그럼 잠깐 노래 한 곡 듣고 올게요.",
+  "hash": "cbee1f2443",
+  "label": "ch1",
+  "loc": "01_ch1.vn:202"
+ },
+ {
+  "id": "ys0034",
+  "char": "yunseul",
+  "text": "너. 진짜. 제정신이야?",
+  "tts": "너. 진짜. 제정신이야?",
+  "hash": "52337272bf",
+  "label": "ch1",
+  "loc": "01_ch1.vn:207"
+ },
+ {
+  "id": "ys0035",
+  "char": "yunseul",
+  "text": "알아. 일부러였으면 지금 창문 밖으로 던졌어.",
+  "tts": "[exasperated] 알아. 일부러였으면 지금 창문 밖으로 던졌어.",
+  "hash": "194cf18ebd",
+  "label": "ch1",
+  "loc": "01_ch1.vn:209"
+ },
+ {
+  "id": "ys0036",
+  "char": "yunseul",
+  "text": "…할머니가 보냈지?",
+  "tts": "…할머니가 보냈지?",
+  "hash": "c092190db4",
+  "label": "ch1",
+  "loc": "01_ch1.vn:212"
+ },
+ {
+  "id": "ys0037",
+  "char": "yunseul",
+  "text": "치. 할머니는 진짜.",
+  "tts": "[softening] 치. 할머니는 진짜.",
+  "hash": "2f5203173b",
+  "label": "ch1",
+  "loc": "01_ch1.vn:214"
+ },
+ {
+  "id": "ys0038",
+  "char": "yunseul",
+  "text": "근데 철새. 방송 사고는 사고고, 책임은 져야지?",
+  "tts": "[scheming, playful] 근데 철새. 방송 사고는 사고고, 책임은 져야지?",
+  "hash": "d6a6927db2",
+  "label": "ch1",
+  "loc": "01_ch1.vn:217"
+ },
+ {
+  "id": "ys0039",
+  "char": "yunseul",
+  "text": "너, 내일부터 내 조수야. 녹음 따라다니고, 짐 들고, 방송 때 페이더 올리고.",
+  "tts": "[decisive, teasing] 너, 내일부터 내 조수야. 녹음 따라다니고, 짐 들고, 방송 때 페이더 올리고.",
+  "hash": "04dbd23517",
+  "label": "ch1",
+  "loc": "01_ch1.vn:220"
+ },
+ {
+  "id": "ys0040",
+  "char": "yunseul",
+  "text": "방금 네 목소리, 소리실 전체에 나갔거든? 이제 이 동네 사람들한테 넌 「88.3의 철새 씨」야. 도망 못 가.",
+  "tts": "방금 네 목소리, 소리실 전체에 나갔거든? 이제 이 동네 사람들한테 넌 「88.3의 철새 씨」야. 도망 못 가.",
+  "hash": "a3c88ada00",
+  "label": "ch1",
+  "loc": "01_ch1.vn:222"
+ },
+ {
+  "id": "ys0041",
+  "char": "yunseul",
+  "text": "…어? 진짜?",
+  "tts": "…어? 진짜?",
+  "hash": "b3b6990d2d",
+  "label": "c1_yes",
+  "loc": "01_ch1.vn:229"
+ },
+ {
+  "id": "ys0042",
+  "char": "yunseul",
+  "text": "아니, 뭐, 그렇게 순순히 나오면 재미없잖아. 좀 버텨 보든가.",
+  "tts": "[caught off guard, then covering it up] 아니, 뭐, 그렇게 순순히 나오면 재미없잖아. 좀 버텨 보든가.",
+  "hash": "a2b50e1070",
+  "label": "c1_yes",
+  "loc": "01_ch1.vn:230"
+ },
+ {
+  "id": "ys0043",
+  "char": "yunseul",
+  "text": "헤헤, 눈치는 빠르네. 좋아, 합격.",
+  "tts": "[delighted laugh] 헤헤, 눈치는 빠르네. 좋아, 합격.",
+  "hash": "91b9014bec",
+  "label": "c1_yes",
+  "loc": "01_ch1.vn:232"
+ },
+ {
+  "id": "ys0044",
+  "char": "yunseul",
+  "text": "응, 거부권 없어.",
+  "tts": "[cheerful, not taking no for an answer] 응, 거부권 없어.",
+  "hash": "d51077381a",
+  "label": "c1_no",
+  "loc": "01_ch1.vn:237"
+ },
+ {
+  "id": "ys0045",
+  "char": "yunseul",
+  "text": "물어본 거 아닌데? 통보한 건데?",
+  "tts": "[laughing] 물어본 거 아닌데? 통보한 건데?",
+  "hash": "6e0d5226d0",
+  "label": "c1_no",
+  "loc": "01_ch1.vn:239"
+ },
+ {
+  "id": "ys0046",
+  "char": "yunseul",
+  "text": "…그리고, 사실 혼자 하기엔 좀 벅찼거든. 백 개.",
+  "tts": "[quietly, almost to herself] …그리고, 사실 혼자 하기엔 좀 벅찼거든. 백 개.",
+  "hash": "c63d410db9",
+  "label": "c1_join",
+  "loc": "01_ch1.vn:245"
+ },
+ {
+  "id": "ys0047",
+  "char": "yunseul",
+  "text": "내일 새벽 다섯 시. 파란 대문 앞. 늦으면 녹음기로 네 코 고는 소리 따서 방송에 틀 거야.",
+  "tts": "[back to teasing] 내일 새벽 다섯 시. 파란 대문 앞. 늦으면 녹음기로 네 코 고는 소리 따서 방송에 틀 거야.",
+  "hash": "4c6b4da9de",
+  "label": "c1_join",
+  "loc": "01_ch1.vn:247"
+ },
+ {
+  "id": "ys0048",
+  "char": "yunseul",
+  "text": "새벽 소리는 새벽에만 있거든?",
+  "tts": "새벽 소리는 새벽에만 있거든?",
+  "hash": "4dd7e97f3f",
+  "label": "c1_join",
+  "loc": "01_ch1.vn:249"
+ },
+ {
+  "id": "ys0049",
+  "char": "yunseul",
+  "text": "철새. 철새야. 일어나. 다섯 시 삼 분이야. 삼 분 늦었어.",
+  "tts": "[whispering loudly] 철새. 철새야. 일어나. 다섯 시 삼 분이야. 삼 분 늦었어.",
+  "hash": "a606166e93",
+  "label": "ch2",
+  "loc": "02_ch2.vn:18"
+ },
+ {
+  "id": "ys0050",
+  "char": "yunseul",
+  "text": "그럼 가짜 다섯 시도 있어? 빨리 나와. 해 뜨기 전에 찍어야 할 게 세 개나 있거든?",
+  "tts": "[cheerful, too awake] 그럼 가짜 다섯 시도 있어? 빨리 나와. 해 뜨기 전에 찍어야 할 게 세 개나 있거든?",
+  "hash": "f5962ab1a0",
+  "label": "ch2",
+  "loc": "02_ch2.vn:21"
+ },
+ {
+  "id": "ys0051",
+  "char": "yunseul",
+  "text": "이거 입고 가면 어른들이 녹음하게 해 주거든. 「학생이 숙제한대」 하면 소 외양간도 열어 줘.",
+  "tts": "[matter-of-fact, a little proud] 이거 입고 가면 어른들이 녹음하게 해 주거든. 「학생이 숙제한대」 하면 소 외양간도 열어 줘.",
+  "hash": "8b314578cb",
+  "label": "ch2",
+  "loc": "02_ch2.vn:29"
+ },
+ {
+  "id": "ys0052",
+  "char": "yunseul",
+  "text": "교복은 만능 출입증이야.",
+  "tts": "교복은 만능 출입증이야.",
+  "hash": "dc31e27814",
+  "label": "ch2",
+  "loc": "02_ch2.vn:30"
+ },
+ {
+  "id": "ys0053",
+  "char": "yunseul",
+  "text": "오늘 목록. 새벽 닭, 정자나무 참새, 윗말 우물 도르래. 그리고 해 뜨면 바로 매미.",
+  "tts": "오늘 목록. 새벽 닭, 정자나무 참새, 윗말 우물 도르래. 그리고 해 뜨면 바로 매미.",
+  "hash": "a43be1ebb8",
+  "label": "ch2",
+  "loc": "02_ch2.vn:32"
+ },
+ {
+  "id": "ys0054",
+  "char": "yunseul",
+  "text": "하나씩 해야 돼. 섞이면 안 돼. 나중에 누가 「우리 집 앞 우물 소리 듣고 싶다」 하면, 딱 그 소리를 틀어 줘야 하니까.",
+  "tts": "[earnest] 하나씩 해야 돼. 섞이면 안 돼. 나중에 누가 「우리 집 앞 우물 소리 듣고 싶다」 하면, 딱 그 소리를 틀어 줘야 하니까.",
+  "hash": "7600552a5b",
+  "label": "ch2",
+  "loc": "02_ch2.vn:34"
+ },
+ {
+  "id": "ys0055",
+  "char": "yunseul",
+  "text": "…다들. 여기 떠나면.",
+  "tts": "[softly, looking ahead] …다들. 여기 떠나면.",
+  "hash": "11a9723f0b",
+  "label": "ch2",
+  "loc": "02_ch2.vn:36"
+ },
+ {
+  "id": "ys0056",
+  "char": "yunseul",
+  "text": "됐다! 쉰두 번째. 정자나무 아침 매미.",
+  "tts": "[delighted, breathless] 됐다! 쉰두 번째. 정자나무 아침 매미.",
+  "hash": "f56977999c",
+  "label": "ch2",
+  "loc": "02_ch2.vn:48"
+ },
+ {
+  "id": "ys0057",
+  "char": "yunseul",
+  "text": "기록이야. 조수 근무 태도.",
+  "tts": "[teasing] 기록이야. 조수 근무 태도.",
+  "hash": "3d12d4f456",
+  "label": "ch2",
+  "loc": "02_ch2.vn:51"
+ },
+ {
+  "id": "ys0058",
+  "char": "yunseul",
+  "text": "이게 소리 지도. 압정 하나가 소리 하나야.",
+  "tts": "[proud but shy] 이게 소리 지도. 압정 하나가 소리 하나야.",
+  "hash": "3c52241dbc",
+  "label": "ch2",
+  "loc": "02_ch2.vn:61"
+ },
+ {
+  "id": "ys0059",
+  "char": "yunseul",
+  "text": "오늘 걸로 쉰다섯. 백 개 채우는 게 목표.",
+  "tts": "오늘 걸로 쉰다섯. 백 개 채우는 게 목표.",
+  "hash": "aef2e5524c",
+  "label": "ch2",
+  "loc": "02_ch2.vn:63"
+ },
+ {
+  "id": "ys0060",
+  "char": "yunseul",
+  "text": "응. 그건 제일 좋은 걸로 채울 거야.",
+  "tts": "[quiet, thoughtful] 응. 그건 제일 좋은 걸로 채울 거야.",
+  "hash": "559449300b",
+  "label": "ch2",
+  "loc": "02_ch2.vn:67"
+ },
+ {
+  "id": "ys0061",
+  "char": "yunseul",
+  "text": "…몰라. 아직. 들어 보면 알겠지.",
+  "tts": "[a little flustered] …몰라. 아직. 들어 보면 알겠지.",
+  "hash": "d9a940f770",
+  "label": "ch2",
+  "loc": "02_ch2.vn:69"
+ },
+ {
+  "id": "ys0062",
+  "char": "yunseul",
+  "text": "근데 철새. 그거, 아무것도 안 나오지?",
+  "tts": "[curious, direct] 근데 철새. 그거, 아무것도 안 나오지?",
+  "hash": "912f7c83be",
+  "label": "ch2",
+  "loc": "02_ch2.vn:72"
+ },
+ {
+  "id": "ys0063",
+  "char": "yunseul",
+  "text": "이어폰. 어제부터 계속 꽂고 있었는데, 소리가 새어 나온 적이 한 번도 없어. 난 그런 거 다 들리거든?",
+  "tts": "이어폰. 어제부터 계속 꽂고 있었는데, 소리가 새어 나온 적이 한 번도 없어. 난 그런 거 다 들리거든?",
+  "hash": "efa88cb46f",
+  "label": "ch2",
+  "loc": "02_ch2.vn:74"
+ },
+ {
+  "id": "ys0064",
+  "char": "yunseul",
+  "text": "세상에서 제일 시끄러운 사람이네.",
+  "tts": "[half-amused, half-scolding] 세상에서 제일 시끄러운 사람이네.",
+  "hash": "7a50cb2e37",
+  "label": "ch2",
+  "loc": "02_ch2.vn:78"
+ },
+ {
+  "id": "ys0065",
+  "char": "yunseul",
+  "text": "아무것도 안 듣는 척하는 건, 속이 제일 시끄러운 사람들이 하는 거야. {w=0.3}우리 엄마가 그랬어.",
+  "tts": "[gently serious] 아무것도 안 듣는 척하는 건, 속이 제일 시끄러운 사람들이 하는 거야. 우리 엄마가 그랬어.",
+  "hash": "3259c2887f",
+  "label": "ch2",
+  "loc": "02_ch2.vn:80"
+ },
+ {
+  "id": "ys0066",
+  "char": "yunseul",
+  "text": "빼 봐. 딱 일 분만.",
+  "tts": "[playful command] 빼 봐. 딱 일 분만.",
+  "hash": "6f337794c6",
+  "label": "ch2",
+  "loc": "02_ch2.vn:83"
+ },
+ {
+  "id": "ys0067",
+  "char": "yunseul",
+  "text": "조수는 거부권 없다니까.",
+  "tts": "조수는 거부권 없다니까.",
+  "hash": "7b33b24a35",
+  "label": "ch2",
+  "loc": "02_ch2.vn:85"
+ },
+ {
+  "id": "ys0068",
+  "char": "yunseul",
+  "text": "…어때.",
+  "tts": "[very softly] …어때.",
+  "hash": "67824d119d",
+  "label": "ch2",
+  "loc": "02_ch2.vn:93"
+ },
+ {
+  "id": "ys0069",
+  "char": "yunseul",
+  "text": "그치. 근데 좋지?",
+  "tts": "[soft laugh] 그치. 근데 좋지?",
+  "hash": "2a7efba3a9",
+  "label": "ch2",
+  "loc": "02_ch2.vn:95"
+ },
+ {
+  "id": "ys0070",
+  "char": "yunseul",
+  "text": "여기가 메아리 바위야. 소리실에서 제일 대답을 잘해 주는 데.",
+  "tts": "여기가 메아리 바위야. 소리실에서 제일 대답을 잘해 주는 데.",
+  "hash": "1da551487b",
+  "label": "ch2",
+  "loc": "02_ch2.vn:107"
+ },
+ {
+  "id": "ys0071",
+  "char": "yunseul",
+  "text": "봐 봐.",
+  "tts": "봐 봐.",
+  "hash": "854c70ed97",
+  "label": "ch2",
+  "loc": "02_ch2.vn:109"
+ },
+ {
+  "id": "ys0072",
+  "char": "yunseul",
+  "text": "야호오오오—!",
+  "tts": "[shouting joyfully into the valley] 야호오오오—!",
+  "hash": "30904546b7",
+  "label": "ch2",
+  "loc": "02_ch2.vn:114"
+ },
+ {
+  "id": "ys0073",
+  "char": "yunseul",
+  "text": "들었지? 메아리는 대답이야. 여기선 불렀는데 대답 안 해 주는 게 없어.",
+  "tts": "[breathless, smiling] 들었지? 메아리는 대답이야. 여기선 불렀는데 대답 안 해 주는 게 없어.",
+  "hash": "a61c81b520",
+  "label": "ch2",
+  "loc": "02_ch2.vn:119"
+ },
+ {
+  "id": "ys0074",
+  "char": "yunseul",
+  "text": "이 바위도 곧 물에 잠겨. 그럼 이제 아무도 대답 안 해 주겠지.",
+  "tts": "[softer, almost to herself] 이 바위도 곧 물에 잠겨. 그럼 이제 아무도 대답 안 해 주겠지.",
+  "hash": "9f17227923",
+  "label": "ch2",
+  "loc": "02_ch2.vn:120"
+ },
+ {
+  "id": "ys0075",
+  "char": "yunseul",
+  "text": "자, 이번엔 철새 차례. 뭐든 소리쳐 봐. 녹음해 줄게. 쉰여섯 번째.",
+  "tts": "[cheerful, challenging] 자, 이번엔 철새 차례. 뭐든 소리쳐 봐. 녹음해 줄게. 쉰여섯 번째.",
+  "hash": "dbbb067b17",
+  "label": "ch2",
+  "loc": "02_ch2.vn:123"
+ },
+ {
+  "id": "ys0076",
+  "char": "yunseul",
+  "text": "응. 크게. 부끄러워하면 편집으로 더 부끄럽게 만들어 줄 거야.",
+  "tts": "응. 크게. 부끄러워하면 편집으로 더 부끄럽게 만들어 줄 거야.",
+  "hash": "45a34883eb",
+  "label": "ch2",
+  "loc": "02_ch2.vn:125"
+ },
+ {
+  "id": "ys0077",
+  "char": "yunseul",
+  "text": "목소리 작아! 산이 대답해 주다가 졸겠다!",
+  "tts": "[laughing] 목소리 작아! 산이 대답해 주다가 졸겠다!",
+  "hash": "89695c99d8",
+  "label": "c2_yaho",
+  "loc": "02_ch2.vn:136"
+ },
+ {
+  "id": "ys0078",
+  "char": "yunseul",
+  "text": "흐흥. 뭐, 첫 번째치곤 합격.",
+  "tts": "흐흥. 뭐, 첫 번째치곤 합격.",
+  "hash": "2dce539697",
+  "label": "c2_yaho",
+  "loc": "02_ch2.vn:138"
+ },
+ {
+  "id": "ys0079",
+  "char": "yunseul",
+  "text": "…와, 뭐야. 갑자기 쓸쓸하게.",
+  "tts": "[caught off guard] …와, 뭐야. 갑자기 쓸쓸하게.",
+  "hash": "5f104653f8",
+  "label": "c2_anyone",
+  "loc": "02_ch2.vn:146"
+ },
+ {
+  "id": "ys0080",
+  "char": "yunseul",
+  "text": "있어. {w=0.3}여기 있잖아. 나.",
+  "tts": "[quietly] 있어. 여기 있잖아. 나.",
+  "hash": "d22987d4a3",
+  "label": "c2_anyone",
+  "loc": "02_ch2.vn:149"
+ },
+ {
+  "id": "ys0081",
+  "char": "yunseul",
+  "text": "야아아! 그걸 녹음기에 남기면 어떡해!",
+  "tts": "[outraged but laughing] 야아아! 그걸 녹음기에 남기면 어떡해!",
+  "hash": "cacb6ae6b9",
+  "label": "c2_fool",
+  "loc": "02_ch2.vn:158"
+ },
+ {
+  "id": "ys0082",
+  "char": "yunseul",
+  "text": "너 진짜… 아하하! 산까지 세 번이나 대답했잖아! 소리실 전체가 나 바보래!",
+  "tts": "[laughing hard] 너 진짜… 아하하! 산까지 세 번이나 대답했잖아! 소리실 전체가 나 바보래!",
+  "hash": "af83331875",
+  "label": "c2_fool",
+  "loc": "02_ch2.vn:161"
+ },
+ {
+  "id": "ys0083",
+  "char": "yunseul",
+  "text": "쉰여섯 번째. 메아리 바위, 철새 버전.",
+  "tts": "[content] 쉰여섯 번째. 메아리 바위, 철새 버전.",
+  "hash": "af45840d55",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:169"
+ },
+ {
+  "id": "ys0084",
+  "char": "yunseul",
+  "text": "오늘 밤 방송은 이걸로 한다. 너도 와. 페이더 올리는 거 가르쳐 줄게.",
+  "tts": "[bright] 오늘 밤 방송은 이걸로 한다. 너도 와. 페이더 올리는 거 가르쳐 줄게.",
+  "hash": "9e73b64a02",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:171"
+ },
+ {
+  "id": "ys0085",
+  "char": "yunseul",
+  "text": "자, 이게 마이크 페이더. 이게 녹음기 채널. 내가 손가락 이렇게 하면 올리고, 이렇게 하면 내려. 알았지?",
+  "tts": "[quick instructions] 자, 이게 마이크 페이더. 이게 녹음기 채널. 내가 손가락 이렇게 하면 올리고, 이렇게 하면 내려. 알았지?",
+  "hash": "ec1ba4e1fc",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:178"
+ },
+ {
+  "id": "ys0086",
+  "char": "yunseul",
+  "text": "방송 중엔 말을 못 하니까. {w=0.2}자, 들어간다. 셋, 둘—",
+  "tts": "방송 중엔 말을 못 하니까. 자, 들어간다. 셋, 둘—",
+  "hash": "b67c104bfc",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:180"
+ },
+ {
+  "id": "ys0087",
+  "char": "yunseul",
+  "text": "여기는 소리실 심야방송, 88.3. 오늘 밤도 깨어 있는 여러분, 반가워요.",
+  "tts": "[smooth, warm late-night radio DJ voice] 여기는 소리실 심야방송, 88.3. 오늘 밤도 깨어 있는 여러분, 반가워요.",
+  "hash": "05882c7c01",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:183"
+ },
+ {
+  "id": "ys0088",
+  "char": "yunseul",
+  "text": "오늘은 소개할 사람이 있어요. 어제 방송 사고를 낸 그 철새 씨가, 오늘부터 우리 방송 조수가 됐습니다. 박수!",
+  "tts": "[DJ voice, playful] 오늘은 소개할 사람이 있어요. 어제 방송 사고를 낸 그 철새 씨가, 오늘부터 우리 방송 조수가 됐습니다. 박수!",
+  "hash": "594a0cec75",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:184"
+ },
+ {
+  "id": "ys0089",
+  "char": "yunseul",
+  "text": "오늘의 소리는 쉰여섯 번째, 메아리 바위. 녹음은 철새 씨가 했어요. 목소리 주인이 누군지는… 들어 보시면 알 거예요.",
+  "tts": "[DJ voice] 오늘의 소리는 쉰여섯 번째, 메아리 바위. 녹음은 철새 씨가 했어요. 목소리 주인이 누군지는… 들어 보시면 알 거예요.",
+  "hash": "abbc533d6a",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:186"
+ },
+ {
+  "id": "ys0090",
+  "char": "yunseul",
+  "text": "…네, 방송 사고 두 번째입니다. 이 조수, 해고를 검토 중이에요.",
+  "tts": "[DJ voice, pretending to be offended] …네, 방송 사고 두 번째입니다. 이 조수, 해고를 검토 중이에요.",
+  "hash": "13d01253b6",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:191"
+ },
+ {
+  "id": "ys0091",
+  "char": "yunseul",
+  "text": "…들으셨죠? 이 동네 산은, 부르면 꼭 대답해 줘요.",
+  "tts": "[DJ voice, tender] …들으셨죠? 이 동네 산은, 부르면 꼭 대답해 줘요.",
+  "hash": "8aea07471e",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:192"
+ },
+ {
+  "id": "ys0092",
+  "char": "yunseul",
+  "text": "여러분도 이 여름 동안 많이 불러 주세요. 대답해 줄 수 있을 때.",
+  "tts": "[DJ voice, sincere] 여러분도 이 여름 동안 많이 불러 주세요. 대답해 줄 수 있을 때.",
+  "hash": "cecd4502bd",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:193"
+ },
+ {
+  "id": "ys0093",
+  "char": "yunseul",
+  "text": "수고했어, 조수. 첫날치곤 잘했어.",
+  "tts": "[relaxed, quiet] 수고했어, 조수. 첫날치곤 잘했어.",
+  "hash": "0937e67c88",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:203"
+ },
+ {
+  "id": "ys0094",
+  "char": "yunseul",
+  "text": "알아. 표정 다 보였어.",
+  "tts": "[soft laugh] 알아. 표정 다 보였어.",
+  "hash": "4596276267",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:205"
+ },
+ {
+  "id": "ys0095",
+  "char": "yunseul",
+  "text": "이 방송, 원래 우리 엄마 거였어.",
+  "tts": "[carefully, quietly] 이 방송, 원래 우리 엄마 거였어.",
+  "hash": "d6f8cba555",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:210"
+ },
+ {
+  "id": "ys0096",
+  "char": "yunseul",
+  "text": "엄마가 분교 음악 선생님이었거든. 학교 문 닫기 전부터, 밤마다 마을 사람들한테 노래 틀어 주고 사연 읽어 주고.",
+  "tts": "엄마가 분교 음악 선생님이었거든. 학교 문 닫기 전부터, 밤마다 마을 사람들한테 노래 틀어 주고 사연 읽어 주고.",
+  "hash": "176e8593ec",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:211"
+ },
+ {
+  "id": "ys0097",
+  "char": "yunseul",
+  "text": "아, 별똥별! 봤어? 방금 저기!",
+  "tts": "[changing the subject too brightly] 아, 별똥별! 봤어? 방금 저기!",
+  "hash": "0a40523f70",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:214"
+ },
+ {
+  "id": "ys0098",
+  "char": "yunseul",
+  "text": "…내일은 늦잠 자도 돼. 여섯 시.",
+  "tts": "[softly] …내일은 늦잠 자도 돼. 여섯 시.",
+  "hash": "68dfdc497e",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:216"
+ },
+ {
+  "id": "ys0099",
+  "char": "yunseul",
+  "text": "소리실 기준으론.",
+  "tts": "소리실 기준으론.",
+  "hash": "46f164802e",
+  "label": "c2_after",
+  "loc": "02_ch2.vn:218"
+ },
+ {
+  "id": "bs0015",
+  "char": "bongsun",
+  "text": "왔냐. 이거 좀 봐 줄 텨? 우리 영감이 쓰던 거여.",
+  "tts": "[gentle, a little hesitant] 왔냐. 이거 좀 봐 줄 텨? 우리 영감이 쓰던 거여.",
+  "hash": "77d098652e",
+  "label": "ch3",
+  "loc": "03_ch3.vn:16"
+ },
+ {
+  "id": "ys0100",
+  "char": "yunseul",
+  "text": "이거… 이장님 마을 방송 녹음한 거예요? 이걸 다?",
+  "tts": "[amazed] 이거… 이장님 마을 방송 녹음한 거예요? 이걸 다?",
+  "hash": "97803ee9e4",
+  "label": "ch3",
+  "loc": "03_ch3.vn:18"
+ },
+ {
+  "id": "bs0016",
+  "char": "bongsun",
+  "text": "그 양반이 극성이었지. 방송할 때마다 테이프를 떠 놨어. 나중에 손주들 들려준다고.",
+  "tts": "[fond] 그 양반이 극성이었지. 방송할 때마다 테이프를 떠 놨어. 나중에 손주들 들려준다고.",
+  "hash": "3cd984eab9",
+  "label": "ch3",
+  "loc": "03_ch3.vn:19"
+ },
+ {
+  "id": "bs0017",
+  "char": "bongsun",
+  "text": "근디 손주들은 서울 가서 안 오고, 영감은 먼저 가고.",
+  "tts": "[quietly] 근디 손주들은 서울 가서 안 오고, 영감은 먼저 가고.",
+  "hash": "f712c7ab76",
+  "label": "ch3",
+  "loc": "03_ch3.vn:20"
+ },
+ {
+  "id": "bs0018",
+  "char": "bongsun",
+  "text": "이게 제일 좋아하던 거여. 근디 작년에 틀다가 이렇게 씹혀 버렸어. 무서워서 다신 못 틀겄더라고.",
+  "tts": "이게 제일 좋아하던 거여. 근디 작년에 틀다가 이렇게 씹혀 버렸어. 무서워서 다신 못 틀겄더라고.",
+  "hash": "a3149ca76c",
+  "label": "ch3",
+  "loc": "03_ch3.vn:22"
+ },
+ {
+  "id": "bs0019",
+  "char": "bongsun",
+  "text": "이사 가기 전에… 한 번만 다시 들을 수 있을까 싶어서. 윤슬이 방송에서 말했잖여.",
+  "tts": "[pleading softly] 이사 가기 전에… 한 번만 다시 들을 수 있을까 싶어서. 윤슬이 방송에서 말했잖여.",
+  "hash": "ed2eae1b75",
+  "label": "ch3",
+  "loc": "03_ch3.vn:23"
+ },
+ {
+  "id": "ys0101",
+  "char": "yunseul",
+  "text": "들을 수 있게 해 드릴게요. 약속했잖아요.",
+  "tts": "[determined] 들을 수 있게 해 드릴게요. 약속했잖아요.",
+  "hash": "c9bd8efcd8",
+  "label": "ch3",
+  "loc": "03_ch3.vn:25"
+ },
+ {
+  "id": "ys0102",
+  "char": "yunseul",
+  "text": "네가?",
+  "tts": "네가?",
+  "hash": "693a925c0b",
+  "label": "ch3",
+  "loc": "03_ch3.vn:30"
+ },
+ {
+  "id": "bs0020",
+  "char": "bongsun",
+  "text": "아이구, 철새가 재주가 있네!",
+  "tts": "[delighted] 아이구, 철새가 재주가 있네!",
+  "hash": "795646670a",
+  "label": "ch3",
+  "loc": "03_ch3.vn:33"
+ },
+ {
+  "id": "bs0021",
+  "char": "bongsun",
+  "text": "라디오에서 그렇게 부르던디? 온 동네가 다 그렇게 불러.",
+  "tts": "[laughing] 라디오에서 그렇게 부르던디? 온 동네가 다 그렇게 불러.",
+  "hash": "ba434eaebe",
+  "label": "ch3",
+  "loc": "03_ch3.vn:35"
+ },
+ {
+  "id": "ys0103",
+  "char": "yunseul",
+  "text": "…우와.",
+  "tts": "[whispering, fascinated] …우와.",
+  "hash": "5c4ff40817",
+  "label": "ch3",
+  "loc": "03_ch3.vn:45"
+ },
+ {
+  "id": "ys0104",
+  "char": "yunseul",
+  "text": "쉬고 있거든? 조용히 쉬는 중이야.",
+  "tts": "[whispering, pouting] 쉬고 있거든? 조용히 쉬는 중이야.",
+  "hash": "66153ed26c",
+  "label": "ch3",
+  "loc": "03_ch3.vn:48"
+ },
+ {
+  "id": "ys0105",
+  "char": "yunseul",
+  "text": "…그거 들리는 건 네 귀가 이상한 거야.",
+  "tts": "[annoyed whisper] …그거 들리는 건 네 귀가 이상한 거야.",
+  "hash": "1c229d9678",
+  "label": "ch3",
+  "loc": "03_ch3.vn:50"
+ },
+ {
+  "id": "ys0106",
+  "char": "yunseul",
+  "text": "너 손, 되게 조심스럽다. 그런 손으로 물건 다루는 사람 처음 봐.",
+  "tts": "[quietly] 너 손, 되게 조심스럽다. 그런 손으로 물건 다루는 사람 처음 봐.",
+  "hash": "9c94755591",
+  "label": "ch3",
+  "loc": "03_ch3.vn:52"
+ },
+ {
+  "id": "ys0107",
+  "char": "yunseul",
+  "text": "…그거, 사람한테도 그렇겠지.",
+  "tts": "[soft, a little wistful] …그거, 사람한테도 그렇겠지.",
+  "hash": "c019f4bdaa",
+  "label": "ch3",
+  "loc": "03_ch3.vn:54"
+ },
+ {
+  "id": "ys0108",
+  "char": "yunseul",
+  "text": "진짜? 벌써?",
+  "tts": "[excited] 진짜? 벌써?",
+  "hash": "4f748c4893",
+  "label": "ch3",
+  "loc": "03_ch3.vn:59"
+ },
+ {
+  "id": "gp0001",
+  "char": "grandpa",
+  "text": "아아, 아아. 마이크 시험 중. {w=0.3}에, 소리실 주민 여러분께 알려 드립니다.",
+  "tts": "[old man's village PA announcement, rustic Chungcheong accent] 아아, 아아. 마이크 시험 중. 에, 소리실 주민 여러분께 알려 드립니다.",
+  "hash": "adb3fa5c75",
+  "label": "ch3",
+  "loc": "03_ch3.vn:66"
+ },
+ {
+  "id": "gp0002",
+  "char": "grandpa",
+  "text": "내일은 분교 가을 운동회가 있사오니, 온 동네 어르신들께서는 돗자리 챙기시고 한 분도 빠짐없이 나와 주시기 바랍니다.",
+  "tts": "[village PA announcement, cheerful] 내일은 분교 가을 운동회가 있사오니, 온 동네 어르신들께서는 돗자리 챙기시고 한 분도 빠짐없이 나와 주시기 바랍니다.",
+  "hash": "ba4c5b4f81",
+  "label": "ch3",
+  "loc": "03_ch3.vn:67"
+ },
+ {
+  "id": "gp0003",
+  "char": "grandpa",
+  "text": "그리고… 에, 봉순아. 칼국수 남겨 놔. {w=0.3}이상, 이장이었습니다.",
+  "tts": "[village PA, cheeky whisper then loud] 그리고… 에, 봉순아. 칼국수 남겨 놔. 이상, 이장이었습니다.",
+  "hash": "50ffaf38b2",
+  "label": "ch3",
+  "loc": "03_ch3.vn:68"
+ },
+ {
+  "id": "ys0109",
+  "char": "yunseul",
+  "text": "아하하하! 칼국수 남겨 놔래! 이걸 온 동네에 방송했어!",
+  "tts": "[bursting into laughter] 아하하하! 칼국수 남겨 놔래! 이걸 온 동네에 방송했어!",
+  "hash": "a9ad1f7c66",
+  "label": "ch3",
+  "loc": "03_ch3.vn:71"
+ },
+ {
+  "id": "ys0110",
+  "char": "yunseul",
+  "text": "할머니가 이거 제일 좋아하셨다는 거, 이제 알겠다.",
+  "tts": "[laughing, then soft] 할머니가 이거 제일 좋아하셨다는 거, 이제 알겠다.",
+  "hash": "6d9238cdc8",
+  "label": "ch3",
+  "loc": "03_ch3.vn:73"
+ },
+ {
+  "id": "ys0111",
+  "char": "yunseul",
+  "text": "다른 것도 들어 보자. 상태 괜찮은지 확인해야 되니까.",
+  "tts": "[busy, happy] 다른 것도 들어 보자. 상태 괜찮은지 확인해야 되니까.",
+  "hash": "28a7794fc1",
+  "label": "ch3",
+  "loc": "03_ch3.vn:76"
+ },
+ {
+  "id": "ys0112",
+  "char": "yunseul",
+  "text": "어, 이건 뭐지. 이름이 없네.",
+  "tts": "어, 이건 뭐지. 이름이 없네.",
+  "hash": "e2c48be64e",
+  "label": "ch3",
+  "loc": "03_ch3.vn:78"
+ },
+ {
+  "id": "mo0001",
+  "char": "mother",
+  "text": "…여기는 소리실 심야방송, 88.3. 오늘은 특별한 손님이 와 있어요. 우리 딸 윤슬이가 처음으로—",
+  "tts": "[warm young woman's late-night radio DJ voice, gentle] …여기는 소리실 심야방송, 88.3. 오늘은 특별한 손님이 와 있어요. 우리 딸 윤슬이가 처음으로—",
+  "hash": "664de34f50",
+  "label": "ch3",
+  "loc": "03_ch3.vn:85"
+ },
+ {
+  "id": "ys0113",
+  "char": "yunseul",
+  "text": "…미안. {w=0.4}잠깐만.",
+  "tts": "[shaking, barely holding it together] …미안. 잠깐만.",
+  "hash": "5bac451887",
+  "label": "ch3",
+  "loc": "03_ch3.vn:95"
+ },
+ {
+  "id": "ys0114",
+  "char": "yunseul",
+  "text": "…안 물어봐?",
+  "tts": "[quiet, hoarse] …안 물어봐?",
+  "hash": "26563a3063",
+  "label": "ch3",
+  "loc": "03_ch3.vn:110"
+ },
+ {
+  "id": "ys0115",
+  "char": "yunseul",
+  "text": "우리 엄마. {w=0.3}강여름. 분교 음악 선생님이었고, 88.3 원래 DJ.",
+  "tts": "[slowly, carefully] 우리 엄마. 강여름. 분교 음악 선생님이었고, 88.3 원래 DJ.",
+  "hash": "1492511e5b",
+  "label": "ch3",
+  "loc": "03_ch3.vn:114"
+ },
+ {
+  "id": "ys0116",
+  "char": "yunseul",
+  "text": "오 년 전에 아팠어. 금방 괜찮아질 줄 알았는데, 안 괜찮아졌어.",
+  "tts": "오 년 전에 아팠어. 금방 괜찮아질 줄 알았는데, 안 괜찮아졌어.",
+  "hash": "735e533194",
+  "label": "ch3",
+  "loc": "03_ch3.vn:115"
+ },
+ {
+  "id": "ys0117",
+  "char": "yunseul",
+  "text": "그 방송실, 엄마 냄새가 나. 그래서 거기서 방송하는 거야. 엄마가 하던 것처럼.",
+  "tts": "[voice trembling slightly] 그 방송실, 엄마 냄새가 나. 그래서 거기서 방송하는 거야. 엄마가 하던 것처럼.",
+  "hash": "a027b8758b",
+  "label": "ch3",
+  "loc": "03_ch3.vn:116"
+ },
+ {
+  "id": "ys0118",
+  "char": "yunseul",
+  "text": "엄마 테이프가 많거든. 방송 녹음한 거. 근데 하나는… 아직 한 번도 안 들었어.",
+  "tts": "엄마 테이프가 많거든. 방송 녹음한 거. 근데 하나는… 아직 한 번도 안 들었어.",
+  "hash": "dd59e73d16",
+  "label": "ch3",
+  "loc": "03_ch3.vn:117"
+ },
+ {
+  "id": "ys0119",
+  "char": "yunseul",
+  "text": "엄마가 마지막에 녹음한 거야. 병원 가기 전에.",
+  "tts": "[tearful, whispering] 엄마가 마지막에 녹음한 거야. 병원 가기 전에.",
+  "hash": "57aadf6d74",
+  "label": "ch3",
+  "loc": "03_ch3.vn:121"
+ },
+ {
+  "id": "ys0120",
+  "char": "yunseul",
+  "text": "이거 들으면… 진짜로 끝날 것 같아서. 엄마가 진짜로 가 버릴 것 같아서. 그래서 오 년 동안 못 들었어.",
+  "tts": "[crying softly] 이거 들으면… 진짜로 끝날 것 같아서. 엄마가 진짜로 가 버릴 것 같아서. 그래서 오 년 동안 못 들었어.",
+  "hash": "eee9dfd767",
+  "label": "ch3",
+  "loc": "03_ch3.vn:122"
+ },
+ {
+  "id": "ys0121",
+  "char": "yunseul",
+  "text": "웃기지. 나 있잖아, 「잘 가」라는 말을 한 번도 해 본 적이 없어.",
+  "tts": "[hollow, small laugh] 웃기지. 나 있잖아, 「잘 가」라는 말을 한 번도 해 본 적이 없어.",
+  "hash": "3c716dc18a",
+  "label": "ch3",
+  "loc": "03_ch3.vn:125"
+ },
+ {
+  "id": "ys0122",
+  "char": "yunseul",
+  "text": "엄마한테도. 이사 가는 친구들한테도. 떠나는 사람 앞에서는 입이 안 떨어져. 그래서 맨날 숨어.",
+  "tts": "[quiet confession] 엄마한테도. 이사 가는 친구들한테도. 떠나는 사람 앞에서는 입이 안 떨어져. 그래서 맨날 숨어.",
+  "hash": "59566e3752",
+  "label": "ch3",
+  "loc": "03_ch3.vn:126"
+ },
+ {
+  "id": "ys0123",
+  "char": "yunseul",
+  "text": "이 동네 사람들, 요즘 하나둘씩 떠나잖아. 나 한 번도 배웅 못 했어.",
+  "tts": "이 동네 사람들, 요즘 하나둘씩 떠나잖아. 나 한 번도 배웅 못 했어.",
+  "hash": "173902cd41",
+  "label": "ch3",
+  "loc": "03_ch3.vn:127"
+ },
+ {
+  "id": "ys0124",
+  "char": "yunseul",
+  "text": "그래서 녹음하는 거야. 소리라도 남겨 두면, 안녕 안 해도 되니까.",
+  "tts": "[whispering] 그래서 녹음하는 거야. 소리라도 남겨 두면, 안녕 안 해도 되니까.",
+  "hash": "d647b584c7",
+  "label": "ch3",
+  "loc": "03_ch3.vn:129"
+ },
+ {
+  "id": "ys0125",
+  "char": "yunseul",
+  "text": "응?",
+  "tts": "[softly surprised] 응?",
+  "hash": "29cbb66cca",
+  "label": "ch3",
+  "loc": "03_ch3.vn:131"
+ },
+ {
+  "id": "ys0126",
+  "char": "yunseul",
+  "text": "…뭐야. 우리 둘 다 겁쟁이네.",
+  "tts": "[a small watery smile] …뭐야. 우리 둘 다 겁쟁이네.",
+  "hash": "a7eb6ec4ec",
+  "label": "ch3",
+  "loc": "03_ch3.vn:133"
+ },
+ {
+  "id": "ys0127",
+  "char": "yunseul",
+  "text": "됐다. 울었더니 배고파. 그리고… 할머니 테이프, 오늘 밤에 틀자. 할머니 이사 가시기 전에.",
+  "tts": "[wiping her eyes, forcing brightness] 됐다. 울었더니 배고파. 그리고… 할머니 테이프, 오늘 밤에 틀자. 할머니 이사 가시기 전에.",
+  "hash": "8d5b87fdd4",
+  "label": "ch3",
+  "loc": "03_ch3.vn:136"
+ },
+ {
+  "id": "ys0128",
+  "char": "yunseul",
+  "text": "여기는 소리실 심야방송, 88.3. 오늘은 약속 하나 지키려고 해요.",
+  "tts": "[smooth, warm late-night radio DJ voice] 여기는 소리실 심야방송, 88.3. 오늘은 약속 하나 지키려고 해요.",
+  "hash": "caf4cc902c",
+  "label": "ch3",
+  "loc": "03_ch3.vn:144"
+ },
+ {
+  "id": "ys0129",
+  "char": "yunseul",
+  "text": "봉순상회 할머니. 지금 듣고 계시죠? 할머니가 보내 주신 사연, 기억하세요?",
+  "tts": "[DJ voice, tender] 봉순상회 할머니. 지금 듣고 계시죠? 할머니가 보내 주신 사연, 기억하세요?",
+  "hash": "8d22e6d912",
+  "label": "ch3",
+  "loc": "03_ch3.vn:145"
+ },
+ {
+  "id": "ys0130",
+  "char": "yunseul",
+  "text": "철새 씨가 고쳐 줬어요. 이장님 목소리.",
+  "tts": "[DJ voice, warm] 철새 씨가 고쳐 줬어요. 이장님 목소리.",
+  "hash": "8ce460038a",
+  "label": "ch3",
+  "loc": "03_ch3.vn:146"
+ },
+ {
+  "id": "gp0004",
+  "char": "grandpa",
+  "text": "아아, 마이크 시험 중. 에, 소리실 주민 여러분께 알려 드립니다. 오늘 저녁엔 비가 온다니께 고추 널어 두신 분들은 얼른 걷으셔유.",
+  "tts": "[old man's village PA announcement, warm and rustic] 아아, 마이크 시험 중. 에, 소리실 주민 여러분께 알려 드립니다. 오늘 저녁엔 비가 온다니께 고추 널어 두신 분들은 얼른 걷으셔유.",
+  "hash": "7a718c3409",
+  "label": "ch3",
+  "loc": "03_ch3.vn:153"
+ },
+ {
+  "id": "gp0005",
+  "char": "grandpa",
+  "text": "그리고 봉순아. {w=0.3}칼국수 남겨 놔.",
+  "tts": "[village PA, cheeky and affectionate] 그리고 봉순아. 칼국수 남겨 놔.",
+  "hash": "acaed1dc91",
+  "label": "ch3",
+  "loc": "03_ch3.vn:154"
+ },
+ {
+  "id": "bs0022",
+  "char": "bongsun",
+  "text": "…이 양반아. {w=0.4}칼국수는 무슨… 칼국수는…",
+  "tts": "[crying and laughing at once, elderly woman] …이 양반아. 칼국수는 무슨… 칼국수는…",
+  "hash": "bcd453833a",
+  "label": "ch3",
+  "loc": "03_ch3.vn:157"
+ },
+ {
+  "id": "bs0023",
+  "char": "bongsun",
+  "text": "남겨 놨어. 맨날 남겨 놨어. 오지도 않을 거면서.",
+  "tts": "[sobbing softly, loving] 남겨 놨어. 맨날 남겨 놨어. 오지도 않을 거면서.",
+  "hash": "c7513c0ba6",
+  "label": "ch3",
+  "loc": "03_ch3.vn:158"
+ },
+ {
+  "id": "ys0131",
+  "char": "yunseul",
+  "text": "…네. 들으셨어요? 할머니, 이장님 목소리 아직 여기 있어요. {w=0.3}사라지지 않았어요.",
+  "tts": "[DJ voice cracking, tearful but warm] …네. 들으셨어요? 할머니, 이장님 목소리 아직 여기 있어요. 사라지지 않았어요.",
+  "hash": "345919776c",
+  "label": "ch3",
+  "loc": "03_ch3.vn:163"
+ },
+ {
+  "id": "ys0132",
+  "char": "yunseul",
+  "text": "오늘의 소리는 쉰일곱 번째. 「봉순아, 칼국수 남겨 놔.」 {w=0.3}여기는 88.3이었습니다.",
+  "tts": "[DJ voice, steadying] 오늘의 소리는 쉰일곱 번째. 「봉순아, 칼국수 남겨 놔.」 여기는 88.3이었습니다.",
+  "hash": "9501de54e9",
+  "label": "ch3",
+  "loc": "03_ch3.vn:164"
+ },
+ {
+  "id": "ys0133",
+  "char": "yunseul",
+  "text": "…고마워, 철새.",
+  "tts": "[quietly, not looking at him] …고마워, 철새.",
+  "hash": "9f8e49a16b",
+  "label": "ch3",
+  "loc": "03_ch3.vn:167"
+ },
+ {
+  "id": "bs0024",
+  "char": "bongsun",
+  "text": "…윤슬이는?",
+  "tts": "[looking around] …윤슬이는?",
+  "hash": "77d3c76f7c",
+  "label": "ch3",
+  "loc": "03_ch3.vn:178"
+ },
+ {
+  "id": "ys0134",
+  "char": "yunseul",
+  "text": "…왜 왔어.",
+  "tts": "[startled, defensive] …왜 왔어.",
+  "hash": "e79b03c164",
+  "label": "c3_bring",
+  "loc": "03_ch3.vn:194"
+ },
+ {
+  "id": "ys0135",
+  "char": "yunseul",
+  "text": "알아. 그러니까 여기 있는 거잖아. 나 못 해. 할머니 얼굴 보면… 진짜로 가시는 거잖아.",
+  "tts": "[shaking her head] 알아. 그러니까 여기 있는 거잖아. 나 못 해. 할머니 얼굴 보면… 진짜로 가시는 거잖아.",
+  "hash": "ee5ef6956e",
+  "label": "c3_bring",
+  "loc": "03_ch3.vn:196"
+ },
+ {
+  "id": "ys0136",
+  "char": "yunseul",
+  "text": "그러니까—!",
+  "tts": "[hurt, snapping] 그러니까—!",
+  "hash": "1787c2397b",
+  "label": "c3_bring",
+  "loc": "03_ch3.vn:198"
+ },
+ {
+  "id": "bs0025",
+  "char": "bongsun",
+  "text": "아이구, 윤슬아.",
+  "tts": "아이구, 윤슬아.",
+  "hash": "e9b9d80292",
+  "label": "c3_bring",
+  "loc": "03_ch3.vn:206"
+ },
+ {
+  "id": "ys0137",
+  "char": "yunseul",
+  "text": "할머니, 저… 저기, 잘—",
+  "tts": "[choked up, trying to speak] 할머니, 저… 저기, 잘—",
+  "hash": "6886f0cd79",
+  "label": "c3_bring",
+  "loc": "03_ch3.vn:207"
+ },
+ {
+  "id": "bs0026",
+  "char": "bongsun",
+  "text": "잘 가, 그 말은 하지 말어. 소리실 사람들은 그렇게 인사 안 혀.",
+  "tts": "[gentle, wise, warm Chungcheong grandmother] 잘 가, 그 말은 하지 말어. 소리실 사람들은 그렇게 인사 안 혀.",
+  "hash": "e8196a8b6b",
+  "label": "c3_bring",
+  "loc": "03_ch3.vn:210"
+ },
+ {
+  "id": "bs0027",
+  "char": "bongsun",
+  "text": "다녀와. {w=0.3}그렇게 하는 거여. 다녀오면, 또 보는 거니께.",
+  "tts": "[tender] 다녀와. 그렇게 하는 거여. 다녀오면, 또 보는 거니께.",
+  "hash": "0f5f2689bf",
+  "label": "c3_bring",
+  "loc": "03_ch3.vn:211"
+ },
+ {
+  "id": "ys0138",
+  "char": "yunseul",
+  "text": "…다녀오세요, 할머니. {w=0.4}다녀오세요.",
+  "tts": "[crying, but saying it clearly] …다녀오세요, 할머니. 다녀오세요.",
+  "hash": "8a0371158c",
+  "label": "c3_bring",
+  "loc": "03_ch3.vn:212"
+ },
+ {
+  "id": "bs0028",
+  "char": "bongsun",
+  "text": "그려. 다녀올게. 우리 윤슬이, 밥 잘 챙겨 먹고.",
+  "tts": "[crying with a smile] 그려. 다녀올게. 우리 윤슬이, 밥 잘 챙겨 먹고.",
+  "hash": "8a6d55f8bf",
+  "label": "c3_bring",
+  "loc": "03_ch3.vn:213"
+ },
+ {
+  "id": "bs0029",
+  "char": "bongsun",
+  "text": "알어. 그 애가 그렇지. 제 엄마 보낼 때도 그랬어. 장례식 내내 뒷산에 숨어 있었지.",
+  "tts": "[understanding, gentle] 알어. 그 애가 그렇지. 제 엄마 보낼 때도 그랬어. 장례식 내내 뒷산에 숨어 있었지.",
+  "hash": "7a09970dcb",
+  "label": "c3_proxy",
+  "loc": "03_ch3.vn:221"
+ },
+ {
+  "id": "bs0030",
+  "char": "bongsun",
+  "text": "이거 윤슬이 줘. 그리고 전해 줘. 잘 가, 그 말은 안 해도 된다고. 소리실 사람들은 그렇게 인사 안 혀.",
+  "tts": "[warm, wise, Chungcheong accent] 이거 윤슬이 줘. 그리고 전해 줘. 잘 가, 그 말은 안 해도 된다고. 소리실 사람들은 그렇게 인사 안 혀.",
+  "hash": "5293fe4350",
+  "label": "c3_proxy",
+  "loc": "03_ch3.vn:223"
+ },
+ {
+  "id": "bs0031",
+  "char": "bongsun",
+  "text": "다녀와. {w=0.3}그렇게 하는 거여. 다녀오면 또 보는 거니께.",
+  "tts": "[tender] 다녀와. 그렇게 하는 거여. 다녀오면 또 보는 거니께.",
+  "hash": "b91aee8c75",
+  "label": "c3_proxy",
+  "loc": "03_ch3.vn:224"
+ },
+ {
+  "id": "ys0139",
+  "char": "yunseul",
+  "text": "…다녀오세요. {w=0.4}다녀오세요, 할머니.",
+  "tts": "[crying, small voice] …다녀오세요. 다녀오세요, 할머니.",
+  "hash": "0edcddc943",
+  "label": "c3_proxy",
+  "loc": "03_ch3.vn:231"
+ },
+ {
+  "id": "ys0140",
+  "char": "yunseul",
+  "text": "다녀와, 래. {w=0.3}잘 가 대신.",
+  "tts": "[hoarse from crying, but lighter] 다녀와, 래. 잘 가 대신.",
+  "hash": "ff3a98cd7f",
+  "label": "c3_after",
+  "loc": "03_ch3.vn:239"
+ },
+ {
+  "id": "ys0141",
+  "char": "yunseul",
+  "text": "응. {w=0.2}…그 말은, 나도 할 수 있을 것 같아.",
+  "tts": "[a small real smile] 응. …그 말은, 나도 할 수 있을 것 같아.",
+  "hash": "395c586397",
+  "label": "c3_after",
+  "loc": "03_ch3.vn:241"
+ },
+ {
+  "id": "ys0142",
+  "char": "yunseul",
+  "text": "자, 조수. 오늘의 임무. 이거 전부 고쳐서 아랫말 어르신들 댁에 하나씩 돌리는 거야.",
+  "tts": "[businesslike, pleased] 자, 조수. 오늘의 임무. 이거 전부 고쳐서 아랫말 어르신들 댁에 하나씩 돌리는 거야.",
+  "hash": "e79db08e8c",
+  "label": "ch4",
+  "loc": "04_ch4.vn:16"
+ },
+ {
+  "id": "ys0143",
+  "char": "yunseul",
+  "text": "이사 가는 집들이 버리고 간 거. 새 집엔 텔레비전 있다고.",
+  "tts": "이사 가는 집들이 버리고 간 거. 새 집엔 텔레비전 있다고.",
+  "hash": "0dd2e6309a",
+  "label": "ch4",
+  "loc": "04_ch4.vn:18"
+ },
+ {
+  "id": "ys0144",
+  "char": "yunseul",
+  "text": "근데 아랫말 어르신들은 끝까지 버티신대. 최씨 할아버지는 수문 닫는 날까지 안 나간다고 하시고.",
+  "tts": "[more earnest] 근데 아랫말 어르신들은 끝까지 버티신대. 최씨 할아버지는 수문 닫는 날까지 안 나간다고 하시고.",
+  "hash": "19be3afd22",
+  "label": "ch4",
+  "loc": "04_ch4.vn:19"
+ },
+ {
+  "id": "ys0145",
+  "char": "yunseul",
+  "text": "거긴 휴대폰도 잘 안 터지거든. 태풍 오면 전기 나가고 전화 끊기는 거, 여기선 흔한 일이야. 그럴 때 건전지 라디오 하나 있으면 달라.",
+  "tts": "거긴 휴대폰도 잘 안 터지거든. 태풍 오면 전기 나가고 전화 끊기는 거, 여기선 흔한 일이야. 그럴 때 건전지 라디오 하나 있으면 달라.",
+  "hash": "e51cbc7fc8",
+  "label": "ch4",
+  "loc": "04_ch4.vn:20"
+ },
+ {
+  "id": "ys0146",
+  "char": "yunseul",
+  "text": "당연하지. 우리 방송, 닿는 데까지는 닿거든.",
+  "tts": "[proud] 당연하지. 우리 방송, 닿는 데까지는 닿거든.",
+  "hash": "4b7a32fb07",
+  "label": "ch4",
+  "loc": "04_ch4.vn:22"
+ },
+ {
+  "id": "ys0147",
+  "char": "yunseul",
+  "text": "어르신들 눈 어두우시잖아. 이 점에만 맞추면 돼요, 하고 알려 드리려고.",
+  "tts": "[explaining softly] 어르신들 눈 어두우시잖아. 이 점에만 맞추면 돼요, 하고 알려 드리려고.",
+  "hash": "cba2321661",
+  "label": "ch4",
+  "loc": "04_ch4.vn:24"
+ },
+ {
+  "id": "ys0148",
+  "char": "yunseul",
+  "text": "여기는 소리실 심야방송, 88.3. 오늘부터 새 코너가 생겼어요. 「소리실에 전화 주세요」!",
+  "tts": "[smooth, warm late-night radio DJ voice] 여기는 소리실 심야방송, 88.3. 오늘부터 새 코너가 생겼어요. 「소리실에 전화 주세요」!",
+  "hash": "f47d3bbaa1",
+  "label": "ch4",
+  "loc": "04_ch4.vn:33"
+ },
+ {
+  "id": "ys0149",
+  "char": "yunseul",
+  "text": "방송실 전화번호는 다들 아시죠? 분교 교무실 번호 그대로예요. 철새 씨가 전화선 살려 놨어요.",
+  "tts": "[DJ voice, cheerful] 방송실 전화번호는 다들 아시죠? 분교 교무실 번호 그대로예요. 철새 씨가 전화선 살려 놨어요.",
+  "hash": "e12a00adf1",
+  "label": "ch4",
+  "loc": "04_ch4.vn:34"
+ },
+ {
+  "id": "ys0150",
+  "char": "yunseul",
+  "text": "와, 벌써! {w=0.2}네, 88.3입니다!",
+  "tts": "[delighted surprise] 와, 벌써! 네, 88.3입니다!",
+  "hash": "882b184e7b",
+  "label": "ch4",
+  "loc": "04_ch4.vn:36"
+ },
+ {
+  "id": "ch0001",
+  "char": "choi",
+  "text": "어, 나여. 아랫말 최가.",
+  "tts": "[gruff old farmer, Chungcheong accent, grumpy but kind] 어, 나여. 아랫말 최가.",
+  "hash": "3e176fe6ef",
+  "label": "ch4",
+  "loc": "04_ch4.vn:39"
+ },
+ {
+  "id": "ys0151",
+  "char": "yunseul",
+  "text": "최씨 할아버지! 라디오 잘 나와요?",
+  "tts": "[DJ voice] 최씨 할아버지! 라디오 잘 나와요?",
+  "hash": "bce8511c8d",
+  "label": "ch4",
+  "loc": "04_ch4.vn:40"
+ },
+ {
+  "id": "ch0002",
+  "char": "choi",
+  "text": "잘 나오고말고. 그 철샌가 뭔가 하는 놈이 고쳐 줬다며. 소리가 쨍쨍혀.",
+  "tts": "[gruff, grudging] 잘 나오고말고. 그 철샌가 뭔가 하는 놈이 고쳐 줬다며. 소리가 쨍쨍혀.",
+  "hash": "354d26cc47",
+  "label": "ch4",
+  "loc": "04_ch4.vn:41"
+ },
+ {
+  "id": "ch0003",
+  "char": "choi",
+  "text": "근디 딴 게 아니라, 나는 안 나갈 거라고 방송에 좀 해 줘. 공단 놈들이 자꾸 와서 귀찮게 혀. 나는 여기서 나서 여기서 죽을 겨.",
+  "tts": "[gruff, stubborn] 근디 딴 게 아니라, 나는 안 나갈 거라고 방송에 좀 해 줘. 공단 놈들이 자꾸 와서 귀찮게 혀. 나는 여기서 나서 여기서 죽을 겨.",
+  "hash": "679fd7c9fe",
+  "label": "ch4",
+  "loc": "04_ch4.vn:42"
+ },
+ {
+  "id": "ys0152",
+  "char": "yunseul",
+  "text": "…할아버지, 그 마음 다 알아요. 그래도 수문 닫는 날엔 꼭 나오셔야 해요. 제가 모시러 갈게요. 약속.",
+  "tts": "[DJ voice, warm and careful] …할아버지, 그 마음 다 알아요. 그래도 수문 닫는 날엔 꼭 나오셔야 해요. 제가 모시러 갈게요. 약속.",
+  "hash": "549d0a4662",
+  "label": "ch4",
+  "loc": "04_ch4.vn:43"
+ },
+ {
+  "id": "ch0004",
+  "char": "choi",
+  "text": "…흥. 니가 온다면야. {w=0.3}끊는다.",
+  "tts": "[gruff, softening, embarrassed] …흥. 니가 온다면야. 끊는다.",
+  "hash": "84f7d120da",
+  "label": "ch4",
+  "loc": "04_ch4.vn:44"
+ },
+ {
+  "id": "ys0153",
+  "char": "yunseul",
+  "text": "네, 최씨 할아버지 츤데레 인증이었습니다.",
+  "tts": "[DJ voice, affectionate] 네, 최씨 할아버지 츤데레 인증이었습니다.",
+  "hash": "7f0ebf43c5",
+  "label": "ch4",
+  "loc": "04_ch4.vn:47"
+ },
+ {
+  "id": "sj0001",
+  "char": "sunja",
+  "text": "윤슬아, 나 순자 할미다. 옛날에 느이 엄마가 틀어 주던 노래 있잖여. 「섬집 아기」. 그거 한 번만 틀어 줄 수 있냐.",
+  "tts": "[gentle elderly woman, sweet voice] 윤슬아, 나 순자 할미다. 옛날에 느이 엄마가 틀어 주던 노래 있잖여. 「섬집 아기」. 그거 한 번만 틀어 줄 수 있냐.",
+  "hash": "4c023ccfe6",
+  "label": "ch4",
+  "loc": "04_ch4.vn:51"
+ },
+ {
+  "id": "ys0154",
+  "char": "yunseul",
+  "text": "…그럼요, 할머니. 엄마 테이프에 있어요.",
+  "tts": "[DJ voice, moved] …그럼요, 할머니. 엄마 테이프에 있어요.",
+  "hash": "2b3a11494c",
+  "label": "ch4",
+  "loc": "04_ch4.vn:52"
+ },
+ {
+  "id": "vd0001",
+  "char": "villager4",
+  "text": "어, 어… 여보세요? 저 다온인데요. 철새 오빠 목소리 듣고 싶어요!",
+  "tts": "[little girl, shy and excited] 어, 어… 여보세요? 저 다온인데요. 철새 오빠 목소리 듣고 싶어요!",
+  "hash": "57f5322689",
+  "label": "ch4",
+  "loc": "04_ch4.vn:57"
+ },
+ {
+  "id": "ys0155",
+  "char": "yunseul",
+  "text": "다온아, 철새 오빠는 수줍음이 많아서 말을 못 해요. {w=0.2}대신 손 흔들고 있어.",
+  "tts": "[DJ voice, laughing] 다온아, 철새 오빠는 수줍음이 많아서 말을 못 해요. 대신 손 흔들고 있어.",
+  "hash": "c27bf0cd85",
+  "label": "ch4",
+  "loc": "04_ch4.vn:58"
+ },
+ {
+  "id": "ys0156",
+  "char": "yunseul",
+  "text": "…반딧불이야. 이 개울, 소리실에서 제일 물이 깨끗한 데라서 아직 살아.",
+  "tts": "[whispering, full of wonder] …반딧불이야. 이 개울, 소리실에서 제일 물이 깨끗한 데라서 아직 살아.",
+  "hash": "e8e7da9e1f",
+  "label": "ch4",
+  "loc": "04_ch4.vn:73"
+ },
+ {
+  "id": "ys0157",
+  "char": "yunseul",
+  "text": "반딧불은 소리가 안 나. 그래서 녹음을 못 해. {w=0.3}백 개 중에 유일하게 못 담는 거.",
+  "tts": "[soft, dreamy] 반딧불은 소리가 안 나. 그래서 녹음을 못 해. 백 개 중에 유일하게 못 담는 거.",
+  "hash": "79798f5816",
+  "label": "ch4",
+  "loc": "04_ch4.vn:75"
+ },
+ {
+  "id": "ys0158",
+  "char": "yunseul",
+  "text": "이렇게 봐 두는 거지. 눈으로 녹음.",
+  "tts": "[gentle, turning to look at him] 이렇게 봐 두는 거지. 눈으로 녹음.",
+  "hash": "d81e4ad772",
+  "label": "ch4",
+  "loc": "04_ch4.vn:77"
+ },
+ {
+  "id": "ys0159",
+  "char": "yunseul",
+  "text": "있잖아. 우리 엄마 이름, 여름이었다고 했지.",
+  "tts": "[quiet, intimate] 있잖아. 우리 엄마 이름, 여름이었다고 했지.",
+  "hash": "c1ea40ebd6",
+  "label": "ch4",
+  "loc": "04_ch4.vn:81"
+ },
+ {
+  "id": "ys0160",
+  "char": "yunseul",
+  "text": "웃기지 않아? 이 동네가 가라앉는 게 여름 끝이야. 엄마 이름이랑 같이 가라앉는 것 같아.",
+  "tts": "[a small, sad laugh] 웃기지 않아? 이 동네가 가라앉는 게 여름 끝이야. 엄마 이름이랑 같이 가라앉는 것 같아.",
+  "hash": "3fda3bb216",
+  "label": "ch4",
+  "loc": "04_ch4.vn:82"
+ },
+ {
+  "id": "ys0161",
+  "char": "yunseul",
+  "text": "그래서 가끔은, 여름이 안 끝났으면 좋겠어. 이대로 계속.",
+  "tts": "그래서 가끔은, 여름이 안 끝났으면 좋겠어. 이대로 계속.",
+  "hash": "4640ff6218",
+  "label": "ch4",
+  "loc": "04_ch4.vn:83"
+ },
+ {
+  "id": "ys0162",
+  "char": "yunseul",
+  "text": "알거든? 그니까 녹음하는 거라니까.",
+  "tts": "[pouting] 알거든? 그니까 녹음하는 거라니까.",
+  "hash": "240d591cec",
+  "label": "ch4",
+  "loc": "04_ch4.vn:85"
+ },
+ {
+  "id": "ys0163",
+  "char": "yunseul",
+  "text": "너는? 너네 엄마는?",
+  "tts": "[curious, softer] 너는? 너네 엄마는?",
+  "hash": "f86a84b60c",
+  "label": "ch4",
+  "loc": "04_ch4.vn:86"
+ },
+ {
+  "id": "ys0164",
+  "char": "yunseul",
+  "text": "…그렇구나.",
+  "tts": "[gently] …그렇구나.",
+  "hash": "42f9012568",
+  "label": "ch4",
+  "loc": "04_ch4.vn:88"
+ },
+ {
+  "id": "ys0165",
+  "char": "yunseul",
+  "text": "아빠는 무슨 일 하셔? 공단 다니신다는 건 들었는데.",
+  "tts": "[curious] 아빠는 무슨 일 하셔? 공단 다니신다는 건 들었는데.",
+  "hash": "9fdad71583",
+  "label": "ch4",
+  "loc": "04_ch4.vn:89"
+ },
+ {
+  "id": "ys0166",
+  "char": "yunseul",
+  "text": "…어?",
+  "tts": "[stunned, quiet] …어?",
+  "hash": "6139ecbd1f",
+  "label": "c4_honest",
+  "loc": "04_ch4.vn:101"
+ },
+ {
+  "id": "ys0167",
+  "char": "yunseul",
+  "text": "그럼… 이 개울도, 메아리 바위도, 분교도. 너네 아빠가…",
+  "tts": "[slowly, hurt but thinking] 그럼… 이 개울도, 메아리 바위도, 분교도. 너네 아빠가…",
+  "hash": "2432fdb379",
+  "label": "c4_honest",
+  "loc": "04_ch4.vn:104"
+ },
+ {
+  "id": "ys0168",
+  "char": "yunseul",
+  "text": "…말해 줘서 고마워.",
+  "tts": "[quiet, steady, generous] …말해 줘서 고마워.",
+  "hash": "d05f5d39a6",
+  "label": "c4_honest",
+  "loc": "04_ch4.vn:108"
+ },
+ {
+  "id": "ys0169",
+  "char": "yunseul",
+  "text": "아저씨 잘못 아니잖아. 댐은 어차피 누군가 만드는 거고. 그리고 너 잘못은 더더욱 아니고.",
+  "tts": "아저씨 잘못 아니잖아. 댐은 어차피 누군가 만드는 거고. 그리고 너 잘못은 더더욱 아니고.",
+  "hash": "df8b2e6129",
+  "label": "c4_honest",
+  "loc": "04_ch4.vn:109"
+ },
+ {
+  "id": "ys0170",
+  "char": "yunseul",
+  "text": "근데… 오늘은 좀, 먼저 갈게. 머리가 복잡해서.",
+  "tts": "[honest, a little shaky] 근데… 오늘은 좀, 먼저 갈게. 머리가 복잡해서.",
+  "hash": "930d254329",
+  "label": "c4_honest",
+  "loc": "04_ch4.vn:110"
+ },
+ {
+  "id": "ys0171",
+  "char": "yunseul",
+  "text": "싫어서 그러는 거 아니야. 진짜로.",
+  "tts": "[softly] 싫어서 그러는 거 아니야. 진짜로.",
+  "hash": "311c4aadcd",
+  "label": "c4_honest",
+  "loc": "04_ch4.vn:111"
+ },
+ {
+  "id": "ys0172",
+  "char": "yunseul",
+  "text": "흐응. 그렇구나. 공단 아저씨들 맨날 서류 들고 다니더라.",
+  "tts": "[light, unaware] 흐응. 그렇구나. 공단 아저씨들 맨날 서류 들고 다니더라.",
+  "hash": "aedd650e66",
+  "label": "c4_silent",
+  "loc": "04_ch4.vn:120"
+ },
+ {
+  "id": "ys0173",
+  "char": "yunseul",
+  "text": "그래도 좋은 분이실 것 같아. 너 이렇게 조심스러운 거 보면.",
+  "tts": "[content] 그래도 좋은 분이실 것 같아. 너 이렇게 조심스러운 거 보면.",
+  "hash": "231000122a",
+  "label": "c4_silent",
+  "loc": "04_ch4.vn:121"
+ },
+ {
+  "id": "of0001",
+  "char": "official",
+  "text": "에, 주민 여러분, 바쁘신데 참석해 주셔서 감사합니다. 한국수자원공단 소리실댐 건설단입니다.",
+  "tts": "[formal middle-aged male official, bureaucratic tone] 에, 주민 여러분, 바쁘신데 참석해 주셔서 감사합니다. 한국수자원공단 소리실댐 건설단입니다.",
+  "hash": "afea0aecef",
+  "label": "c4_after",
+  "loc": "04_ch4.vn:135"
+ },
+ {
+  "id": "of0002",
+  "char": "official",
+  "text": "먼저 이주 일정 변경을 안내드리겠습니다. 올해 태풍 북상이 예년보다 빨라, 수문 폐쇄 일정을 앞당기게 되었습니다.",
+  "tts": "[formal, reading from a document] 먼저 이주 일정 변경을 안내드리겠습니다. 올해 태풍 북상이 예년보다 빨라, 수문 폐쇄 일정을 앞당기게 되었습니다.",
+  "hash": "53abe5712b",
+  "label": "c4_after",
+  "loc": "04_ch4.vn:136"
+ },
+ {
+  "id": "of0003",
+  "char": "official",
+  "text": "최종 이주 기한은 8월 31일에서 8월 24일로 변경됩니다.",
+  "tts": "[formal, firm] 최종 이주 기한은 8월 31일에서 8월 24일로 변경됩니다.",
+  "hash": "40b204c2b5",
+  "label": "c4_after",
+  "loc": "04_ch4.vn:137"
+ },
+ {
+  "id": "ch0005",
+  "char": "choi",
+  "text": "일주일을 그냥 뺏어 가겄다는 겨? 사람 사는 동네를, 일주일을?",
+  "tts": "[angry old man, shouting] 일주일을 그냥 뺏어 가겄다는 겨? 사람 사는 동네를, 일주일을?",
+  "hash": "063a359bed",
+  "label": "c4_after",
+  "loc": "04_ch4.vn:139"
+ },
+ {
+  "id": "of0004",
+  "char": "official",
+  "text": "안전을 위한 불가피한 조치임을 양해 부탁드립니다. {w=0.3}그리고 한 가지 더 있습니다.",
+  "tts": "[formal, uncomfortable] 안전을 위한 불가피한 조치임을 양해 부탁드립니다. 그리고 한 가지 더 있습니다.",
+  "hash": "ae3d77a130",
+  "label": "c4_after",
+  "loc": "04_ch4.vn:140"
+ },
+ {
+  "id": "of0005",
+  "char": "official",
+  "text": "최근 이 지역에서 허가받지 않은 라디오 전파가 송출되고 있다는 신고가 전파관리소에 접수되었습니다. 공사 현장 무전에 혼선이 생긴다는 민원도 있었고요.",
+  "tts": "[formal, pointed] 최근 이 지역에서 허가받지 않은 라디오 전파가 송출되고 있다는 신고가 전파관리소에 접수되었습니다. 공사 현장 무전에 혼선이 생긴다는 민원도 있었고요.",
+  "hash": "a7ba0fb997",
+  "label": "c4_after",
+  "loc": "04_ch4.vn:141"
+ },
+ {
+  "id": "of0006",
+  "char": "official",
+  "text": "전파법 위반입니다. 오늘부로 해당 송신기는 공단이 회수하며, 방송은 즉시 중단해 주시기 바랍니다.",
+  "tts": "[formal, final] 전파법 위반입니다. 오늘부로 해당 송신기는 공단이 회수하며, 방송은 즉시 중단해 주시기 바랍니다.",
+  "hash": "ccd36454ed",
+  "label": "c4_after",
+  "loc": "04_ch4.vn:143"
+ },
+ {
+  "id": "fa0006",
+  "char": "father",
+  "text": "현장 책임자 서정훈입니다. 일정이 당겨진 것, 제가 대신 사과드립니다. 수문 폐쇄 전까지 이사 지원은 저희가 끝까지 하겠습니다.",
+  "tts": "[tired, formal but human] 현장 책임자 서정훈입니다. 일정이 당겨진 것, 제가 대신 사과드립니다. 수문 폐쇄 전까지 이사 지원은 저희가 끝까지 하겠습니다.",
+  "hash": "6228c5dcc9",
+  "label": "c4_after",
+  "loc": "04_ch4.vn:146"
+ },
+ {
+  "id": "ys0174",
+  "char": "yunseul",
+  "text": "…서류 보신다며.",
+  "tts": "[whispering, disbelieving] …서류 보신다며.",
+  "hash": "7cd5cdf394",
+  "label": "c4_betray",
+  "loc": "04_ch4.vn:154"
+ },
+ {
+  "id": "ys0175",
+  "char": "yunseul",
+  "text": "사무 보신다며. {w=0.3}서류 같은 거.",
+  "tts": "[hurt, low and trembling] 사무 보신다며. 서류 같은 거.",
+  "hash": "72157e6ec1",
+  "label": "c4_betray",
+  "loc": "04_ch4.vn:156"
+ },
+ {
+  "id": "ys0176",
+  "char": "yunseul",
+  "text": "너 다 알고 있었지. 우리 방송 신고한 것도—",
+  "tts": "[furious and hurt, holding back tears] 너 다 알고 있었지. 우리 방송 신고한 것도—",
+  "hash": "262b933330",
+  "label": "c4_betray",
+  "loc": "04_ch4.vn:157"
+ },
+ {
+  "id": "ys0177",
+  "char": "yunseul",
+  "text": "…이제 뭘 믿어야 돼.",
+  "tts": "[cold, shaking] …이제 뭘 믿어야 돼.",
+  "hash": "949cabbcf9",
+  "label": "c4_betray",
+  "loc": "04_ch4.vn:159"
+ },
+ {
+  "id": "ys0178",
+  "char": "yunseul",
+  "text": "…괜찮아. 알고 있었으니까. 너네 아빠가 신고한 거 아닌 것도 알아.",
+  "tts": "[quiet, trembling with suppressed anger] …괜찮아. 알고 있었으니까. 너네 아빠가 신고한 거 아닌 것도 알아.",
+  "hash": "9c36fec70c",
+  "label": "c4_known",
+  "loc": "04_ch4.vn:169"
+ },
+ {
+  "id": "ys0179",
+  "char": "yunseul",
+  "text": "근데, 방송을 끄래.",
+  "tts": "[small voice] 근데, 방송을 끄래.",
+  "hash": "0d27ef9123",
+  "label": "c4_known",
+  "loc": "04_ch4.vn:170"
+ },
+ {
+  "id": "ys0180",
+  "char": "yunseul",
+  "text": "엄마 방송을. {w=0.3}엄마가 하던 걸, 내가 끝까지 해야 하는데.",
+  "tts": "[whispering, devastated] 엄마 방송을. 엄마가 하던 걸, 내가 끝까지 해야 하는데.",
+  "hash": "0420ab16d2",
+  "label": "c4_known",
+  "loc": "04_ch4.vn:171"
+ },
+ {
+  "id": "fa0007",
+  "char": "father",
+  "text": "…방송, 미안하다. 막을 수가 없었어.",
+  "tts": "[quiet, heavy] …방송, 미안하다. 막을 수가 없었어.",
+  "hash": "67558bd194",
+  "label": "ch5",
+  "loc": "05_ch5.vn:30"
+ },
+ {
+  "id": "fa0008",
+  "char": "father",
+  "text": "아니지. 전파관리소 감시망에 걸린 거다. 공사 무전이랑 주파수가 가까워서. {w=0.3}그래도, 그 자리에서 아무 말도 못 한 건 나다.",
+  "tts": "[honest] 아니지. 전파관리소 감시망에 걸린 거다. 공사 무전이랑 주파수가 가까워서. 그래도, 그 자리에서 아무 말도 못 한 건 나다.",
+  "hash": "e590293be0",
+  "label": "ch5",
+  "loc": "05_ch5.vn:32"
+ },
+ {
+  "id": "fa0009",
+  "char": "father",
+  "text": "열일곱 개다. 내가 물에 잠기게 한 마을.",
+  "tts": "[soft, nostalgic] 열일곱 개다. 내가 물에 잠기게 한 마을.",
+  "hash": "95302b716b",
+  "label": "ch5",
+  "loc": "05_ch5.vn:37"
+ },
+ {
+  "id": "fa0010",
+  "char": "father",
+  "text": "너 데리고 다닌 여섯 개도 여기 있어. 기억 나니? 이 학교. 네가 이 학교에서 딱 한 달 다녔지.",
+  "tts": "[quiet] 너 데리고 다닌 여섯 개도 여기 있어. 기억 나니? 이 학교. 네가 이 학교에서 딱 한 달 다녔지.",
+  "hash": "8479e31310",
+  "label": "ch5",
+  "loc": "05_ch5.vn:38"
+ },
+ {
+  "id": "fa0011",
+  "char": "father",
+  "text": "사라지는 걸 막을 수는 없잖아. 내 일이 그거니까.",
+  "tts": "[tender, sad] 사라지는 걸 막을 수는 없잖아. 내 일이 그거니까.",
+  "hash": "67f6d6b9f6",
+  "label": "ch5",
+  "loc": "05_ch5.vn:41"
+ },
+ {
+  "id": "fa0012",
+  "char": "father",
+  "text": "그래도 기억하는 사람 하나는 있어야 하지 않겠냐. 여기 사람들이 살았다고. 여기서 웃고 울었다고.",
+  "tts": "[quiet conviction] 그래도 기억하는 사람 하나는 있어야 하지 않겠냐. 여기 사람들이 살았다고. 여기서 웃고 울었다고.",
+  "hash": "79c9c0e23e",
+  "label": "ch5",
+  "loc": "05_ch5.vn:42"
+ },
+ {
+  "id": "fa0013",
+  "char": "father",
+  "text": "이 댐, 물이 다 차려면 사 년이 걸린다더라. 사 년 뒤면 소리실은 완전히 호수 밑이야.",
+  "tts": "[tired, looking at a photo] 이 댐, 물이 다 차려면 사 년이 걸린다더라. 사 년 뒤면 소리실은 완전히 호수 밑이야.",
+  "hash": "785fb9ccaf",
+  "label": "ch5",
+  "loc": "05_ch5.vn:44"
+ },
+ {
+  "id": "fa0014",
+  "char": "father",
+  "text": "한결아. 처음 이사할 때 내가 했던 말. 정 붙이지 말라고.",
+  "tts": "[regretful, very quietly] 한결아. 처음 이사할 때 내가 했던 말. 정 붙이지 말라고.",
+  "hash": "b9e9c65e79",
+  "label": "ch5",
+  "loc": "05_ch5.vn:45"
+ },
+ {
+  "id": "fa0015",
+  "char": "father",
+  "text": "그거, 내가 한 말 중에 제일 후회하는 말이다.",
+  "tts": "[voice breaking slightly] 그거, 내가 한 말 중에 제일 후회하는 말이다.",
+  "hash": "8e85883ebf",
+  "label": "ch5",
+  "loc": "05_ch5.vn:46"
+ },
+ {
+  "id": "fa0016",
+  "char": "father",
+  "text": "정 붙여라. 떠날 때 아파도. {w=0.3}아픈 게, 아무것도 없는 것보단 낫더라.",
+  "tts": "[earnest] 정 붙여라. 떠날 때 아파도. 아픈 게, 아무것도 없는 것보단 낫더라.",
+  "hash": "ed65e7efd4",
+  "label": "ch5",
+  "loc": "05_ch5.vn:47"
+ },
+ {
+  "id": "fa0017",
+  "char": "father",
+  "text": "…그 윤슬이라는 애. 라디오 잘 듣고 있었다. 현장 사람들도 다 들었어. 우리 현장 소장님도 몰래 들으시더라.",
+  "tts": "[gentle, knowing] …그 윤슬이라는 애. 라디오 잘 듣고 있었다. 현장 사람들도 다 들었어. 우리 현장 소장님도 몰래 들으시더라.",
+  "hash": "32104919e8",
+  "label": "ch5",
+  "loc": "05_ch5.vn:50"
+ },
+ {
+  "id": "fa0018",
+  "char": "father",
+  "text": "송신기는 현장 사무소 창고에 있다. 버리진 않았어. {w=0.3}…그냥 그렇다고.",
+  "tts": "[a small wink in his voice] 송신기는 현장 사무소 창고에 있다. 버리진 않았어. …그냥 그렇다고.",
+  "hash": "dd9989f449",
+  "label": "ch5",
+  "loc": "05_ch5.vn:51"
+ },
+ {
+  "id": "fa0019",
+  "char": "father",
+  "text": "글쎄. 왜일까.",
+  "tts": "[gentle] 글쎄. 왜일까.",
+  "hash": "76f17070b6",
+  "label": "ch5",
+  "loc": "05_ch5.vn:53"
+ },
+ {
+  "id": "ys0181",
+  "char": "yunseul",
+  "text": "…어떻게 알았어.",
+  "tts": "[surprised, quiet] …어떻게 알았어.",
+  "hash": "d37c5573da",
+  "label": "ch5",
+  "loc": "05_ch5.vn:64"
+ },
+ {
+  "id": "ys0182",
+  "char": "yunseul",
+  "text": "…바보. 그런 걸로 싫어할 거면 처음부터 조수로 안 썼어.",
+  "tts": "[hurt, but tired of being angry] …바보. 그런 걸로 싫어할 거면 처음부터 조수로 안 썼어.",
+  "hash": "62338b0132",
+  "label": "ch5",
+  "loc": "05_ch5.vn:67"
+ },
+ {
+  "id": "ys0183",
+  "char": "yunseul",
+  "text": "싫었던 건, 네가 말 안 해 준 거야. 그거 하나.",
+  "tts": "[quietly] 싫었던 건, 네가 말 안 해 준 거야. 그거 하나.",
+  "hash": "2688958dca",
+  "label": "ch5",
+  "loc": "05_ch5.vn:68"
+ },
+ {
+  "id": "ys0184",
+  "char": "yunseul",
+  "text": "방송실 봉인됐더라. 엄마 테이프들도 전부 안에 있어.",
+  "tts": "[small, tired] 방송실 봉인됐더라. 엄마 테이프들도 전부 안에 있어.",
+  "hash": "8d2caa9f1b",
+  "label": "ch5",
+  "loc": "05_ch5.vn:69"
+ },
+ {
+  "id": "ys0185",
+  "char": "yunseul",
+  "text": "나 그날 이후로 한 번도 녹음 안 했어. 녹음해 봐야 틀 데가 없잖아.",
+  "tts": "나 그날 이후로 한 번도 녹음 안 했어. 녹음해 봐야 틀 데가 없잖아.",
+  "hash": "832fac0879",
+  "label": "ch5",
+  "loc": "05_ch5.vn:70"
+ },
+ {
+  "id": "ys0186",
+  "char": "yunseul",
+  "text": "봐. 개울 쪽 집들 다 부서졌어. 저기 최씨 할아버지 댁만 남았어.",
+  "tts": "[looking at the valley] 봐. 개울 쪽 집들 다 부서졌어. 저기 최씨 할아버지 댁만 남았어.",
+  "hash": "786cfad10d",
+  "label": "ch5",
+  "loc": "05_ch5.vn:72"
+ },
+ {
+  "id": "ys0187",
+  "char": "yunseul",
+  "text": "백 개 못 채울 것 같아. 여든아홉 개에서 멈췄어.",
+  "tts": "[whispering] 백 개 못 채울 것 같아. 여든아홉 개에서 멈췄어.",
+  "hash": "c0e534c4a8",
+  "label": "ch5",
+  "loc": "05_ch5.vn:74"
+ },
+ {
+  "id": "ys0188",
+  "char": "yunseul",
+  "text": "…뭐?",
+  "tts": "[caught off guard] …뭐?",
+  "hash": "8cb6491e22",
+  "label": "c5_listen",
+  "loc": "05_ch5.vn:83"
+ },
+ {
+  "id": "ys0189",
+  "char": "yunseul",
+  "text": "…치사하다, 너. 그런 말을 이런 데서 하면.",
+  "tts": "[laughing and crying] …치사하다, 너. 그런 말을 이런 데서 하면.",
+  "hash": "a3d50edace",
+  "label": "c5_listen",
+  "loc": "05_ch5.vn:88"
+ },
+ {
+  "id": "ys0190",
+  "char": "yunseul",
+  "text": "네가 뭘 해. 우리 둘 다 열일곱인데.",
+  "tts": "[softly, shaking her head] 네가 뭘 해. 우리 둘 다 열일곱인데.",
+  "hash": "c634c8ea1c",
+  "label": "c5_sorry",
+  "loc": "05_ch5.vn:94"
+ },
+ {
+  "id": "ys0191",
+  "char": "yunseul",
+  "text": "그래도 와 줘서… 좀 나아졌어. 여기 혼자 있으면 메아리밖에 대답을 안 하거든.",
+  "tts": "[quiet] 그래도 와 줘서… 좀 나아졌어. 여기 혼자 있으면 메아리밖에 대답을 안 하거든.",
+  "hash": "60a6878d57",
+  "label": "c5_sorry",
+  "loc": "05_ch5.vn:95"
+ },
+ {
+  "id": "ys0192",
+  "char": "yunseul",
+  "text": "…너, 방금.",
+  "tts": "[stunned] …너, 방금.",
+  "hash": "b67917085e",
+  "label": "c5_shout",
+  "loc": "05_ch5.vn:105"
+ },
+ {
+  "id": "ys0193",
+  "char": "yunseul",
+  "text": "아하하… 바보. 진짜 바보. 녹음기 안 켰는데.",
+  "tts": "[laughing through tears] 아하하… 바보. 진짜 바보. 녹음기 안 켰는데.",
+  "hash": "2a5cd9f72b",
+  "label": "c5_shout",
+  "loc": "05_ch5.vn:107"
+ },
+ {
+  "id": "ys0194",
+  "char": "yunseul",
+  "text": "…근데 괜찮아. 나 방금 거, 평생 안 잊어버릴 거니까.",
+  "tts": "[tearful, smiling] …근데 괜찮아. 나 방금 거, 평생 안 잊어버릴 거니까.",
+  "hash": "f5f2377e69",
+  "label": "c5_shout",
+  "loc": "05_ch5.vn:108"
+ },
+ {
+  "id": "ys0195",
+  "char": "yunseul",
+  "text": "…마지막 방송, 하고 싶어.",
+  "tts": "[resolute, quiet] …마지막 방송, 하고 싶어.",
+  "hash": "9b2cb7026b",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:116"
+ },
+ {
+  "id": "ys0196",
+  "char": "yunseul",
+  "text": "이 마을 떠나는 마지막 날 밤. 8월 23일. 소리실 사람들 목소리 전부 모아서, 백 번째 소리까지 채워서.",
+  "tts": "[determined] 이 마을 떠나는 마지막 날 밤. 8월 23일. 소리실 사람들 목소리 전부 모아서, 백 번째 소리까지 채워서.",
+  "hash": "11389864ce",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:117"
+ },
+ {
+  "id": "ys0197",
+  "char": "yunseul",
+  "text": "그리고… 엄마 테이프도, 그날 들을 거야. 방송으로. 다 같이.",
+  "tts": "[steadying herself] 그리고… 엄마 테이프도, 그날 들을 거야. 방송으로. 다 같이.",
+  "hash": "0f3ba78d9f",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:118"
+ },
+ {
+  "id": "ys0198",
+  "char": "yunseul",
+  "text": "그러고 나서 내 손으로 88.3 끌래. 누가 빼앗아서 끝나는 거 말고.",
+  "tts": "[a shy, determined smile] 그러고 나서 내 손으로 88.3 끌래. 누가 빼앗아서 끝나는 거 말고.",
+  "hash": "f0f7dda0a8",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:119"
+ },
+ {
+  "id": "ys0199",
+  "char": "yunseul",
+  "text": "방법 찾을 거야. 벌금 나오면 내가 낼 거고.",
+  "tts": "[stubborn] 방법 찾을 거야. 벌금 나오면 내가 낼 거고.",
+  "hash": "a7ef7b7c86",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:121"
+ },
+ {
+  "id": "ys0200",
+  "char": "yunseul",
+  "text": "진짜?",
+  "tts": "[brightening] 진짜?",
+  "hash": "a48142a515",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:125"
+ },
+ {
+  "id": "ys0201",
+  "char": "yunseul",
+  "text": "좋아! 조수, 복직 명령이야. 내일 새벽 다섯 시.",
+  "tts": "[her old self returning] 좋아! 조수, 복직 명령이야. 내일 새벽 다섯 시.",
+  "hash": "c2fd0e19cd",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:127"
+ },
+ {
+  "id": "ys0202",
+  "char": "yunseul",
+  "text": "비상사태니까 다섯 시!",
+  "tts": "비상사태니까 다섯 시!",
+  "hash": "1c8fb170a9",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:129"
+ },
+ {
+  "id": "ys0203",
+  "char": "yunseul",
+  "text": "자, 최씨 할아버지. 소리실한테 한 말씀!",
+  "tts": "[cheerful interviewer voice] 자, 최씨 할아버지. 소리실한테 한 말씀!",
+  "hash": "4fee293414",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:139"
+ },
+ {
+  "id": "ch0006",
+  "char": "choi",
+  "text": "뭔 말을 혀, 소리실한테. {w=0.3}…에이, 그려. 잘 있어라, 이놈아. 칠십 년 동안 고마웠다.",
+  "tts": "[gruff old farmer, embarrassed] 뭔 말을 혀, 소리실한테. …에이, 그려. 잘 있어라, 이놈아. 칠십 년 동안 고마웠다.",
+  "hash": "f355123663",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:140"
+ },
+ {
+  "id": "ys0204",
+  "char": "yunseul",
+  "text": "됐어요! 구십 번!",
+  "tts": "[delighted] 됐어요! 구십 번!",
+  "hash": "0d729c1907",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:141"
+ },
+ {
+  "id": "an0001",
+  "char": "anchor",
+  "text": "…제12호 태풍 「미리내」가 강한 세력을 유지한 채 북상하고 있습니다. 내일 밤 충청 내륙에 가장 근접할 것으로 보입니다.",
+  "tts": "[calm professional Korean news anchor, formal] …제12호 태풍 「미리내」가 강한 세력을 유지한 채 북상하고 있습니다. 내일 밤 충청 내륙에 가장 근접할 것으로 보입니다.",
+  "hash": "6019b2e245",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:151"
+ },
+ {
+  "id": "an0002",
+  "char": "anchor",
+  "text": "산간 지역에는 시간당 백 밀리미터 이상의 폭우가 예상되며, 계곡과 하천 주변 주민들은 각별히 주의하시기 바랍니다.",
+  "tts": "[formal, serious] 산간 지역에는 시간당 백 밀리미터 이상의 폭우가 예상되며, 계곡과 하천 주변 주민들은 각별히 주의하시기 바랍니다.",
+  "hash": "1d53160021",
+  "label": "c5_after",
+  "loc": "05_ch5.vn:152"
+ },
+ {
+  "id": "fa0020",
+  "char": "father",
+  "text": "한결아! 들리니? 한결아!",
+  "tts": "[urgent, shouting over wind and static] 한결아! 들리니? 한결아!",
+  "hash": "b433f7e9ab",
+  "label": "ch6",
+  "loc": "06_ch6.vn:26"
+ },
+ {
+  "id": "fa0021",
+  "char": "father",
+  "text": "잘 들어. 상류에서 물이 너무 많이 들어와. 두 시간 뒤에 댐 수문을 열어야 한다. 방류하면 개울 수위가 확 올라가.",
+  "tts": "[urgent, breathless] 잘 들어. 상류에서 물이 너무 많이 들어와. 두 시간 뒤에 댐 수문을 열어야 한다. 방류하면 개울 수위가 확 올라가.",
+  "hash": "d67d28e068",
+  "label": "ch6",
+  "loc": "06_ch6.vn:28"
+ },
+ {
+  "id": "fa0022",
+  "char": "father",
+  "text": "아랫말 어르신들이 아직 집에 계셔. 기지국은 이미 철거됐고, 집 전화도 끊겼어. 연락할 방법이 없어.",
+  "tts": "[desperate] 아랫말 어르신들이 아직 집에 계셔. 기지국은 이미 철거됐고, 집 전화도 끊겼어. 연락할 방법이 없어.",
+  "hash": "5af73c154d",
+  "label": "ch6",
+  "loc": "06_ch6.vn:29"
+ },
+ {
+  "id": "fa0023",
+  "char": "father",
+  "text": "내가 지금 분교로 간다. 송신기 싣고. {w=0.3}라디오, 그 애가 나눠 준 라디오. 그게 지금 유일한 방법이야.",
+  "tts": "[decisive] 내가 지금 분교로 간다. 송신기 싣고. 라디오, 그 애가 나눠 준 라디오. 그게 지금 유일한 방법이야.",
+  "hash": "3e06a4a5d3",
+  "label": "ch6",
+  "loc": "06_ch6.vn:30"
+ },
+ {
+  "id": "fa0024",
+  "char": "father",
+  "text": "벌은 내가 받는다! 너는 윤슬이한테—",
+  "tts": "[firm, fierce] 벌은 내가 받는다! 너는 윤슬이한테—",
+  "hash": "2032342bc2",
+  "label": "ch6",
+  "loc": "06_ch6.vn:32"
+ },
+ {
+  "id": "ys0205",
+  "char": "yunseul",
+  "text": "철새?! 너 미쳤어? 이 날씨에—",
+  "tts": "[shocked, soaked, breathless] 철새?! 너 미쳤어? 이 날씨에—",
+  "hash": "c3b7c9c057",
+  "label": "ch6",
+  "loc": "06_ch6.vn:55"
+ },
+ {
+  "id": "ys0206",
+  "char": "yunseul",
+  "text": "뜯었어. 엄마 테이프 젖으면 안 되잖아. 창문 새는 데 있어서.",
+  "tts": "[defiant, shivering] 뜯었어. 엄마 테이프 젖으면 안 되잖아. 창문 새는 데 있어서.",
+  "hash": "bd2b9df499",
+  "label": "ch6",
+  "loc": "06_ch6.vn:57"
+ },
+ {
+  "id": "ys0207",
+  "char": "yunseul",
+  "text": "…라디오.",
+  "tts": "[instantly focused] …라디오.",
+  "hash": "2ed2a04e41",
+  "label": "ch6",
+  "loc": "06_ch6.vn:61"
+ },
+ {
+  "id": "fa0025",
+  "char": "father",
+  "text": "한결아!",
+  "tts": "[out of breath, commanding] 한결아!",
+  "hash": "88dbb45949",
+  "label": "ch6",
+  "loc": "06_ch6.vn:66"
+ },
+ {
+  "id": "fa0026",
+  "char": "father",
+  "text": "윤슬 학생이지? 송신기다. 배터리로 네 시간은 버틴다.",
+  "tts": "[urgent, calm under pressure] 윤슬 학생이지? 송신기다. 배터리로 네 시간은 버틴다.",
+  "hash": "9f5ded832b",
+  "label": "ch6",
+  "loc": "06_ch6.vn:70"
+ },
+ {
+  "id": "fa0027",
+  "char": "father",
+  "text": "전파법 위반은 내가 책임진다. 방송해 줘. 아랫말 사람들, 지금 이 방송밖에 못 들어.",
+  "tts": "[firm] 전파법 위반은 내가 책임진다. 방송해 줘. 아랫말 사람들, 지금 이 방송밖에 못 들어.",
+  "hash": "c636064a12",
+  "label": "ch6",
+  "loc": "06_ch6.vn:71"
+ },
+ {
+  "id": "ys0208",
+  "char": "yunseul",
+  "text": "아저씨…",
+  "tts": "[stunned] 아저씨…",
+  "hash": "3ddea80363",
+  "label": "ch6",
+  "loc": "06_ch6.vn:72"
+ },
+ {
+  "id": "ys0209",
+  "char": "yunseul",
+  "text": "…네. {w=0.2}맡겨 주세요.",
+  "tts": "[resolute] …네. 맡겨 주세요.",
+  "hash": "478100c945",
+  "label": "ch6",
+  "loc": "06_ch6.vn:73"
+ },
+ {
+  "id": "fa0028",
+  "char": "father",
+  "text": "문제는 안테나야. 공단이 철거해 버려서, 옥상 거치대에 다시 묶어야 한다. 바람이 이래서는—",
+  "tts": "문제는 안테나야. 공단이 철거해 버려서, 옥상 거치대에 다시 묶어야 한다. 바람이 이래서는—",
+  "hash": "117f4aa0c1",
+  "label": "ch6",
+  "loc": "06_ch6.vn:74"
+ },
+ {
+  "id": "fa0029",
+  "char": "father",
+  "text": "한결아.",
+  "tts": "[torn] 한결아.",
+  "hash": "11c586c99e",
+  "label": "ch6",
+  "loc": "06_ch6.vn:76"
+ },
+ {
+  "id": "ys0210",
+  "char": "yunseul",
+  "text": "—들리세요? 여기는 소리실 심야방송, 88.3입니다. 아랫말 주민 여러분, 지금 바로 들어 주세요.",
+  "tts": "[urgent but clear emergency broadcast, steady voice] —들리세요? 여기는 소리실 심야방송, 88.3입니다. 아랫말 주민 여러분, 지금 바로 들어 주세요.",
+  "hash": "c373dd779e",
+  "label": "ch6",
+  "loc": "06_ch6.vn:101"
+ },
+ {
+  "id": "ys0211",
+  "char": "yunseul",
+  "text": "두 시간 뒤, 댐에서 물을 내보냅니다. 개울 물이 크게 불어나요. 지금 바로 분교로 대피해 주세요.",
+  "tts": "[emergency broadcast, calm and precise] 두 시간 뒤, 댐에서 물을 내보냅니다. 개울 물이 크게 불어나요. 지금 바로 분교로 대피해 주세요.",
+  "hash": "7167f9f210",
+  "label": "ch6",
+  "loc": "06_ch6.vn:103"
+ },
+ {
+  "id": "ys0212",
+  "char": "yunseul",
+  "text": "개울 옆 아랫길로 오시면 안 돼요. 정자나무 쪽 윗길로, 천천히, 손전등 챙기시고요.",
+  "tts": "[emergency broadcast, clear instructions] 개울 옆 아랫길로 오시면 안 돼요. 정자나무 쪽 윗길로, 천천히, 손전등 챙기시고요.",
+  "hash": "f37e2f0ebd",
+  "label": "ch6",
+  "loc": "06_ch6.vn:104"
+ },
+ {
+  "id": "ys0213",
+  "char": "yunseul",
+  "text": "순자 할머니, 들리시죠? 미정 이모, 다온이 손 꼭 잡고 오세요. 용태 오빠, 최씨 할아버지 댁 좀 들러 주세요.",
+  "tts": "[emergency broadcast, calling names with warmth] 순자 할머니, 들리시죠? 미정 이모, 다온이 손 꼭 잡고 오세요. 용태 오빠, 최씨 할아버지 댁 좀 들러 주세요.",
+  "hash": "a00707ee55",
+  "label": "ch6",
+  "loc": "06_ch6.vn:105"
+ },
+ {
+  "id": "ys0214",
+  "char": "yunseul",
+  "text": "최씨 할아버지. {w=0.3}약속하셨잖아요. 수문 닫는 날 제가 모시러 간다고. 오늘은 제가 못 가요. 그러니까, 할아버지가 와 주세요. 제발요.",
+  "tts": "[emergency broadcast, pleading, voice shaking a little] 최씨 할아버지. 약속하셨잖아요. 수문 닫는 날 제가 모시러 간다고. 오늘은 제가 못 가요. 그러니까, 할아버지가 와 주세요. 제발요.",
+  "hash": "6ce8114ab3",
+  "label": "ch6",
+  "loc": "06_ch6.vn:106"
+ },
+ {
+  "id": "ys0215",
+  "char": "yunseul",
+  "text": "다시 한번 말씀드려요. 여기는 88.3. 아랫말 주민 여러분, 지금 바로 분교로 오세요. 불 켜 두고 기다릴게요.",
+  "tts": "[emergency broadcast, repeating calmly] 다시 한번 말씀드려요. 여기는 88.3. 아랫말 주민 여러분, 지금 바로 분교로 오세요. 불 켜 두고 기다릴게요.",
+  "hash": "2513846da8",
+  "label": "ch6",
+  "loc": "06_ch6.vn:108"
+ },
+ {
+  "id": "ys0216",
+  "char": "yunseul",
+  "text": "…그리고, 한 사람 더.",
+  "tts": "[tense, breathless, suddenly personal] …그리고, 한 사람 더.",
+  "hash": "340847816e",
+  "label": "ch6",
+  "loc": "06_ch6.vn:116"
+ },
+ {
+  "id": "ys0220",
+  "char": "yunseul",
+  "text": "네가 거기 있어서 이 방송이 닿는 거야. {w=0.3}그러니까, 조금만 더 버텨. 그리고 다치지 마.",
+  "tts": "[gentle, trembling, intimate over the radio] 네가 거기 있어서 이 방송이 닿는 거야. 그러니까, 조금만 더 버텨. 그리고 다치지 마.",
+  "hash": "274bfe2b9c",
+  "label": "ch6",
+  "loc": "06_ch6.vn:124"
+ },
+ {
+  "id": "vd0002",
+  "char": "villager4",
+  "text": "언니 목소리 따라왔어요! 라디오에서 언니가 불 켜 두고 기다린다고 해서요!",
+  "tts": "[little girl, tearful but brave] 언니 목소리 따라왔어요! 라디오에서 언니가 불 켜 두고 기다린다고 해서요!",
+  "hash": "8060750d37",
+  "label": "ch6",
+  "loc": "06_ch6.vn:136"
+ },
+ {
+  "id": "vb0001",
+  "char": "villager2",
+  "text": "윤슬아! 최씨 할아버지 모셔 왔다! 끝까지 안 나오신다고 버티시다가, 라디오에서 니 목소리 듣고서야 일어나시더라.",
+  "tts": "[young man, panting, relieved] 윤슬아! 최씨 할아버지 모셔 왔다! 끝까지 안 나오신다고 버티시다가, 라디오에서 니 목소리 듣고서야 일어나시더라.",
+  "hash": "e1120a0a41",
+  "label": "ch6",
+  "loc": "06_ch6.vn:139"
+ },
+ {
+  "id": "ch0007",
+  "char": "choi",
+  "text": "…약속은 약속이니께. {w=0.3}니가 그렇게 울먹이는디 워떻게 안 와.",
+  "tts": "[gruff old man, exhausted, embarrassed] …약속은 약속이니께. 니가 그렇게 울먹이는디 워떻게 안 와.",
+  "hash": "33882b53c3",
+  "label": "ch6",
+  "loc": "06_ch6.vn:140"
+ },
+ {
+  "id": "ys0221",
+  "char": "yunseul",
+  "text": "…다행이다. {w=0.3}다행이다아….",
+  "tts": "[crying with relief] …다행이다. 다행이다아….",
+  "hash": "0291ce19eb",
+  "label": "ch6",
+  "loc": "06_ch6.vn:143"
+ },
+ {
+  "id": "ys0222",
+  "char": "yunseul",
+  "text": "아, 여러분 죄송해요. 방송 사고예요. {w=0.2}…오늘 밤은, 사고 좀 나도 되죠?",
+  "tts": "[crying and laughing on air] 아, 여러분 죄송해요. 방송 사고예요. …오늘 밤은, 사고 좀 나도 되죠?",
+  "hash": "99ac4b7efe",
+  "label": "ch6",
+  "loc": "06_ch6.vn:146"
+ },
+ {
+  "id": "ys0223",
+  "char": "yunseul",
+  "text": "…음… 철새….",
+  "tts": "[sleepy murmur, barely awake] …음… 철새….",
+  "hash": "e4402ac1f2",
+  "label": "ch6",
+  "loc": "06_ch6.vn:164"
+ },
+ {
+  "id": "ys0224",
+  "char": "yunseul",
+  "text": "대답했네…. {w=0.4}안 해도 된다니까….",
+  "tts": "[half asleep, mumbling softly] 대답했네…. 안 해도 된다니까….",
+  "hash": "f3977c93f5",
+  "label": "ch6",
+  "loc": "06_ch6.vn:166"
+ },
+ {
+  "id": "bs0032",
+  "char": "bongsun",
+  "text": "윤슬아! 철새야! {w=0.2}다녀왔다!",
+  "tts": "[joyful, loud, Chungcheong accent] 윤슬아! 철새야! 다녀왔다!",
+  "hash": "394c3ac6b6",
+  "label": "ch7",
+  "loc": "07_ch7.vn:16"
+ },
+ {
+  "id": "ys0225",
+  "char": "yunseul",
+  "text": "할머니! 다녀오셨어요!",
+  "tts": "[overjoyed] 할머니! 다녀오셨어요!",
+  "hash": "20975c99ba",
+  "label": "ch7",
+  "loc": "07_ch7.vn:19"
+ },
+ {
+  "id": "bs0033",
+  "char": "bongsun",
+  "text": "칼국수 끓여 왔다. 영감 몫까지 넉넉히. 이따 다 같이 먹자.",
+  "tts": "칼국수 끓여 왔다. 영감 몫까지 넉넉히. 이따 다 같이 먹자.",
+  "hash": "82bb223597",
+  "label": "ch7",
+  "loc": "07_ch7.vn:21"
+ },
+ {
+  "id": "bs0034",
+  "char": "bongsun",
+  "text": "태풍 때 일, 대전에서 다 들었다. 우리 윤슬이가 아랫말 사람들 다 살렸다고. {w=0.3}장하다, 우리 강아지.",
+  "tts": "[proud, gentle] 태풍 때 일, 대전에서 다 들었다. 우리 윤슬이가 아랫말 사람들 다 살렸다고. 장하다, 우리 강아지.",
+  "hash": "c50f48adf7",
+  "label": "ch7",
+  "loc": "07_ch7.vn:22"
+ },
+ {
+  "id": "ys0226",
+  "char": "yunseul",
+  "text": "제가 한 거 아니에요. 철새가 안테나 잡고, 아저씨가 송신기 가져오고—",
+  "tts": "[flustered] 제가 한 거 아니에요. 철새가 안테나 잡고, 아저씨가 송신기 가져오고—",
+  "hash": "8ba45b43d8",
+  "label": "ch7",
+  "loc": "07_ch7.vn:23"
+ },
+ {
+  "id": "bs0035",
+  "char": "bongsun",
+  "text": "그려, 그려. 그 철새가 우리 윤슬이 옆에 딱 붙어 있으니 든든허다.",
+  "tts": "[teasing] 그려, 그려. 그 철새가 우리 윤슬이 옆에 딱 붙어 있으니 든든허다.",
+  "hash": "847b066673",
+  "label": "ch7",
+  "loc": "07_ch7.vn:24"
+ },
+ {
+  "id": "ys0227",
+  "char": "yunseul",
+  "text": "할머니!",
+  "tts": "[very flustered] 할머니!",
+  "hash": "c5d5a37d9a",
+  "label": "ch7",
+  "loc": "07_ch7.vn:25"
+ },
+ {
+  "id": "of0007",
+  "char": "official",
+  "text": "에, 주민 여러분. 잠시 안내 말씀 드리겠습니다.",
+  "tts": "[formal official, clearing throat, slightly awkward but warm] 에, 주민 여러분. 잠시 안내 말씀 드리겠습니다.",
+  "hash": "41a856119b",
+  "label": "ch7",
+  "loc": "07_ch7.vn:29"
+ },
+ {
+  "id": "of0008",
+  "char": "official",
+  "text": "지난 태풍 당시 불법— 에, 임시 재난 방송을 통해 아랫말 주민 열한 분이 전원 무사히 대피하신 것과 관련하여.",
+  "tts": "[formal, reading, a hint of pride] 지난 태풍 당시 불법— 에, 임시 재난 방송을 통해 아랫말 주민 열한 분이 전원 무사히 대피하신 것과 관련하여.",
+  "hash": "0af8e4ff86",
+  "label": "ch7",
+  "loc": "07_ch7.vn:30"
+ },
+ {
+  "id": "of0009",
+  "char": "official",
+  "text": "전파관리소와 협의한 결과, 오늘 하루에 한해 88.3 메가헤르츠 임시 방송을 허가받았음을 알려 드립니다.",
+  "tts": "[formal, then softening] 전파관리소와 협의한 결과, 오늘 하루에 한해 88.3 메가헤르츠 임시 방송을 허가받았음을 알려 드립니다.",
+  "hash": "4acaf23f42",
+  "label": "ch7",
+  "loc": "07_ch7.vn:31"
+ },
+ {
+  "id": "of0010",
+  "char": "official",
+  "text": "…그리고 개인적으로, 그날 밤 방송 저도 들었습니다. 감사했습니다.",
+  "tts": "[less formal, sincere] …그리고 개인적으로, 그날 밤 방송 저도 들었습니다. 감사했습니다.",
+  "hash": "83fc2c4671",
+  "label": "ch7",
+  "loc": "07_ch7.vn:32"
+ },
+ {
+  "id": "fa0030",
+  "char": "father",
+  "text": "서류는 내가 좀 뛰어다녔다. {w=0.2}윤슬 학생한테 전해 줘. 마지막 방송, 잘 들을게.",
+  "tts": "[gentle, a little shy] 서류는 내가 좀 뛰어다녔다. 윤슬 학생한테 전해 줘. 마지막 방송, 잘 들을게.",
+  "hash": "90071fcbf0",
+  "label": "ch7",
+  "loc": "07_ch7.vn:35"
+ },
+ {
+  "id": "fa0031",
+  "char": "father",
+  "text": "…그러네. 너도 이제 그런 말을 하는구나.",
+  "tts": "[laughing softly] …그러네. 너도 이제 그런 말을 하는구나.",
+  "hash": "89fd4c11b1",
+  "label": "ch7",
+  "loc": "07_ch7.vn:37"
+ },
+ {
+  "id": "ys0228",
+  "char": "yunseul",
+  "text": "…떨린다. 첫 방송 때보다 더.",
+  "tts": "[nervous, quiet] …떨린다. 첫 방송 때보다 더.",
+  "hash": "e73cad994c",
+  "label": "ch7",
+  "loc": "07_ch7.vn:47"
+ },
+ {
+  "id": "ys0229",
+  "char": "yunseul",
+  "text": "알거든? {w=0.3}…철새.",
+  "tts": "[a small nervous laugh] 알거든? …철새.",
+  "hash": "a2be7ccdfe",
+  "label": "ch7",
+  "loc": "07_ch7.vn:49"
+ },
+ {
+  "id": "ys0230",
+  "char": "yunseul",
+  "text": "끝까지, 옆에 있어 줘.",
+  "tts": "[sincere, quiet] 끝까지, 옆에 있어 줘.",
+  "hash": "73b68811d1",
+  "label": "ch7",
+  "loc": "07_ch7.vn:51"
+ },
+ {
+  "id": "ys0231",
+  "char": "yunseul",
+  "text": "여기는 소리실 심야방송, 88.3. {w=0.3}오늘은, 마지막 방송입니다.",
+  "tts": "[smooth, warm late-night radio DJ voice, a little emotional] 여기는 소리실 심야방송, 88.3. 오늘은, 마지막 방송입니다.",
+  "hash": "e5cae20c35",
+  "label": "ch7",
+  "loc": "07_ch7.vn:58"
+ },
+ {
+  "id": "ys0232",
+  "char": "yunseul",
+  "text": "창밖에 불빛이 보여요. 다들 와 주셨네요. 떠나셨던 분들도, 아직 남아 계신 분들도.",
+  "tts": "[DJ voice, warm] 창밖에 불빛이 보여요. 다들 와 주셨네요. 떠나셨던 분들도, 아직 남아 계신 분들도.",
+  "hash": "71f0755fa6",
+  "label": "ch7",
+  "loc": "07_ch7.vn:59"
+ },
+ {
+  "id": "ys0233",
+  "char": "yunseul",
+  "text": "오늘은 제가 사십 일 동안 모은 소리실의 소리를 들려 드릴게요. 하나씩. 천천히.",
+  "tts": "[DJ voice, gentle] 오늘은 제가 사십 일 동안 모은 소리실의 소리를 들려 드릴게요. 하나씩. 천천히.",
+  "hash": "0da05cbf9a",
+  "label": "ch7",
+  "loc": "07_ch7.vn:60"
+ },
+ {
+  "id": "ch0008",
+  "char": "choi",
+  "text": "잘 있어라, 이놈아. 칠십 년 동안 고마웠다.",
+  "tts": "[gruff old farmer, embarrassed but heartfelt] 잘 있어라, 이놈아. 칠십 년 동안 고마웠다.",
+  "hash": "88cd3fd81e",
+  "label": "ch7",
+  "loc": "07_ch7.vn:75"
+ },
+ {
+  "id": "sj0002",
+  "char": "sunja",
+  "text": "우리 영숙이 낳고 키운 집. 고마웠다. 잊지 않을 겨.",
+  "tts": "[gentle elderly woman, tearful] 우리 영숙이 낳고 키운 집. 고마웠다. 잊지 않을 겨.",
+  "hash": "7c774d6861",
+  "label": "ch7",
+  "loc": "07_ch7.vn:76"
+ },
+ {
+  "id": "vb0002",
+  "char": "villager2",
+  "text": "소리실아, 나 여기서 처음 트랙터 몰았다. 어디 가서도 자랑할게.",
+  "tts": "[young farmer, cheerful but choked up] 소리실아, 나 여기서 처음 트랙터 몰았다. 어디 가서도 자랑할게.",
+  "hash": "17c9a9b79f",
+  "label": "ch7",
+  "loc": "07_ch7.vn:77"
+ },
+ {
+  "id": "vd0003",
+  "char": "villager4",
+  "text": "개울아, 반딧불아, 안녕! 아니다. 다녀올게!",
+  "tts": "[little girl, earnest] 개울아, 반딧불아, 안녕! 아니다. 다녀올게!",
+  "hash": "b051229313",
+  "label": "ch7",
+  "loc": "07_ch7.vn:78"
+ },
+ {
+  "id": "vc0001",
+  "char": "villager3",
+  "text": "우리 다온이 첫 걸음마를 여기서 뗐어요. 그거 하나로 충분해요.",
+  "tts": "[middle-aged woman, warm, laughing and crying] 우리 다온이 첫 걸음마를 여기서 뗐어요. 그거 하나로 충분해요.",
+  "hash": "c5b0ddb1c6",
+  "label": "ch7",
+  "loc": "07_ch7.vn:79"
+ },
+ {
+  "id": "ve0001",
+  "char": "villager5",
+  "text": "분교에서 삼십 년 아이들을 가르쳤습니다. 여름 선생님, 당신 방송 덕분에 밤이 외롭지 않았어요.",
+  "tts": "[old retired teacher, gentle and dignified] 분교에서 삼십 년 아이들을 가르쳤습니다. 여름 선생님, 당신 방송 덕분에 밤이 외롭지 않았어요.",
+  "hash": "dc8609272f",
+  "label": "ch7",
+  "loc": "07_ch7.vn:80"
+ },
+ {
+  "id": "va0001",
+  "char": "villager1",
+  "text": "윗말 김가다. 할 말은 없고… 그냥, 고맙다. 됐지?",
+  "tts": "[middle-aged man, brusque but kind] 윗말 김가다. 할 말은 없고… 그냥, 고맙다. 됐지?",
+  "hash": "466e942da8",
+  "label": "ch7",
+  "loc": "07_ch7.vn:81"
+ },
+ {
+  "id": "bs0036",
+  "char": "bongsun",
+  "text": "영감, 들리지? 칼국수 남겨 놨어. {w=0.3}소리실아, 다녀올게.",
+  "tts": "[warm elderly woman, Chungcheong accent, loving] 영감, 들리지? 칼국수 남겨 놨어. 소리실아, 다녀올게.",
+  "hash": "2fc6d83fed",
+  "label": "ch7",
+  "loc": "07_ch7.vn:82"
+ },
+ {
+  "id": "ys0234",
+  "char": "yunseul",
+  "text": "…그리고 오늘은, 저도 하나 들을 게 있어요.",
+  "tts": "[DJ voice, softly] …그리고 오늘은, 저도 하나 들을 게 있어요.",
+  "hash": "54a41347b8",
+  "label": "ch7",
+  "loc": "07_ch7.vn:88"
+ },
+ {
+  "id": "ys0235",
+  "char": "yunseul",
+  "text": "우리 엄마, 강여름 선생님이 남긴 마지막 테이프예요. 오 년 동안 못 들었어요. 무서워서.",
+  "tts": "[DJ voice, steadying her breath] 우리 엄마, 강여름 선생님이 남긴 마지막 테이프예요. 오 년 동안 못 들었어요. 무서워서.",
+  "hash": "c429401ae7",
+  "label": "ch7",
+  "loc": "07_ch7.vn:90"
+ },
+ {
+  "id": "ys0236",
+  "char": "yunseul",
+  "text": "근데 오늘은 들을게요. 혼자 말고, 여러분이랑 같이.",
+  "tts": "[DJ voice, brave] 근데 오늘은 들을게요. 혼자 말고, 여러분이랑 같이.",
+  "hash": "89a867d314",
+  "label": "ch7",
+  "loc": "07_ch7.vn:91"
+ },
+ {
+  "id": "mo0002",
+  "char": "mother",
+  "text": "…윤슬아. 엄마야.",
+  "tts": "[warm, gentle young mother, speaking softly into a tape recorder, slightly tired] …윤슬아. 엄마야.",
+  "hash": "1d3fa4c87d",
+  "label": "ch7",
+  "loc": "07_ch7.vn:101"
+ },
+ {
+  "id": "mo0003",
+  "char": "mother",
+  "text": "이 테이프를 듣고 있다는 건, 우리 윤슬이가 소리실을 떠나는 날이구나. 몇 살이 됐을까. 키는 엄마보다 커졌으려나.",
+  "tts": "[gentle, a soft laugh] 이 테이프를 듣고 있다는 건, 우리 윤슬이가 소리실을 떠나는 날이구나. 몇 살이 됐을까. 키는 엄마보다 커졌으려나.",
+  "hash": "763f6b0b65",
+  "label": "ch7",
+  "loc": "07_ch7.vn:102"
+ },
+ {
+  "id": "mo0004",
+  "char": "mother",
+  "text": "엄마는 요즘 병원 가기 전에, 방송실에서 이것저것 녹음하고 있어. 개울 소리, 매미 소리, 우리 윤슬이 코 고는 소리. {w=0.3}비밀이야.",
+  "tts": "[tender] 엄마는 요즘 병원 가기 전에, 방송실에서 이것저것 녹음하고 있어. 개울 소리, 매미 소리, 우리 윤슬이 코 고는 소리. 비밀이야.",
+  "hash": "691c331ecd",
+  "label": "ch7",
+  "loc": "07_ch7.vn:103"
+ },
+ {
+  "id": "mo0005",
+  "char": "mother",
+  "text": "엄마가 없어도 너는 괜찮을 거야. 너는 엄마 닮아서, 좋은 귀를 가졌으니까. 좋은 걸 잘 듣는 귀.",
+  "tts": "[gentle, a little sad] 엄마가 없어도 너는 괜찮을 거야. 너는 엄마 닮아서, 좋은 귀를 가졌으니까. 좋은 걸 잘 듣는 귀.",
+  "hash": "a6f6bbf434",
+  "label": "ch7",
+  "loc": "07_ch7.vn:104"
+ },
+ {
+  "id": "mo0006",
+  "char": "mother",
+  "text": "근데 윤슬아. 하나만 부탁할게.",
+  "tts": "[gentle, serious] 근데 윤슬아. 하나만 부탁할게.",
+  "hash": "fd654404d1",
+  "label": "ch7",
+  "loc": "07_ch7.vn:105"
+ },
+ {
+  "id": "mo0007",
+  "char": "mother",
+  "text": "떠날 때 「잘 가」라는 말은 하지 말자. 엄마는 그 말이 제일 싫더라. 꼭 다시는 못 볼 것 같잖아.",
+  "tts": "[tender, a smile in her voice] 떠날 때 「잘 가」라는 말은 하지 말자. 엄마는 그 말이 제일 싫더라. 꼭 다시는 못 볼 것 같잖아.",
+  "hash": "30211c8688",
+  "label": "ch7",
+  "loc": "07_ch7.vn:106"
+ },
+ {
+  "id": "mo0008",
+  "char": "mother",
+  "text": "대신 이렇게 말해 줄래? {w=0.3}「다녀오겠습니다.」",
+  "tts": "[warm] 대신 이렇게 말해 줄래? 「다녀오겠습니다.」",
+  "hash": "70c011bde3",
+  "label": "ch7",
+  "loc": "07_ch7.vn:107"
+ },
+ {
+  "id": "mo0009",
+  "char": "mother",
+  "text": "그러면 엄마는 여기서 말할게. 소리실이 물 밑에 있어도, 엄마는 여기서 매일 말할게.",
+  "tts": "[tender, emotional] 그러면 엄마는 여기서 말할게. 소리실이 물 밑에 있어도, 엄마는 여기서 매일 말할게.",
+  "hash": "8dfc967405",
+  "label": "ch7",
+  "loc": "07_ch7.vn:108"
+ },
+ {
+  "id": "mo0010",
+  "char": "mother",
+  "text": "다녀와, 윤슬아. {w=0.5}…그리고 언젠가, 어서 와.",
+  "tts": "[very tender, voice trembling slightly] 다녀와, 윤슬아. …그리고 언젠가, 어서 와.",
+  "hash": "5b14fa033e",
+  "label": "ch7",
+  "loc": "07_ch7.vn:109"
+ },
+ {
+  "id": "mo0011",
+  "char": "mother",
+  "text": "사랑해. 우리 딸. {w=0.3}여기는 88.3이었습니다.",
+  "tts": "[soft laugh, then a whisper] 사랑해. 우리 딸. 여기는 88.3이었습니다.",
+  "hash": "cebded1a3d",
+  "label": "ch7",
+  "loc": "07_ch7.vn:110"
+ },
+ {
+  "id": "ys0237",
+  "char": "yunseul",
+  "text": "…엄마. {w=0.4}엄마아….",
+  "tts": "[crying openly, DJ voice breaking] …엄마. 엄마아….",
+  "hash": "fcf9c2a6aa",
+  "label": "ch7",
+  "loc": "07_ch7.vn:119"
+ },
+ {
+  "id": "ys0238",
+  "char": "yunseul",
+  "text": "여러분. 사십 일 동안, 들어 주셔서 고마웠어요.",
+  "tts": "[DJ voice, crying but clear and strong] 여러분. 사십 일 동안, 들어 주셔서 고마웠어요.",
+  "hash": "3ccb2447f2",
+  "label": "ch7",
+  "loc": "07_ch7.vn:123"
+ },
+ {
+  "id": "ys0239",
+  "char": "yunseul",
+  "text": "소리실은 오늘 밤이 지나면 물 밑으로 가요. 그래도 소리는 사라지지 않아요. {w=0.3}누군가 기억하는 한.",
+  "tts": "[DJ voice, heartfelt] 소리실은 오늘 밤이 지나면 물 밑으로 가요. 그래도 소리는 사라지지 않아요. 누군가 기억하는 한.",
+  "hash": "86baff0491",
+  "label": "ch7",
+  "loc": "07_ch7.vn:124"
+ },
+ {
+  "id": "ys0240",
+  "char": "yunseul",
+  "text": "그러니까 마지막 인사는… 잘 있어, 소리실. {w=0.5}…아니.",
+  "tts": "[DJ voice, trembling] 그러니까 마지막 인사는… 잘 있어, 소리실. …아니.",
+  "hash": "789dd5a1bb",
+  "label": "ch7",
+  "loc": "07_ch7.vn:125"
+ },
+ {
+  "id": "ys0241",
+  "char": "yunseul",
+  "text": "다녀올게.",
+  "tts": "[DJ voice, tearful smile, resolute] 다녀올게.",
+  "hash": "135c329ecb",
+  "label": "ch7",
+  "loc": "07_ch7.vn:126"
+ },
+ {
+  "id": "ys0242",
+  "char": "yunseul",
+  "text": "여기는 소리실 심야방송, 88.3이었습니다.",
+  "tts": "[DJ voice, final sign-off, gentle and proud] 여기는 소리실 심야방송, 88.3이었습니다.",
+  "hash": "c65f60c7e0",
+  "label": "ch7",
+  "loc": "07_ch7.vn:127"
+ },
+ {
+  "id": "ys0243",
+  "char": "yunseul",
+  "text": "…있잖아. 나 지금 마이크 꺼져 있다.",
+  "tts": "[nervous, very quiet, off-mic] …있잖아. 나 지금 마이크 꺼져 있다.",
+  "hash": "8113d01028",
+  "label": "ch7",
+  "loc": "07_ch7.vn:138"
+ },
+ {
+  "id": "ys0244",
+  "char": "yunseul",
+  "text": "마이크 없이 진심 말하는 거, 처음이야. 그러니까 웃지 마.",
+  "tts": "[shy, halting] 마이크 없이 진심 말하는 거, 처음이야. 그러니까 웃지 마.",
+  "hash": "423fa17ef3",
+  "label": "ch7",
+  "loc": "07_ch7.vn:140"
+ },
+ {
+  "id": "ys0245",
+  "char": "yunseul",
+  "text": "고마워. {w=0.3}그날 개울에서 돌 밟아 줘서. 방송 사고 내 줘서. 이어폰 빼 줘서.",
+  "tts": "[sincere, trembling slightly] 고마워. 그날 개울에서 돌 밟아 줘서. 방송 사고 내 줘서. 이어폰 빼 줘서.",
+  "hash": "432360f821",
+  "label": "ch7",
+  "loc": "07_ch7.vn:141"
+ },
+ {
+  "id": "ys0246",
+  "char": "yunseul",
+  "text": "네가 들어 줘서, 나 끝까지 할 수 있었어.",
+  "tts": "[earnest] 네가 들어 줘서, 나 끝까지 할 수 있었어.",
+  "hash": "7628133229",
+  "label": "ch7",
+  "loc": "07_ch7.vn:142"
+ },
+ {
+  "id": "ys0247",
+  "char": "yunseul",
+  "text": "그리고 내일… 너도 가잖아. 다음 현장으로.",
+  "tts": "[small voice, holding back tears again] 그리고 내일… 너도 가잖아. 다음 현장으로.",
+  "hash": "45da54e92a",
+  "label": "ch7",
+  "loc": "07_ch7.vn:143"
+ },
+ {
+  "id": "ys0248",
+  "char": "yunseul",
+  "text": "거기도 가라앉는 동네야?",
+  "tts": "[quietly] 거기도 가라앉는 동네야?",
+  "hash": "f4fa1c73a3",
+  "label": "ch7",
+  "loc": "07_ch7.vn:145"
+ },
+ {
+  "id": "ys0249",
+  "char": "yunseul",
+  "text": "철새네. 진짜로.",
+  "tts": "[a sad, warm smile] 철새네. 진짜로.",
+  "hash": "0f8e8d369a",
+  "label": "ch7",
+  "loc": "07_ch7.vn:147"
+ },
+ {
+  "id": "ys0250",
+  "char": "yunseul",
+  "text": "백 번째. {w=0.3}비워 뒀다고 했지. 제일 좋은 걸로 채울 거라고.",
+  "tts": "[quiet, meaningful] 백 번째. 비워 뒀다고 했지. 제일 좋은 걸로 채울 거라고.",
+  "hash": "bd0105da8d",
+  "label": "ch7",
+  "loc": "07_ch7.vn:149"
+ },
+ {
+  "id": "ys0251",
+  "char": "yunseul",
+  "text": "네가 채워 줘. 네 목소리로. 뭐든 좋아.",
+  "tts": "[very softly] 네가 채워 줘. 네 목소리로. 뭐든 좋아.",
+  "hash": "9a9d91980e",
+  "label": "ch7",
+  "loc": "07_ch7.vn:150"
+ },
+ {
+  "id": "ys0252",
+  "char": "yunseul",
+  "text": "…아.",
+  "tts": "[stunned, whispering] …아.",
+  "hash": "e81ed36124",
+  "label": "c6_back",
+  "loc": "07_ch7.vn:160"
+ },
+ {
+  "id": "ys0253",
+  "char": "yunseul",
+  "text": "그거 반칙이야. {w=0.3}엄마랑 똑같은 말 하면.",
+  "tts": "[crying, a trembling smile] 그거 반칙이야. 엄마랑 똑같은 말 하면.",
+  "hash": "64e858e09a",
+  "label": "c6_back",
+  "loc": "07_ch7.vn:161"
+ },
+ {
+  "id": "ys0254",
+  "char": "yunseul",
+  "text": "…고마워. 소중하게 간직할게.",
+  "tts": "[gentle but distant] …고마워. 소중하게 간직할게.",
+  "hash": "d75fca905b",
+  "label": "c6_back",
+  "loc": "07_ch7.vn:163"
+ },
+ {
+  "id": "ys0255",
+  "char": "yunseul",
+  "text": "…다녀올게. {w=0.3}그리고, 너도.",
+  "tts": "[tearful, tender] …다녀올게. 그리고, 너도.",
+  "hash": "48bc6de566",
+  "label": "c6_back_true",
+  "loc": "07_ch7.vn:168"
+ },
+ {
+  "id": "ys0256",
+  "char": "yunseul",
+  "text": "너도 다녀와. 그리고 꼭 다시 와. 소리실이 호수가 돼도, 여기로.",
+  "tts": "[tearful, bright] 너도 다녀와. 그리고 꼭 다시 와. 소리실이 호수가 돼도, 여기로.",
+  "hash": "8f8becd9b9",
+  "label": "c6_back_true",
+  "loc": "07_ch7.vn:169"
+ },
+ {
+  "id": "ys0257",
+  "char": "yunseul",
+  "text": "…어?",
+  "tts": "[shocked, breathless] …어?",
+  "hash": "d99fae3838",
+  "label": "c6_love",
+  "loc": "07_ch7.vn:176"
+ },
+ {
+  "id": "ys0258",
+  "char": "yunseul",
+  "text": "…고마워. 진짜로. {w=0.3}근데 나, 아직은… 그 말에 대답할 자신이 없어.",
+  "tts": "[gentle, apologetic, a little sad] …고마워. 진짜로. 근데 나, 아직은… 그 말에 대답할 자신이 없어.",
+  "hash": "85b03f9b94",
+  "label": "c6_love",
+  "loc": "07_ch7.vn:179"
+ },
+ {
+  "id": "ys0259",
+  "char": "yunseul",
+  "text": "소중하게 간직할게. 백 번째 소리로.",
+  "tts": "[softly] 소중하게 간직할게. 백 번째 소리로.",
+  "hash": "87f5aca585",
+  "label": "c6_love",
+  "loc": "07_ch7.vn:180"
+ },
+ {
+  "id": "ys0260",
+  "char": "yunseul",
+  "text": "바, 바보! 그건 녹음기 말고 나한테 해야지!",
+  "tts": "[flustered, crying and laughing] 바, 바보! 그건 녹음기 말고 나한테 해야지!",
+  "hash": "6970fb7b93",
+  "label": "c6_love_true",
+  "loc": "07_ch7.vn:185"
+ },
+ {
+  "id": "ys0261",
+  "char": "yunseul",
+  "text": "…다시 해 봐. 녹음기 말고.",
+  "tts": "[shy, whispering] …다시 해 봐. 녹음기 말고.",
+  "hash": "d096b06756",
+  "label": "c6_love_true",
+  "loc": "07_ch7.vn:186"
+ },
+ {
+  "id": "ys0262",
+  "char": "yunseul",
+  "text": "…응. {w=0.4}나도.",
+  "tts": "[crying happily, whispering] …응. 나도.",
+  "hash": "866698c751",
+  "label": "c6_love_true",
+  "loc": "07_ch7.vn:188"
+ },
+ {
+  "id": "ys0263",
+  "char": "yunseul",
+  "text": "그러니까 너, 꼭 다시 와. 소리실이 호수가 돼도. 여기로.",
+  "tts": "[tearful, bright] 그러니까 너, 꼭 다시 와. 소리실이 호수가 돼도. 여기로.",
+  "hash": "a4c60afd06",
+  "label": "c6_love_true",
+  "loc": "07_ch7.vn:189"
+ },
+ {
+  "id": "ys0264",
+  "char": "yunseul",
+  "text": "…응.",
+  "tts": "[quiet, a small hurt smile] …응.",
+  "hash": "56dd362b8a",
+  "label": "c6_bye",
+  "loc": "07_ch7.vn:196"
+ },
+ {
+  "id": "ys0265",
+  "char": "yunseul",
+  "text": "그게 맞는 인사겠지. 우리는… 철새랑, 가라앉는 동네니까.",
+  "tts": "[softly, resigned] 그게 맞는 인사겠지. 우리는… 철새랑, 가라앉는 동네니까.",
+  "hash": "2c245ac948",
+  "label": "c6_bye",
+  "loc": "07_ch7.vn:198"
+ },
+ {
+  "id": "ys0266",
+  "char": "yunseul",
+  "text": "소중하게 간직할게. 백 번째 소리로.",
+  "tts": "[forcing a smile] 소중하게 간직할게. 백 번째 소리로.",
+  "hash": "407f94dc7e",
+  "label": "c6_bye",
+  "loc": "07_ch7.vn:199"
+ },
+ {
+  "id": "ys0267",
+  "char": "yunseul",
+  "text": "매미 소리. 이것도 녹음할까.",
+  "tts": "[quiet, morning voice] 매미 소리. 이것도 녹음할까.",
+  "hash": "d79d131b53",
+  "label": "true_end",
+  "loc": "08_end.vn:15"
+ },
+ {
+  "id": "ys0268",
+  "char": "yunseul",
+  "text": "백한 번째부터는 보너스야. 끝이 없거든, 소리는.",
+  "tts": "[playful] 백한 번째부터는 보너스야. 끝이 없거든, 소리는.",
+  "hash": "47cb75b5ef",
+  "label": "true_end",
+  "loc": "08_end.vn:17"
+ },
+ {
+  "id": "ys0269",
+  "char": "yunseul",
+  "text": "철새.",
+  "tts": "[taking a breath, brave] 철새.",
+  "hash": "f6e1374f56",
+  "label": "true_end",
+  "loc": "08_end.vn:22"
+ },
+ {
+  "id": "ys0270",
+  "char": "yunseul",
+  "text": "다녀와.",
+  "tts": "[clear and warm, not hiding] 다녀와.",
+  "hash": "fbc990102a",
+  "label": "true_end",
+  "loc": "08_end.vn:23"
+ },
+ {
+  "id": "ys0271",
+  "char": "yunseul",
+  "text": "응. 다녀오겠습니다!",
+  "tts": "[bright, tearful smile] 응. 다녀오겠습니다!",
+  "hash": "e6c53a0082",
+  "label": "true_end",
+  "loc": "08_end.vn:26"
+ },
+ {
+  "id": "ys0272",
+  "char": "yunseul",
+  "text": "…대답이 없네. {w=0.3}그럼 내가 해 줄게. 야호—!",
+  "tts": "[playful, warm, a little older, from behind] …대답이 없네. 그럼 내가 해 줄게. 야호—!",
+  "hash": "f8d415d524",
+  "label": "true_end",
+  "loc": "08_end.vn:59"
+ },
+ {
+  "id": "ys0273",
+  "char": "yunseul",
+  "text": "…있어. {w=0.3}여기 있잖아. 나.",
+  "tts": "[gentle, a little older, from behind] …있어. 여기 있잖아. 나.",
+  "hash": "fff1bc9987",
+  "label": "true_end",
+  "loc": "08_end.vn:60"
+ },
+ {
+  "id": "ys0274",
+  "char": "yunseul",
+  "text": "누가 바보래?! 사 년 만에 한다는 말이 그거야?",
+  "tts": "[indignant but laughing, a little older, from behind] 누가 바보래?! 사 년 만에 한다는 말이 그거야?",
+  "hash": "78f209cc1f",
+  "label": "true_end",
+  "loc": "08_end.vn:61"
+ },
+ {
+  "id": "ys0275",
+  "char": "yunseul",
+  "text": "늦었어, 철새. 삼 분.",
+  "tts": "[teasing, warm, fighting tears] 늦었어, 철새. 삼 분.",
+  "hash": "0c2b77e718",
+  "label": "true_end",
+  "loc": "08_end.vn:66"
+ },
+ {
+  "id": "ys0276",
+  "char": "yunseul",
+  "text": "사 년 늦었다는 거야, 바보.",
+  "tts": "[laughing, crying] 사 년 늦었다는 거야, 바보.",
+  "hash": "fc91cd5edd",
+  "label": "true_end",
+  "loc": "08_end.vn:68"
+ },
+ {
+  "id": "ys0277",
+  "char": "yunseul",
+  "text": "나 청주에서 마을 라디오 해. 대학 방송국이랑 같이. 88.3은 아니지만.",
+  "tts": "[proud, gentle] 나 청주에서 마을 라디오 해. 대학 방송국이랑 같이. 88.3은 아니지만.",
+  "hash": "3eea2bdbc8",
+  "label": "true_end",
+  "loc": "08_end.vn:69"
+ },
+ {
+  "id": "ys0278",
+  "char": "yunseul",
+  "text": "…치사해! 나는 약속 지킨다고 네 목소리 한 번도 안 들었는데!",
+  "tts": "[surprised, flustered] …치사해! 나는 약속 지킨다고 네 목소리 한 번도 안 들었는데!",
+  "hash": "58a4af9884",
+  "label": "true_end",
+  "loc": "08_end.vn:71"
+ },
+ {
+  "id": "ys0279",
+  "char": "yunseul",
+  "text": "…그건 반칙 아니야. 녹음이잖아. {w=0.3}매일 밤 들었어. 네 목소리.",
+  "tts": "[soft, emotional, embarrassed] …그건 반칙 아니야. 녹음이잖아. 매일 밤 들었어. 네 목소리.",
+  "hash": "b6329ff965",
+  "label": "true_end",
+  "loc": "08_end.vn:73"
+ },
+ {
+  "id": "ys0280",
+  "char": "yunseul",
+  "text": "그거 들으면, 이상하게 잠이 잘 왔어.",
+  "tts": "[tender, whispering] 그거 들으면, 이상하게 잠이 잘 왔어.",
+  "hash": "97c57b89af",
+  "label": "true_end",
+  "loc": "08_end.vn:74"
+ },
+ {
+  "id": "ys0281",
+  "char": "yunseul",
+  "text": "어서 와.",
+  "tts": "[gentle, clear, the words she waited to say] 어서 와.",
+  "hash": "98394e6fa9",
+  "label": "true_end",
+  "loc": "08_end.vn:76"
+ },
+ {
+  "id": "ys0282",
+  "char": "yunseul",
+  "text": "응. {w=0.3}어서 와, 철새. {w=0.4}…아니, 한결아.",
+  "tts": "[laughing through tears, joyful] 응. 어서 와, 철새. …아니, 한결아.",
+  "hash": "818ca48cd6",
+  "label": "true_end",
+  "loc": "08_end.vn:78"
+ },
+ {
+  "id": "ys0283",
+  "char": "yunseul",
+  "text": "…그럼, 잘 지내.",
+  "tts": "[polite, a little distant] …그럼, 잘 지내.",
+  "hash": "35138b79b5",
+  "label": "normal_end",
+  "loc": "08_end.vn:99"
+ },
+ {
+  "id": "ys0284",
+  "char": "yunseul",
+  "text": "…여기는 청주 마을 라디오, 심야방송입니다. 88.3은 아니지만요.",
+  "tts": "[smooth late-night radio DJ voice, a little older, calm] …여기는 청주 마을 라디오, 심야방송입니다. 88.3은 아니지만요.",
+  "hash": "ba6044b6d4",
+  "label": "normal_end",
+  "loc": "08_end.vn:129"
+ },
+ {
+  "id": "ys0285",
+  "char": "yunseul",
+  "text": "오늘은 소리실 호수에 물이 다 찬 날이래요. 그래서 오래된 소리 하나 들려 드릴게요.",
+  "tts": "[DJ voice, gentle] 오늘은 소리실 호수에 물이 다 찬 날이래요. 그래서 오래된 소리 하나 들려 드릴게요.",
+  "hash": "adaefff780",
+  "label": "normal_end",
+  "loc": "08_end.vn:130"
+ },
+ {
+  "id": "ys0286",
+  "char": "yunseul",
+  "text": "제 소리 지도의 백 번째 소리예요. 누군지는… 비밀이에요.",
+  "tts": "[DJ voice, quiet, wistful] 제 소리 지도의 백 번째 소리예요. 누군지는… 비밀이에요.",
+  "hash": "7b91eb0697",
+  "label": "normal_end",
+  "loc": "08_end.vn:131"
+ },
+ {
+  "id": "ys0287",
+  "char": "yunseul",
+  "text": "…이 목소리 주인, 지금쯤 뭐 하고 있을까요. {w=0.3}대답은 안 해도 돼요.",
+  "tts": "[DJ voice, soft, a hint of longing] …이 목소리 주인, 지금쯤 뭐 하고 있을까요. 대답은 안 해도 돼요.",
+  "hash": "d5d0cbaab7",
+  "label": "normal_end",
+  "loc": "08_end.vn:140"
+ },
+ {
+  "id": "ys0288",
+  "char": "yunseul",
+  "text": "그냥, 들어 주세요.",
+  "tts": "[DJ voice, whispering, bittersweet] 그냥, 들어 주세요.",
+  "hash": "f4318de510",
+  "label": "normal_end",
+  "loc": "08_end.vn:141"
+ }
+]

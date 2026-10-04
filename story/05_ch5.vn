@@ -1,0 +1,156 @@
+// ======================================================================
+// 제5장 — 무음
+// ======================================================================
+*ch5
+@textbox hide
+@chapter "05" "무음" "들리지 않는 날들"
+@bg demolish_day fx=cross t=2 light=day
+@amb demolish
+@bgm silence t=4
+@date "8월 12일 (수) · 맑음"
+@textbox show
+방송이 끊긴 지 사흘째. 철거가 시작됐다.
+아침마다 굴착기가 빈집을 하나씩 무너뜨렸다. 기와가 깨지는 소리, 기둥이 부러지는 소리, 먼지가 가라앉는 소리.
+@se crash
+@shake amp=6 t=0.6
+윤슬이 있었다면, 이것도 녹음했을까. 몇 번째 소리라고, 수첩에 적었을까.
+윤슬은 보이지 않았다. 새벽 다섯 시에 창문을 두드리는 사람도 없었다. 분교 방송실 문에는 공단의 노란 봉인 스티커가 붙어 있었다.
+?(honest == 0) 나는 매일 파란 대문 앞에서 다섯 시를 기다렸다. 그 애는 오지 않았다. 당연했다. 거짓말한 건 나였으니까.
+?(honest == 1) 윤슬은 할아버지 댁에 틀어박혀 나오지 않는다고, 순자 할머니가 알려 주었다. 방송을 잃은 그 애에게 무슨 말을 해야 할지, 나는 알 수 없었다.
+귀에 이어폰을 꽂아 보았다. 노이즈 캔슬링이 세상을 지웠다.
+…조용했다. 그토록 좋아하던 조용함인데, 숨이 막혔다.
+이제는 알 것 같았다. 아무것도 안 듣는 척하는 건, 속이 제일 시끄러운 사람이 하는 짓이라는 거.
+
+// ------------------------------------------------------------ 아버지
+@scene room_night light=lamp
+@amb room night_far
+@bgm tape t=4 vol=0.6
+그날 밤, 아버지가 오랜만에 일찍 들어왔다. 씻고 나온 아버지의 손에는 두꺼운 앨범 하나가 들려 있었다.
+@show father casual sad at=center
+아버지(sad)<quiet, heavy>: …방송, 미안하다. 막을 수가 없었어. #fa0007
+한결: 아빠가 신고한 거 아니잖아.
+아버지(serious)<honest>: 아니지. 전파관리소 감시망에 걸린 거다. 공사 무전이랑 주파수가 가까워서. {w=0.3}그래도, 그 자리에서 아무 말도 못 한 건 나다. #fa0008
+아버지는 방바닥에 털썩 앉더니 앨범을 펼쳤다.
+@hide father t=0.5
+@cg cg_father_album t=2
+사진이었다. 낯선 마을들. 논, 학교, 정자나무, 버스 정류장. 사진마다 아래에 작은 글씨로 이름과 날짜가 적혀 있었다.
+아버지<soft, nostalgic>: 열일곱 개다. 내가 물에 잠기게 한 마을. #fa0009
+아버지<quiet>: 너 데리고 다닌 여섯 개도 여기 있어. 기억 나니? 이 학교. 네가 이 학교에서 딱 한 달 다녔지. #fa0010
+기억나지 않았다. 기억하지 않으려고 했으니까.
+한결: …이건 왜 찍어.
+아버지<tender, sad>: 사라지는 걸 막을 수는 없잖아. 내 일이 그거니까. #fa0011
+아버지<quiet conviction>: 그래도 기억하는 사람 하나는 있어야 하지 않겠냐. 여기 사람들이 살았다고. 여기서 웃고 울었다고. #fa0012
+윤슬과 똑같은 말이었다. 녹음기와 카메라. 방법만 다를 뿐.
+아버지<tired, looking at a photo>: 이 댐, 물이 다 차려면 사 년이 걸린다더라. 사 년 뒤면 소리실은 완전히 호수 밑이야. #fa0013
+아버지<regretful, very quietly>: 한결아. 처음 이사할 때 내가 했던 말. 정 붙이지 말라고. #fa0014
+아버지<voice breaking slightly>: 그거, 내가 한 말 중에 제일 후회하는 말이다. #fa0015
+아버지<earnest>: 정 붙여라. 떠날 때 아파도. {w=0.3}아픈 게, 아무것도 없는 것보단 낫더라. #fa0016
+@cg off t=1.5
+@show father casual smile at=center
+아버지(smile)<gentle, knowing>: …그 윤슬이라는 애. 라디오 잘 듣고 있었다. 현장 사람들도 다 들었어. 우리 현장 소장님도 몰래 들으시더라. #fa0017
+아버지(smile)<a small wink in his voice>: 송신기는 현장 사무소 창고에 있다. 버리진 않았어. {w=0.3}…그냥 그렇다고. #fa0018
+한결: 그 말을 왜 나한테 해.
+아버지(smile)<gentle>: 글쎄. 왜일까. #fa0019
+@hide father
+
+// ------------------------------------------------------------ 메아리 바위, 화해
+@scene echo_sunset light=sunset
+@amb wind
+@bgm stop
+@date "8월 16일 (일) · 해 질 녘"
+나흘 뒤. 해가 기울 무렵, 나는 뒷산을 올랐다. 소리실에서 제일 대답을 잘해 주는 곳.
+너럭바위 끝에 윤슬이 앉아 있었다. 녹음기를 무릎에 올려놓은 채로, 아무것도 녹음하지 않고.
+@show yunseul uniform_c sad at=center
+윤슬(sad)<surprised, quiet>: …어떻게 알았어. #ys0181
+한결: 네가 그랬잖아. 여기선 불렀는데 대답 안 해 주는 게 없다고.
+?(honest == 0) 한결: 거짓말해서 미안해. 아빠가 댐 만드는 거, 말하면 네가 날 싫어할 것 같았어. 그게 무서웠어.
+?(honest == 0) 윤슬(angry)<hurt, but tired of being angry>: …바보. 그런 걸로 싫어할 거면 처음부터 조수로 안 썼어. #ys0182
+?(honest == 0) 윤슬(sad)<quietly>: 싫었던 건, 네가 말 안 해 준 거야. 그거 하나. #ys0183
+?(honest == 1) 윤슬(sad)<small, tired>: 방송실 봉인됐더라. 엄마 테이프들도 전부 안에 있어. #ys0184
+?(honest == 1) 윤슬(sad): 나 그날 이후로 한 번도 녹음 안 했어. 녹음해 봐야 틀 데가 없잖아. #ys0185
+@expr yunseul sad
+윤슬(sad)<looking at the valley>: 봐. 개울 쪽 집들 다 부서졌어. 저기 최씨 할아버지 댁만 남았어. #ys0186
+노을 아래의 소리실은 이빨이 빠진 것처럼 듬성듬성했다.
+윤슬(cry)<whispering>: 백 개 못 채울 것 같아. 여든아홉 개에서 멈췄어. #ys0187
+@choice c5
+= 「네 방송, 계속 듣고 싶어.」 => *c5_listen ; aff += 1 ; listen = 1
+= 「…미안해. 아무것도 못 해서.」 => *c5_sorry
+= 말 대신, 골짜기를 향해 소리친다. => *c5_shout ; aff += 1 ; listen = 1
+
+*c5_listen
+한결: 네 방송, 계속 듣고 싶어.
+@expr yunseul surprised
+윤슬(surprised)<caught off guard>: …뭐? #ys0188
+한결: 처음 이사 온 날 밤, 라디오에서 네 목소리 들었어. 개울 소리. 그때 처음으로, 이어폰을 뺐어.
+한결: 난 소리 같은 거 안 들으려고 살았는데. 네 방송은 듣고 싶었어. {w=0.3}지금도.
+윤슬의 눈이 커졌다. 그리고 천천히, 젖어 들었다.
+@expr yunseul cry
+윤슬(cry)<laughing and crying>: …치사하다, 너. 그런 말을 이런 데서 하면. #ys0189
+@jump c5_after
+
+*c5_sorry
+한결: …미안해. 아무것도 못 해서.
+@expr yunseul gentle
+윤슬(gentle)<softly, shaking her head>: 네가 뭘 해. 우리 둘 다 열일곱인데. #ys0190
+윤슬(sad)<quiet>: 그래도 와 줘서… 좀 나아졌어. 여기 혼자 있으면 메아리밖에 대답을 안 하거든. #ys0191
+@jump c5_after
+
+*c5_shout
+나는 바위 끝으로 걸어가 두 손을 입가에 모았다. 한 번도 이렇게 큰 소리를 내 본 적이 없었다.
+한결: 나느으은— {w=0.3}여기가— {w=0.3}좋아졌어어어—!
+@wait 1.3
+…좋아졌어… 좋아졌어… 어….
+산이 세 번 대답했다. 목이 따가웠다. 얼굴이 뜨거운 건 노을 탓이라고 하기로 했다.
+@expr yunseul surprised
+윤슬(surprised)<stunned>: …너, 방금. #ys0192
+@expr yunseul laugh
+윤슬(laugh)<laughing through tears>: 아하하… 바보. 진짜 바보. 녹음기 안 켰는데. #ys0193
+윤슬(cry)<tearful, smiling>: …근데 괜찮아. 나 방금 거, 평생 안 잊어버릴 거니까. #ys0194
+@jump c5_after
+
+*c5_after
+@bgm echo t=3
+@expr yunseul gentle
+한참 동안 우리는 말없이 노을을 봤다. 해가 산 너머로 넘어갔다.
+@expr yunseul serious
+윤슬(serious)<resolute, quiet>: …마지막 방송, 하고 싶어. #ys0195
+윤슬(serious)<determined>: 이 마을 떠나는 마지막 날 밤. 8월 23일. 소리실 사람들 목소리 전부 모아서, 백 번째 소리까지 채워서. #ys0196
+윤슬(sad)<steadying herself>: 그리고… 엄마 테이프도, 그날 들을 거야. 방송으로. 다 같이. #ys0197
+윤슬(gentle)<a shy, determined smile>: 그러고 나서 내 손으로 88.3 끌래. 누가 빼앗아서 끝나는 거 말고. #ys0198
+한결: 송신기 없잖아.
+윤슬(pout)<stubborn>: 방법 찾을 거야. 벌금 나오면 내가 낼 거고. #ys0199
+나는 아버지의 말을 떠올렸다. 『송신기는 현장 사무소 창고에 있다.』
+한결: …방법, 있을지도 몰라.
+@expr yunseul smile
+윤슬(smile)<brightening>: 진짜? #ys0200
+한결: 장담은 못 해. 대신 목소리는 모으자. 할 수 있는 것부터.
+윤슬(laugh)<her old self returning>: 좋아! 조수, 복직 명령이야. 내일 새벽 다섯 시. #ys0201
+한결: 늦잠 여섯 시 아니었어?
+윤슬(laugh): 비상사태니까 다섯 시! #ys0202
+
+// ------------------------------------------------------------ 목소리 모으기
+@scene village_day light=day
+@amb cicada
+@bgm playful t=2
+@date "8월 17일 (월) — 8월 19일 (수)"
+그날부터 우리는 녹음기를 들고 남은 집을 전부 돌았다. 소리실 사람들에게, 소리실에 남길 말을 부탁했다.
+처음엔 다들 쑥스러워했다. 녹음기 빨간 불 앞에서 헛기침만 하다가, 결국은 한마디씩 남겼다.
+@show yunseul uniform_a smile at=center
+윤슬(smile)<cheerful interviewer voice>: 자, 최씨 할아버지. 소리실한테 한 말씀! #ys0203
+최씨<gruff old farmer, embarrassed>: 뭔 말을 혀, 소리실한테. {w=0.3}…에이, 그려. 잘 있어라, 이놈아. 칠십 년 동안 고마웠다. #ch0006
+윤슬(laugh)<delighted>: 됐어요! 구십 번! #ys0204
+@se paper
+하나, 또 하나. 수첩의 숫자가 늘어났다. 구십일, 구십이, 구십삼.
+밤이 되면 윤슬은 할아버지 댁 마루에서 녹음을 정리했다. 나는 옆에서 테이프에 번호를 붙였다.
+@scene room_night light=night
+@amb night_far rain t=3
+@bgm stop t=3
+19일 밤, 방에서 라디오를 켰다. 88.3 대신 다른 주파수에서 뉴스가 흘러나왔다.
+@se radio_tune
+@voicefx radio
+앵커<calm professional Korean news anchor, formal>: …제12호 태풍 「미리내」가 강한 세력을 유지한 채 북상하고 있습니다. 내일 밤 충청 내륙에 가장 근접할 것으로 보입니다. #an0001
+앵커<formal, serious>: 산간 지역에는 시간당 백 밀리미터 이상의 폭우가 예상되며, 계곡과 하천 주변 주민들은 각별히 주의하시기 바랍니다. #an0002
+@voicefx none
+창밖에서 빗방울이 굵어지고 있었다. 나는 라디오의 빨간 점을 보았다. 윤슬이 매니큐어로 찍어 둔, 88.3의 점.
+아랫말 어르신들 댁에도 같은 점이 찍힌 라디오가 있다.
+@jump ch6

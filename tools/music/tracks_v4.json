@@ -1,0 +1,14 @@
+[
+  {
+    "dir": "01c_title", "id": "title", "seed": 20264001, "instrumental": false,
+    "title": "Before the Summer Sinks (Main Theme, tag-only structure)",
+    "prompt": "Instrumental orchestral film soundtrack cue with no vocals, no singer, no choir. Nostalgic bittersweet summer main theme, 76 BPM, lead melody on solo piano, fingerpicked nylon guitar, warm string ensemble, light glockenspiel, spacious hall reverb, cinematic anime soundtrack",
+    "lyrics": "[Intro]\n\n[Instrumental]\n\n[Instrumental]\n\n[Bridge]\n\n[Instrumental]\n\n[Outro]"
+  },
+  {
+    "dir": "06b_fireflies", "id": "fireflies", "seed": 20264002, "instrumental": false,
+    "title": "Firefly Stream (tag-only structure)",
+    "prompt": "Instrumental dreamy ambient soundtrack cue with no vocals, no singer, no choir. Magical summer night by a stream full of fireflies, 70 BPM, celesta and music box melody, harp arpeggios, warm airy synth pads, soft string harmonics, tender and shimmering",
+    "lyrics": "[Intro]\n\n[Instrumental]\n\n[Instrumental]\n\n[Outro]"
+  }
+]

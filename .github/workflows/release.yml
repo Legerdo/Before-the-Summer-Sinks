@@ -1,0 +1,63 @@
+name: Package Windows release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  package:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout packaged build
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Build distribution archive
+        id: archive
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $source = 'release/SummerSinks-win32-x64'
+          if (-not (Test-Path "$source/SummerSinks.exe")) {
+            throw "Packaged executable not found: $source/SummerSinks.exe"
+          }
+
+          $version = if ($env:GITHUB_REF_TYPE -eq 'tag') { $env:GITHUB_REF_NAME } else { "manual-$env:GITHUB_RUN_NUMBER" }
+          $zip = "SummerSinks-$version-win-x64.zip"
+          Compress-Archive -Path "$source/*" -DestinationPath $zip -CompressionLevel Optimal -Force
+
+          $hash = (Get-FileHash $zip -Algorithm SHA256).Hash.ToLowerInvariant()
+          "$hash  $zip" | Set-Content "$zip.sha256" -Encoding ascii
+
+          "zip=$zip" >> $env:GITHUB_OUTPUT
+          "checksum=$zip.sha256" >> $env:GITHUB_OUTPUT
+
+      - name: Publish GitHub Release
+        if: github.ref_type == 'tag'
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $zip = '${{ steps.archive.outputs.zip }}'
+          $checksum = '${{ steps.archive.outputs.checksum }}'
+          if (gh release view $env:GITHUB_REF_NAME 2>$null) {
+            gh release upload $env:GITHUB_REF_NAME $zip $checksum --clobber
+          } else {
+            gh release create $env:GITHUB_REF_NAME $zip $checksum --title $env:GITHUB_REF_NAME --generate-notes
+          }
+
+      - name: Keep manual archive as workflow artifact
+        if: github.ref_type != 'tag'
+        uses: actions/upload-artifact@v4
+        with:
+          name: SummerSinks-win-x64
+          path: |
+            ${{ steps.archive.outputs.zip }}
+            ${{ steps.archive.outputs.checksum }}
+          if-no-files-found: error

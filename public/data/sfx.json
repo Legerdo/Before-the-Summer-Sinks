@@ -1,0 +1,210 @@
+{
+ "amb": {
+  "cicada": {
+   "src": "audio/amb/cicada.ogg",
+   "vol": 1.0
+  },
+  "cicada_far": {
+   "src": "audio/amb/cicada_far.ogg",
+   "vol": 1.0
+  },
+  "stream": {
+   "src": "audio/amb/stream.ogg",
+   "vol": 1.0
+  },
+  "lake": {
+   "src": "audio/amb/lake.ogg",
+   "vol": 1.0
+  },
+  "night": {
+   "src": "audio/amb/night.ogg",
+   "vol": 1.0
+  },
+  "night_far": {
+   "src": "audio/amb/night_far.ogg",
+   "vol": 1.0
+  },
+  "rain": {
+   "src": "audio/amb/rain.ogg",
+   "vol": 1.0
+  },
+  "storm": {
+   "src": "audio/amb/storm.ogg",
+   "vol": 1.0
+  },
+  "wind": {
+   "src": "audio/amb/wind.ogg",
+   "vol": 1.0
+  },
+  "room": {
+   "src": "audio/amb/room.ogg",
+   "vol": 1.0
+  },
+  "equipment": {
+   "src": "audio/amb/equipment.ogg",
+   "vol": 1.0
+  },
+  "static": {
+   "src": "audio/amb/static.ogg",
+   "vol": 0.8
+  },
+  "tape_hiss": {
+   "src": "audio/amb/tape_hiss.ogg",
+   "vol": 1.0
+  },
+  "demolish": {
+   "src": "audio/amb/demolish.ogg",
+   "vol": 1.0
+  },
+  "city": {
+   "src": "audio/amb/city.ogg",
+   "vol": 1.0
+  },
+  "hall": {
+   "src": "audio/amb/hall.ogg",
+   "vol": 1.0
+  }
+ },
+ "se": {
+  "radio_tune": {
+   "src": "audio/se/radio_tune.ogg",
+   "vol": 0.8
+  },
+  "static_burst": {
+   "src": "audio/se/static_burst.ogg",
+   "vol": 0.7
+  },
+  "feedback": {
+   "src": "audio/se/feedback.ogg",
+   "vol": 0.6
+  },
+  "mic_tap": {
+   "src": "audio/se/mic_tap.ogg",
+   "vol": 0.8
+  },
+  "tape_insert": {
+   "src": "audio/se/tape_insert.ogg",
+   "vol": 0.9
+  },
+  "tape_play": {
+   "src": "audio/se/tape_play.ogg",
+   "vol": 0.9
+  },
+  "tape_stop": {
+   "src": "audio/se/tape_stop.ogg",
+   "vol": 0.9
+  },
+  "tape_rewind": {
+   "src": "audio/se/tape_rewind.ogg",
+   "vol": 0.8
+  },
+  "switch": {
+   "src": "audio/se/switch.ogg",
+   "vol": 0.8
+  },
+  "door_slide": {
+   "src": "audio/se/door_slide.ogg",
+   "vol": 0.8
+  },
+  "knock": {
+   "src": "audio/se/knock.ogg",
+   "vol": 0.8
+  },
+  "footsteps": {
+   "src": "audio/se/footsteps.ogg",
+   "vol": 0.7
+  },
+  "footsteps_run": {
+   "src": "audio/se/footsteps_run.ogg",
+   "vol": 0.7
+  },
+  "splash": {
+   "src": "audio/se/splash.ogg",
+   "vol": 0.8
+  },
+  "phone_ring": {
+   "src": "audio/se/phone_ring.ogg",
+   "vol": 0.7
+  },
+  "pickup": {
+   "src": "audio/se/pickup.ogg",
+   "vol": 0.8
+  },
+  "thunder": {
+   "src": "audio/se/thunder.ogg",
+   "vol": 1.0
+  },
+  "thunder_close": {
+   "src": "audio/se/thunder_close.ogg",
+   "vol": 1.0
+  },
+  "school_bell": {
+   "src": "audio/se/school_bell.ogg",
+   "vol": 0.7
+  },
+  "chime": {
+   "src": "audio/se/chime.ogg",
+   "vol": 0.7
+  },
+  "heartbeat": {
+   "src": "audio/se/heartbeat.ogg",
+   "vol": 0.9
+  },
+  "bus_arrive": {
+   "src": "audio/se/bus_arrive.ogg",
+   "vol": 0.8
+  },
+  "bus_leave": {
+   "src": "audio/se/bus_leave.ogg",
+   "vol": 0.8
+  },
+  "soda": {
+   "src": "audio/se/soda.ogg",
+   "vol": 0.8
+  },
+  "power_down": {
+   "src": "audio/se/power_down.ogg",
+   "vol": 0.9
+  },
+  "power_up": {
+   "src": "audio/se/power_up.ogg",
+   "vol": 0.9
+  },
+  "paper": {
+   "src": "audio/se/paper.ogg",
+   "vol": 0.7
+  },
+  "crash": {
+   "src": "audio/se/crash.ogg",
+   "vol": 0.9
+  },
+  "ui_hover": {
+   "src": "audio/se/ui_hover.ogg",
+   "vol": 0.6
+  },
+  "ui_click": {
+   "src": "audio/se/ui_click.ogg",
+   "vol": 0.8
+  },
+  "ui_confirm": {
+   "src": "audio/se/ui_confirm.ogg",
+   "vol": 0.8
+  },
+  "ui_cancel": {
+   "src": "audio/se/ui_cancel.ogg",
+   "vol": 0.8
+  },
+  "ui_choice": {
+   "src": "audio/se/ui_choice.ogg",
+   "vol": 0.8
+  },
+  "ui_save": {
+   "src": "audio/se/ui_save.ogg",
+   "vol": 0.8
+  },
+  "ui_tick": {
+   "src": "audio/se/ui_tick.ogg",
+   "vol": 0.7
+  }
+ }
+}

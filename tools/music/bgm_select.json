@@ -1,0 +1,16 @@
+{
+  "title": {"dir": "01_title", "stem": "no_vocals", "loop": true, "title": "여름이 가라앉기 전에", "min_body": 120},
+  "village": {"dir": "02_village", "stem": "no_vocals", "loop": true, "mode": "full", "title": "소리실의 아침"},
+  "radio": {"dir": "03b_radio", "stem": "no_vocals", "loop": true, "title": "88.3MHz", "min_body": 100},
+  "tape": {"dir": "04b_tape", "stem": "no_vocals", "loop": true, "mode": "full", "title": "테이프 속의 목소리"},
+  "playful": {"dir": "05_playful", "stem": "no_vocals", "loop": true, "title": "철새와 조수", "min_body": 55},
+  "fireflies": {"dir": "06_fireflies", "stem": "no_vocals", "loop": true, "title": "반딧불 개울", "min_body": 100},
+  "tension": {"dir": "07_tension", "stem": "no_vocals", "loop": true, "title": "물이 차오른다", "min_body": 120},
+  "storm": {"dir": "08_storm", "stem": "no_vocals", "loop": true, "title": "태풍의 밤", "min_body": 110},
+  "echo": {"dir": "09b_echo", "stem": "no_vocals", "loop": true, "title": "메아리", "min_body": 110},
+  "lastbroadcast": {"dir": "10_lastbroadcast", "stem": "no_vocals", "loop": true, "mode": "full", "title": "마지막 방송"},
+  "silence": {"dir": "11_silence", "stem": "no_vocals", "loop": true, "mode": "full", "title": "무음"},
+  "lake": {"dir": "12b_lake", "stem": "no_vocals", "loop": true, "title": "호수의 윤슬", "min_body": 90},
+  "afterimage": {"dir": "13_afterimage", "stem": "no_vocals", "loop": true, "title": "잔향", "min_body": 120},
+  "theme_song": {"dir": "14_theme_song", "stem": "source", "loop": false, "title": "윤슬 (Ending Theme)", "lufs": -16}
+}

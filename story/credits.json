@@ -1,0 +1,14 @@
+{
+  "title": "여름이 가라앉기 전에",
+  "subtitle": "Before the Summer Sinks",
+  "sections": [
+    { "h": "등장인물", "lines": ["하윤슬", "서한결", "김봉순 할머니", "서정훈", "강여름 (테이프 속 목소리)", "박만복 이장 (테이프 속 목소리)", "소리실 주민 여러분"] },
+    { "h": "시나리오 · 연출 · 프로그래밍", "lines": ["Kiro"] },
+    { "h": "캐릭터 · 배경 · 이벤트 CG", "lines": ["Codex image_gen 기반 생성 · 합성 파이프라인"] },
+    { "h": "음성", "lines": ["Fish Audio TTS (s2.1-pro)", "립싱크 · 음성 연출 Kiro"] },
+    { "h": "음악", "lines": ["HOT-Step YuE2 (로컬 생성)", "보컬 분리 Demucs · 루프 편집 Kiro", "엔딩 테마 「윤슬」"] },
+    { "h": "환경음 · 효과음", "lines": ["절차적 합성 (Kiro)"] },
+    { "h": "글꼴", "lines": ["Gowun Batang · Gowun Dodum (SIL OFL)", "Nanum Pen Script (SIL OFL)"] }
+  ],
+  "outro": ["소리는 사라지지 않는다.", "누군가 기억하는 한."]
+}

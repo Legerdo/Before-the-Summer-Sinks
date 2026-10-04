@@ -1,0 +1,73 @@
+[
+  {
+    "dir": "01_title", "id": "title", "seed": 20260930, "instrumental": true,
+    "title": "Before the Summer Sinks (Main Theme)",
+    "prompt": "Instrumental cinematic anime film score, nostalgic and bittersweet summer main theme, 76 BPM, gentle solo piano carrying a clear memorable melody, warm fingerpicked acoustic guitar, soft string ensemble swells, light glockenspiel sparkles, spacious hall reverb, emotional but restrained, Japanese visual novel title screen music, slow build and calm resolution, no vocals"
+  },
+  {
+    "dir": "02_village", "id": "village", "seed": 20261031, "instrumental": true,
+    "title": "Sorisil Morning",
+    "prompt": "Instrumental acoustic slice-of-life anime background music, bright carefree countryside summer morning, 100 BPM, fingerpicked acoustic guitar and ukulele carrying a cheerful melody, soft wooden flute, glockenspiel, light shaker and brushed cajon, warm and relaxed, cozy daily life visual novel BGM, steady loop-friendly groove, no vocals"
+  },
+  {
+    "dir": "03_radio", "id": "radio", "seed": 20261132, "instrumental": true,
+    "title": "88.3MHz",
+    "prompt": "Instrumental lo-fi chillhop, late-night pirate radio station atmosphere, 80 BPM, warm Rhodes electric piano chords carrying the melody, soft dusty boom-bap drums, mellow upright bass, subtle vinyl crackle and tape saturation, intimate and cozy summer night, relaxing visual novel night scene BGM, no vocals"
+  },
+  {
+    "dir": "04_tape", "id": "tape", "seed": 20261233, "instrumental": true,
+    "title": "Voice on the Tape",
+    "prompt": "Instrumental solo piano, melancholic and tender, 64 BPM, slow expressive felt piano with soft sustain pedal, sparse gentle left-hand chords, quiet room reverb, grief and fond memories of a lost mother, intimate emotional visual novel scene music, no vocals"
+  },
+  {
+    "dir": "05_playful", "id": "playful", "seed": 20261334, "instrumental": true,
+    "title": "Migratory Bird and the Assistant",
+    "prompt": "Instrumental comedic slice-of-life anime background music, playful and mischievous, 116 BPM, bouncy pizzicato strings, clarinet and bassoon trading a cheeky melody, marimba, light snare and finger snaps, whimsical teasing mood, lighthearted visual novel comedy scene BGM, no vocals"
+  },
+  {
+    "dir": "06_fireflies", "id": "fireflies", "seed": 20261435, "instrumental": true,
+    "title": "Firefly Stream",
+    "prompt": "Instrumental dreamy ambient anime score, magical summer night by a stream full of fireflies, 70 BPM, celesta and music box melody, harp arpeggios, warm airy synth pads, soft string harmonics, tender first love feeling, delicate and shimmering, visual novel romantic night scene, no vocals"
+  },
+  {
+    "dir": "07_tension", "id": "tension", "seed": 20261536, "instrumental": true,
+    "title": "Rising Water",
+    "prompt": "Instrumental dark ambient tension underscore, 70 BPM, low sustained cello and double bass drones, soft pulsing synth ostinato, sparse dissonant piano notes, subtle ticking percussion, uneasy and suspenseful but restrained, conflict and bad news scene in a visual novel, no vocals"
+  },
+  {
+    "dir": "08_storm", "id": "storm", "seed": 20261637, "instrumental": true,
+    "title": "Typhoon Night",
+    "prompt": "Instrumental epic cinematic orchestral score, emergency rescue during a typhoon at night, 140 BPM, urgent driving string ostinato, pounding taiko and timpani, brass swells, racing piano, heroic determination and desperate urgency, intense anime climax music, no vocals"
+  },
+  {
+    "dir": "09_echo", "id": "echo", "seed": 20261738, "instrumental": true,
+    "title": "Echo",
+    "prompt": "Instrumental warm hopeful acoustic ballad, reconciliation at sunset on a mountain ridge, 84 BPM, acoustic guitar and piano duet carrying a gentle melody, soft cello countermelody, light brushed percussion entering later, heartfelt and healing, anime slice-of-life emotional turning point BGM, no vocals"
+  },
+  {
+    "dir": "10_lastbroadcast", "id": "lastbroadcast", "seed": 20261839, "instrumental": true,
+    "title": "The Last Broadcast",
+    "prompt": "Instrumental emotional cinematic piano and string orchestra, farewell and gratitude, 72 BPM, solo piano introduction carrying a bittersweet melody, strings gradually swelling, soft choir pad, building to a moving full orchestral climax then a calm ending, tearjerker visual novel climax, no vocals"
+  },
+  {
+    "dir": "11_silence", "id": "silence", "seed": 20261940, "instrumental": true,
+    "title": "Afterglow Silence",
+    "prompt": "Instrumental minimal ambient, lonely emptiness after something has ended, 60 BPM, sparse soft piano notes with long reverb tails, faint warm drone pad, distant bowed vibraphone, very quiet and slow, space and silence, visual novel quiet sorrow scene, no vocals"
+  },
+  {
+    "dir": "12_lake", "id": "lake", "seed": 20262041, "instrumental": true,
+    "title": "Glitter on the Lake",
+    "prompt": "Instrumental warm hopeful reprise of a nostalgic summer main theme, a bright lake four years later, 82 BPM, acoustic guitar and piano melody, light strings, gentle glockenspiel, reunion and a new beginning, uplifting but gentle anime epilogue music, no vocals"
+  },
+  {
+    "dir": "13_afterimage", "id": "afterimage", "seed": 20262142, "instrumental": true,
+    "title": "Reverberation",
+    "prompt": "Instrumental melancholic lo-fi piano, quiet city night four years later, 72 BPM, soft piano melody through a warm tape filter, faint radio static texture, gentle muted beat, bittersweet longing, visual novel ending music, no vocals"
+  },
+  {
+    "dir": "14_theme_song", "id": "theme_song", "seed": 20262243, "instrumental": false,
+    "title": "윤슬 (Ending Theme)",
+    "prompt": "Emotional Korean anime ending theme ballad, 78 BPM, clear gentle young female vocal singing only the provided Korean lyrics in Korean, piano and acoustic guitar intro, soft band with bass and light drums, string section in the chorus, bittersweet summer nostalgia, heartfelt and hopeful, polished J-pop ballad production",
+    "lyrics": "[Verse]\n물에 잠길 여름을 녹음기에 담았어\n매미 소리 개울 소리 너의 웃음까지\n안녕이란 말 대신 주파수를 맞추면\n오늘 밤도 여기서 너를 부를게\n\n[Pre-Chorus]\n사라지는 게 아니야\n누군가 기억하는 한\n\n[Chorus]\n윤슬처럼 반짝이던 그 여름\n잘 가 대신 다녀와 라고 말할게\n물결 아래 잠든 우리의 마을도\n네 목소리로 다시 깨어날 거야\n\n[Verse]\n메아리 없는 호숫가에 서 있어도\n대답해 줄 사람이 있다는 걸 알아\n\n[Chorus]\n윤슬처럼 반짝이던 그 여름\n잘 가 대신 다녀와 라고 말할게\n다시 만날 계절이 오면\n어서 와 하고 웃어 줄게\n\n[Outro]\n다녀와 그리고 어서 와"
+  }
+]

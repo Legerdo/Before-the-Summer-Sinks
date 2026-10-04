@@ -1,0 +1,151 @@
+{
+ "bg": {
+  "bcroom_day": {
+   "src": "assets/bg/bcroom_day.webp"
+  },
+  "bcroom_night": {
+   "src": "assets/bg/bcroom_night.webp"
+  },
+  "bcroom_storm": {
+   "src": "assets/bg/bcroom_storm.webp"
+  },
+  "busstop_day": {
+   "src": "assets/bg/busstop_day.webp"
+  },
+  "busstop_evening": {
+   "src": "assets/bg/busstop_evening.webp"
+  },
+  "ceremony_day": {
+   "src": "assets/bg/ceremony_day.webp"
+  },
+  "city_night": {
+   "src": "assets/bg/city_night.webp"
+  },
+  "dam_day": {
+   "src": "assets/bg/dam_day.webp"
+  },
+  "demolish_day": {
+   "src": "assets/bg/demolish_day.webp"
+  },
+  "echo_sunset": {
+   "src": "assets/bg/echo_sunset.webp"
+  },
+  "hall_day": {
+   "src": "assets/bg/hall_day.webp"
+  },
+  "lake_day": {
+   "src": "assets/bg/lake_day.webp"
+  },
+  "path_night": {
+   "src": "assets/bg/path_night.webp"
+  },
+  "room_day": {
+   "src": "assets/bg/room_day.webp"
+  },
+  "room_night": {
+   "src": "assets/bg/room_night.webp"
+  },
+  "school_day": {
+   "src": "assets/bg/school_day.webp"
+  },
+  "school_night": {
+   "src": "assets/bg/school_night.webp"
+  },
+  "store_day": {
+   "src": "assets/bg/store_day.webp"
+  },
+  "store_night": {
+   "src": "assets/bg/store_night.webp"
+  },
+  "storm_night": {
+   "src": "assets/bg/storm_night.webp"
+  },
+  "stream_day": {
+   "src": "assets/bg/stream_day.webp"
+  },
+  "stream_night": {
+   "src": "assets/bg/stream_night.webp"
+  },
+  "tree_day": {
+   "src": "assets/bg/tree_day.webp"
+  },
+  "village_day": {
+   "src": "assets/bg/village_day.webp"
+  },
+  "village_evening": {
+   "src": "assets/bg/village_evening.webp"
+  }
+ },
+ "cg": {
+  "cg_bongsun_radio": {
+   "src": "assets/cg/cg_bongsun_radio.webp",
+   "thumb": "assets/cg/thumb/cg_bongsun_radio.webp",
+   "title": "칼국수 남겨 놔"
+  },
+  "cg_broadcast": {
+   "src": "assets/cg/cg_broadcast.webp",
+   "thumb": "assets/cg/thumb/cg_broadcast.webp",
+   "title": "88.3MHz"
+  },
+  "cg_dawn": {
+   "src": "assets/cg/cg_dawn.webp",
+   "thumb": "assets/cg/thumb/cg_dawn.webp",
+   "title": "새벽"
+  },
+  "cg_echo": {
+   "src": "assets/cg/cg_echo.webp",
+   "thumb": "assets/cg/thumb/cg_echo.webp",
+   "title": "메아리"
+  },
+  "cg_father_album": {
+   "src": "assets/cg/cg_father_album.webp",
+   "thumb": "assets/cg/thumb/cg_father_album.webp",
+   "title": "열일곱 개의 마을"
+  },
+  "cg_fireflies": {
+   "src": "assets/cg/cg_fireflies.webp",
+   "thumb": "assets/cg/thumb/cg_fireflies.webp",
+   "title": "반딧불 개울"
+  },
+  "cg_last_broadcast": {
+   "src": "assets/cg/cg_last_broadcast.webp",
+   "thumb": "assets/cg/thumb/cg_last_broadcast.webp",
+   "title": "마지막 방송"
+  },
+  "cg_meet": {
+   "src": "assets/cg/cg_meet.webp",
+   "thumb": "assets/cg/thumb/cg_meet.webp",
+   "title": "쉿!"
+  },
+  "cg_mother_tape": {
+   "src": "assets/cg/cg_mother_tape.webp",
+   "thumb": "assets/cg/thumb/cg_mother_tape.webp",
+   "title": "마지막 테이프"
+  },
+  "cg_normal_end": {
+   "src": "assets/cg/cg_normal_end.webp",
+   "thumb": "assets/cg/thumb/cg_normal_end.webp",
+   "title": "잔향"
+  },
+  "cg_storm": {
+   "src": "assets/cg/cg_storm.webp",
+   "thumb": "assets/cg/thumb/cg_storm.webp",
+   "title": "태풍의 밤"
+  },
+  "cg_tape_repair": {
+   "src": "assets/cg/cg_tape_repair.webp",
+   "thumb": "assets/cg/thumb/cg_tape_repair.webp",
+   "title": "늘어진 테이프"
+  },
+  "cg_title": {
+   "src": "assets/cg/cg_title.webp",
+   "thumb": "assets/cg/thumb/cg_title.webp",
+   "title": "타이틀"
+  },
+  "cg_true_end": {
+   "src": "assets/cg/cg_true_end.webp",
+   "thumb": "assets/cg/thumb/cg_true_end.webp",
+   "title": "윤슬"
+  }
+ }
+}
